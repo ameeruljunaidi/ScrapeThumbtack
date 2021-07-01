@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -13,7 +14,7 @@ PATH = f"{os.getcwd()}/selenium/chromedriver"
 driver = webdriver.Chrome(PATH)
 driver.get("https://www.thumbtack.com/more-services")
 
-servicePlaceHolder = "DJ"
+servicePlaceHolder = "Lawn Mowing and Trimming"
 zipCodePlaceHolder = "95814"
 
 link = driver.find_element_by_link_text(servicePlaceHolder)
@@ -62,5 +63,3 @@ try:
     dfServicesProvided.to_csv("data/services_database.csv", index=False)
 except:
     pass
-
-driver.quit()
