@@ -60,22 +60,29 @@ try:
         )
     )
 
-    for service in serviceProvider:
-        listServiceProvider.append(service.text)
-
-    for service in serviceRating:
-        listServiceRating.append(service.text)
-
-    dictServicesProvided = {
-        "Service": listServiceProvider,
-        "Rating": listServiceRating,
-        "Type": servicePlaceHolder,
-        "Zip Code": zipCodePlaceHolder,
-    }
-
-    dfServicesProvided = pd.DataFrame(dictServicesProvided)
-    dfServicesProvided.to_csv("data/services_database.csv", index=False)
 except:
     pass
 
-# TODO: Get more zipcodes
+for service in serviceProvider:
+    listServiceProvider.append(service.text)
+
+for service in serviceRating:
+    listServiceRating.append(service.text)
+
+# dictServicesProvided = {
+#     "Service": listServiceProvider,
+#     "Rating": listServiceRating,
+#     "Type": servicePlaceHolder,
+#     "Zip Code": zipCodePlaceHolder,
+# }
+
+# dfServicesProvided = pd.DataFrame(dictServicesProvided)
+# dfServicesProvided.to_csv("data/services_database.csv", index=False)
+
+
+# driver.quit()
+
+print(len(listServiceProvider))
+print(listServiceProvider)
+print(len(listServiceRating))
+print(listServiceRating)
