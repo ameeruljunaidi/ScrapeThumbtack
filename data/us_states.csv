@@ -1,60 +1,101 @@
 ﻿Capital City,State,Abbreviation,Representative ZIP Code
 Montgomery,Alabama,AL,36104
+Birmingham,Alabama,AL,35210
 Juneau,Alaska,AK,99801
+Anchorage,Alaska,AK,99501
 Phoenix,Arizona,AZ,85001
 Little Rock,Arkansas,AR,72201
 Sacramento,California,CA,95814
+Los Angeles,California,CA,90013
+San Diego,California,CA,92101
+San Jose,California,CA,95112
+San Francisco,California,CA,94108
 Denver,Colorado,CO,80202
-Hartford,Connecticut,CT,6103
+Hartford,Connecticut,CT,06103
+Bridgeport,Connecticut,CT,06604
 Dover,Delaware,DE,19901
+Wilmington,Delaware,DE,19850
 Tallahassee,Florida,FL,32301
+Jacksonville,Florida,FL,32202
+Miami,Florida,FL,33132
+Tampa,Florida,FL,33602
 Atlanta,Georgia,GA,30303
 Honolulu,Hawaii,HI,96813
 Boise,Idaho,ID,83702
 Springfield,Illinois,IL,62701
+Chicago,Illinois,IL,60176
 Indianapolis,Indiana,IN,46225
 Des Moines,Iowa,IA,50309
 Topeka,Kansas,KS,66603
+Wichita,Kansas,KS,67052
 Frankfort,Kentucky,KY,40601
+Lexington,Kentucky,KY,40507
 Baton Rouge,Louisiana,LA,70802
-Augusta,Maine,ME,4330
+New Orleans,Louisiana,LA,70114
+Augusta,Maine,ME,04330
+Portland,Maine,ME,04101
 Annapolis,Maryland,MD,21401
-Boston,Massachusetts,MA,2201
+Baltimore,Maryland,MD,21202
+Boston,Massachusetts,MA,02201
 Lansing,Michigan,MI,48933
+Detroit,Michigan,MI,48226
 St. Paul,Minnesota,MN,55102
+Minneapolis,Minnesota,MN,55404
 Jackson,Mississippi,MS,39205
 Jefferson City,Missouri,MO,65101
+Kansas City,Missouri,MO,64105
 Helena,Montana,MT,59623
+Billings,Montana,MT,05101
 Lincoln,Nebraska,NE,68502
+Omaha,Nebraska,NE,68102
 Carson City,Nevada,NV,89701
-Concord,New Hampshire,NH,3301
-Trenton,New Jersey,NJ,8608
+Las Vegas,Nevada,NV,89101
+Concord,New Hampshire,NH,03301
+Manchester,New Hampshire,NH,03108
+Trenton,New Jersey,NJ,08608
+Newark,New Jersey,NJ,07102
 Santa Fe,New Mexico,NM,87501
+Albuquerque,New Mexico,NM,87102
 Albany,New York,NY,12207
+New York City,New York,NY,10007
+Great Neck (NYC Suburb),New York,NY,11021
 Raleigh,North Carolina,NC,27601
+Charlotte,North Carolina,NC,28105
 Bismarck,North Dakota,ND,58501
+Fargo,North Dakota,ND,58102
 Columbus,Ohio,OH,43215
 Oklahoma City,Oklahoma,OK,73102
 Salem,Oregon,OR,97301
+Portland,Oregon,OR,97201
 "Harrisburg,",Pennsylvania,PA,17101
-Providence,Rhode Island,RI,2903
+Philadelphia,Pennsylvania,PA,19103
+Providence,Rhode Island,RI,02903
 Columbia,South Carolina,SC,29217
 Pierre,South Dakota,SD,57501
+Sioux Falls,South Dakota,SD,57103
 Nashville,Tennessee,TN,37219
 Austin,Texas,TX,78701
+Houston,Texas,TX,77002
+San Antonio,Texas,TX,78207
+Dallas,Texas,TX,75207
 Salt Lake City,Utah,UT,84111
-Montpelier,Vermont,VT,5602
+Montpelier,Vermont,VT,05602
+Burlington,Vermont,VT,05401
 Richmond,Virginia,VA,23219
+Virginia Beach,Virginia,VA,23454
 Olympia,Washington,WA,98507
+Seattle,Washington,WA,98105
 Charleston,West Virginia,WV,25301
 Madison,Wisconsin,WI,53703
+Milwaukee,Wisconsin,WI,53205
 Cheyenne,Wyoming,WY,82001
 Pago Pago,American Samoa,AS,96799
 Washington,District of Columbia,DC,20001
 Kolonia,Federated States of Micronesia,FM,96941
 Agana (Hagåtña),Guam,GU,96910
+Dededo village,Guam,GU,96912
 Majuro,Marshall Islands,MH,96960
 Saipan,Northern Mariana Islands,MP,96950
 Melekeok,Palau,PW,96939
-San Juan,Puerto Rico,PR,901
-Charlotte Amalie,Virgin Islands,VI,802
+San Juan,Puerto Rico,PR,00901
+Charlotte Amalie,Virgin Islands,VI,00802
