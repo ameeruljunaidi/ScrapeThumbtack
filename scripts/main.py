@@ -78,4 +78,6 @@ try:
 except:
     pass
 
+driver.quit()
+
 # TODO: Get more zipcodes

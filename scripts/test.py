@@ -54,7 +54,7 @@ try:
     serviceRating = WebDriverWait(driver, 3).until(
         EC.presence_of_all_elements_located(
             (
-                By.XPATH,
+                By.ID,
                 "//*[@data-test]/div//div[1]//div[2]/div[1]/div/div/div/div[1]",
             )
         )
