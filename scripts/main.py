@@ -13,11 +13,14 @@ PATH = f"{os.getcwd()}/selenium/chromedriver"
 driver = webdriver.Chrome(PATH)
 driver.get("https://www.thumbtack.com/more-services")
 
-link = driver.find_element_by_link_text("DJ")
+servicePlaceHolder = "DJ"
+zipCodePlaceHolder = "95814"
+
+link = driver.find_element_by_link_text(servicePlaceHolder)
 link.click()
 
 enterZipCode = driver.find_element_by_name("zip_code")
-enterZipCode.send_keys("95814")
+enterZipCode.send_keys(zipCodePlaceHolder)
 enterZipCode.send_keys(Keys.RETURN)
 
 try:
@@ -49,7 +52,11 @@ try:
     for service in serviceProvider:
         listServiceProvider.append(service.text)
 
-    dictServicesProvided = {"Service": listServiceProvider, "Type": "DJ"}
+    dictServicesProvided = {
+        "Service": listServiceProvider,
+        "Type": servicePlaceHolder,
+        "Zip Code": zipCodePlaceHolder,
+    }
 
     dfServicesProvided = pd.DataFrame(dictServicesProvided)
     dfServicesProvided.to_csv("data/services_database.csv", index=False)
