@@ -1,4 +1,4 @@
-﻿Capital City,State,Abbreviation,Representative ZIP Code
+Capital City,State,Abbreviation,Representative ZIP Code
 Montgomery,Alabama,AL,36104
 Birmingham,Alabama,AL,35210
 Juneau,Alaska,AK,99801
@@ -11,8 +11,8 @@ San Diego,California,CA,92101
 San Jose,California,CA,95112
 San Francisco,California,CA,94108
 Denver,Colorado,CO,80202
-Hartford,Connecticut,CT,6103
-Bridgeport,Connecticut,CT,6604
+Hartford,Connecticut,CT,06103
+Bridgeport,Connecticut,CT,06604
 Dover,Delaware,DE,19901
 Wilmington,Delaware,DE,19850
 Tallahassee,Florida,FL,32301
@@ -32,11 +32,11 @@ Frankfort,Kentucky,KY,40601
 Lexington,Kentucky,KY,40507
 Baton Rouge,Louisiana,LA,70802
 New Orleans,Louisiana,LA,70114
-Augusta,Maine,ME,4330
-Portland,Maine,ME,4101
+Augusta,Maine,ME,04330
+Portland,Maine,ME,04101
 Annapolis,Maryland,MD,21401
 Baltimore,Maryland,MD,21202
-Boston,Massachusetts,MA,2201
+Boston,Massachusetts,MA,02201
 Lansing,Michigan,MI,48933
 Detroit,Michigan,MI,48226
 St. Paul,Minnesota,MN,55102
@@ -50,10 +50,10 @@ Lincoln,Nebraska,NE,68502
 Omaha,Nebraska,NE,68102
 Carson City,Nevada,NV,89701
 Las Vegas,Nevada,NV,89101
-Concord,New Hampshire,NH,3301
-Manchester,New Hampshire,NH,3108
-Trenton,New Jersey,NJ,8608
-Newark,New Jersey,NJ,7102
+Concord,New Hampshire,NH,03301
+Manchester,New Hampshire,NH,03108
+Trenton,New Jersey,NJ,08608
+Newark,New Jersey,NJ,07102
 Santa Fe,New Mexico,NM,87501
 Albuquerque,New Mexico,NM,87102
 Albany,New York,NY,12207
@@ -69,7 +69,7 @@ Salem,Oregon,OR,97301
 Portland,Oregon,OR,97201
 "Harrisburg,",Pennsylvania,PA,17101
 Philadelphia,Pennsylvania,PA,19103
-Providence,Rhode Island,RI,2903
+Providence,Rhode Island,RI,02903
 Columbia,South Carolina,SC,29217
 Pierre,South Dakota,SD,57501
 Sioux Falls,South Dakota,SD,57103
@@ -79,8 +79,8 @@ Houston,Texas,TX,77002
 San Antonio,Texas,TX,78207
 Dallas,Texas,TX,75207
 Salt Lake City,Utah,UT,84111
-Montpelier,Vermont,VT,5602
-Burlington,Vermont,VT,5401
+Montpelier,Vermont,VT,05602
+Burlington,Vermont,VT,05401
 Richmond,Virginia,VA,23219
 Virginia Beach,Virginia,VA,23454
 Olympia,Washington,WA,98507
@@ -97,5 +97,5 @@ Dededo village,Guam,GU,96912
 Majuro,Marshall Islands,MH,96960
 Saipan,Northern Mariana Islands,MP,96950
 Melekeok,Palau,PW,96939
-San Juan,Puerto Rico,PR,901
-Charlotte Amalie,Virgin Islands,VI,802
+San Juan,Puerto Rico,PR,00901
+Charlotte Amalie,Virgin Islands,VI,00802
