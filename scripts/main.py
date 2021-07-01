@@ -12,14 +12,30 @@ PATH = f"{os.getcwd()}/selenium/chromedriver"
 driver = webdriver.Chrome(PATH)
 driver.get("https://www.thumbtack.com/more-services")
 
-# try:
-#     element = WebDriverWait(driver, 10).until(
-#         EC.presence_of_element_located((By.LINK_TEXT, "House Cleaning"))
-#     )
-#     element.click()
-# except:
-#     driver.quit()
+link = driver.find_element_by_link_text("Personal Training")
+link.click()
 
+enterZipCode = driver.find_element_by_name("zip_code")
+enterZipCode.send_keys("95814")
+enterZipCode.send_keys(Keys.RETURN)
+
+listServiceProvider = []
+
+# try:
+#     serviceProvider = WebDriverWait(driver, 10).until(
+#         EC.presence_of_element_located((By.CLASS_NAME, "mr1"))
+#     )
+
+#     for service in serviceProvider:
+#         listServiceProvider.append(service.text)
+# except:
+#     pass
+
+serviceProvider = driver.find_elements_by_class_name("hover-blue")
+for service in serviceProvider:
+    listServiceProvider.append(service.text)
+
+print(listServiceProvider)
 
 time.sleep(3)
 driver.quit()
