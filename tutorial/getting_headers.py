@@ -24,7 +24,7 @@ try:
     articles = main.find_elements_by_tag_name("article")
     for article in articles:
         header = article.find_element_by_class_name("entry-summary")
-        print(header.text)
+        print(header)
 
 finally:
     driver.quit()
