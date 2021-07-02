@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import time
+from numpy import NaN
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -38,9 +38,6 @@ try:
 except:
     pass
 
-listServiceProvider = []
-listServiceRating = []
-
 try:
     serviceProvider = WebDriverWait(driver, 3).until(
         EC.presence_of_all_elements_located(
@@ -51,20 +48,44 @@ try:
         )
     )
 
-    serviceRating = WebDriverWait(driver, 3).until(
+    listServiceProvider = []
+    for service in serviceProvider:
+        listServiceProvider.append(service.text)
+
+    blocks = WebDriverWait(driver, 3).until(
         EC.presence_of_all_elements_located(
             (
                 By.XPATH,
-                "//*[@data-test]/div//div[1]//div[2]/div[1]/div/div/div/div[1]",
+                "//*[@class='flex-1 m_flex relative z-0']",
             )
         )
     )
 
-    for service in serviceProvider:
-        listServiceProvider.append(service.text)
+    # Returns a nested list for all the service blocks
+    listBlockNodes = []
+    for block in blocks:
+        listBlockNodes.append(block.find_elements_by_xpath(".//*"))
 
-    for service in serviceRating:
-        listServiceRating.append(service.text)
+    # Get all the ratings in nested form
+    nestedRatings = []
+    for i, listNodes in zip(range(len(listBlockNodes)), listBlockNodes):
+        nestedRatings.append([])
+        for nodes in listNodes:
+            nestedRatings[i].append(nodes.get_attribute("data-star"))
+
+    # Get a temporary list of all the ratings
+    tempList = []
+    for ratingsList in nestedRatings:
+        tempList.append([ratings for ratings in ratingsList if ratings is not None])
+
+    # Get the provider ratings
+    listServiceRating = []
+    for ratings in tempList:
+        if len(ratings) == 0:
+            x = NaN
+        else:
+            x = ratings[0]
+        listServiceRating.append(x)
 
     dictServicesProvided = {
         "Service": listServiceProvider,
@@ -75,6 +96,7 @@ try:
 
     dfServicesProvided = pd.DataFrame(dictServicesProvided)
     dfServicesProvided.to_csv("data/services_database.csv", index=False)
+
 except:
     pass
 
