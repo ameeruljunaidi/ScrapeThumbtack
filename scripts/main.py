@@ -168,7 +168,7 @@ for serviceName in serviceList:
                 "Rating": listServiceRating,
                 "Hires": listServiceHires,
                 "Price": listServicePrice,
-                "Zip Code": listZipCodes,
+                "ZipCode": listZipCodes,
             }
 
             # Convert to csv for all names and zipcodes
