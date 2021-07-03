@@ -1,62 +1,62 @@
-,Service,Type,Rating,Hires,Zip Code
-0,DJ Stallion Entertainment,DJ,5,358,95814
-1,Dj Sean,DJ,5,2,95814
-2,Wendell ' DJ Dub T' Thomas,DJ,5,106,95814
-3,MCC-Master Of Ceremonies & Celebrations,DJ,5,175,95814
-4,A New Day And Time Entertainment,DJ,4.5,88,95814
-5,A Big Ticket Sound Experience,DJ,5,,95814
-6,Cory Entertainment,DJ,5,13,95814
-7,"A ""Nuthin But Flava"" Flight",DJ,5,10,95814
-8,PC Entertainment,DJ,5,114,95814
-9,Souli,DJ,5,9,95814
-10,Ghost Light Events and Productions,DJ,5,,95814
-11,ZAEL,DJ,5,14,95814
-12,Duse Beatz Productions,DJ,5,11,95814
-13,Maximus Multimedia DJ Services,DJ,5,30,95814
-14,Burnett Entertainment & DJ Services,DJ,5,4,95814
-15,DJ Melly Mel Productions,DJ,1,,95814
-16,A-Romantherapy Productions LLC,DJ,,,95814
-17,Parker Sounding Board,DJ,5,2,95814
-18,Scout Creative,DJ,5,,95814
-19,Viva Event DJs by Andy Klein,DJ,5,117,90013
-20,Dj Daniel Londono,DJ,5,4,90013
-21,Heretixx (LA),DJ,5,2,90013
-22,RED-DRUM Entertainment,DJ,5,115,90013
-23,California Music Group,DJ,5,43,90013
-24,Xclusive Xperience Entertainment,DJ,5,67,90013
-25,CO & Play,DJ,5,149,90013
-26,DJ T-Roc,DJ,5,280,90013
-27,True Brothers 2000,DJ,5,34,90013
-28,DJ Concrete Chris,DJ,,,90013
-29,DJ Ceeej & friends,DJ,5,12,90013
-30,DJ Stoke,DJ,5,67,90013
-31,DJ Jon Don Myers,DJ,5,108,90013
-32,That Jam Entertainment,DJ,5,62,90013
-33,Tarrant Entertainment,DJ,5,3,90013
-34,DJ Cast,DJ,5,7,90013
-35,DJ Dr. Rico LLC,DJ,5,13,90013
-36,Danny Make It Happen,DJ,5,,90013
-37,Alexandra Robertson,DJ,5,,90013
-38,DJ Klassic,DJ,5,,90013
-39,DJ Zanzara,DJ,5,,90013
-40,DJJK Events,DJ,5,,90013
-41,HÄANA: live electronic producer/violinist,DJ,,,90013
-42,Crystal Note DJ Company,DJ,5,32,90013
-43,DJ Drelo,DJ,,,90013
-44,Mikecross dj karaoke entertainment,DJ,2.5,2,90013
-45,"S.P. Entertainment, LLC",DJ,5,14,90013
-46,DJ Johnny Hawkes,DJ,5,56,90013
-47,"Grayson Repp (Drai's, Buffalo Club, 41 Ocean)",DJ,5,2,90013
-48,DJ Professor,DJ,5,,90013
-49,M & L CLEANING,House Cleaning,4.5,27,95814
-50,Ana's Cleaning Solutions,House Cleaning,5,122,95814
-51,Sessoms Tree and Hauling Service,House Cleaning,5,23,95814
-52,C & M JANITORIAL CLEANING SERVICES,House Cleaning,,,95814
-53,CS cleaning solutions,House Cleaning,4.5,10,95814
-54,Avery's Enhanced Cleaning,House Cleaning,5,,90013
-55,Wayuu Organic Cleaning,House Cleaning,5,45,90013
-56,Ammana's House Cleanser,House Cleaning,4.5,168,90013
-57,Ishmael Seven Jasso,House Cleaning,,,90013
-58,Karen Hernandez,House Cleaning,,,90013
-59,house Cleaning,House Cleaning,4.5,5,90013
-60,Matthew Environmental Janitorial,House Cleaning,5,7,90013
+,Service,Type,Rating,Hires,Price,Zip Code
+0,DJ Stallion Entertainment,DJ,5,358,400,95814
+1,Dj Sean,DJ,5,2,100,95814
+2,Wendell ' DJ Dub T' Thomas,DJ,5,106,400,95814
+3,MCC-Master Of Ceremonies & Celebrations,DJ,5,175,150,95814
+4,A New Day And Time Entertainment,DJ,4.5,88,200,95814
+5,A Big Ticket Sound Experience,DJ,5,,,95814
+6,Cory Entertainment,DJ,5,13,225,95814
+7,"A ""Nuthin But Flava"" Flight",DJ,5,10,800,95814
+8,PC Entertainment,DJ,5,114,450,95814
+9,Souli,DJ,5,9,,95814
+10,Ghost Light Events and Productions,DJ,5,,"1,200",95814
+11,ZAEL,DJ,5,14,125,95814
+12,Duse Beatz Productions,DJ,5,11,300,95814
+13,Maximus Multimedia DJ Services,DJ,5,30,350,95814
+14,Burnett Entertainment & DJ Services,DJ,5,4,175,95814
+15,DJ Melly Mel Productions,DJ,1,,75,95814
+16,A-Romantherapy Productions LLC,DJ,,,,95814
+17,Parker Sounding Board,DJ,5,2,175,95814
+18,Scout Creative,DJ,5,,200,95814
+19,Viva Event DJs by Andy Klein,DJ,5,117,400,90013
+20,Dj Daniel Londono,DJ,5,4,,90013
+21,Heretixx (LA),DJ,5,2,750,90013
+22,RED-DRUM Entertainment,DJ,5,115,230,90013
+23,California Music Group,DJ,5,43,"1,295",90013
+24,Xclusive Xperience Entertainment,DJ,5,67,300,90013
+25,CO & Play,DJ,5,149,250,90013
+26,DJ T-Roc,DJ,5,280,,90013
+27,True Brothers 2000,DJ,5,34,125,90013
+28,DJ Concrete Chris,DJ,,,100,90013
+29,DJ Ceeej & friends,DJ,5,12,,90013
+30,DJ Stoke,DJ,5,67,250,90013
+31,DJ Jon Don Myers,DJ,5,108,380,90013
+32,Tarrant Entertainment,DJ,5,3,230,90013
+33,That Jam Entertainment,DJ,5,62,100,90013
+34,DJ Cast,DJ,5,7,,90013
+35,DJ Dr. Rico LLC,DJ,5,13,80,90013
+36,Danny Make It Happen,DJ,5,,100,90013
+37,Alexandra Robertson,DJ,5,,150,90013
+38,DJ Klassic,DJ,5,,,90013
+39,DJ Zanzara,DJ,5,,80,90013
+40,DJJK Events,DJ,5,,100,90013
+41,HÄANA: live electronic producer/violinist,DJ,,,"1,000",90013
+42,Crystal Note DJ Company,DJ,5,32,90,90013
+43,DJ Drelo,DJ,,,,90013
+44,Mikecross dj karaoke entertainment,DJ,2.5,2,75,90013
+45,"S.P. Entertainment, LLC",DJ,5,14,150,90013
+46,DJ Johnny Hawkes,DJ,5,56,500,90013
+47,"Grayson Repp (Drai's, Buffalo Club, 41 Ocean)",DJ,5,2,,90013
+48,DJ Professor,DJ,5,,,90013
+49,M & L CLEANING,House Cleaning,4.5,27,100,95814
+50,Ana's Cleaning Solutions,House Cleaning,5,122,100,95814
+51,Sessoms Tree and Hauling Service,House Cleaning,5,23,,95814
+52,C & M JANITORIAL CLEANING SERVICES,House Cleaning,,,,95814
+53,CS cleaning solutions,House Cleaning,4.5,10,70,95814
+54,Karen Kares Kleaning,House Cleaning,4,,33,90013
+55,Wayuu Organic Cleaning,House Cleaning,5,45,125,90013
+56,Ammana's House Cleanser,House Cleaning,4.5,168,,90013
+57,Ishmael Seven Jasso,House Cleaning,,,,90013
+58,Karen Hernandez,House Cleaning,,,,90013
+59,house Cleaning,House Cleaning,4.5,5,90,90013
+60,Matthew Environmental Janitorial,House Cleaning,5,7,80,90013
