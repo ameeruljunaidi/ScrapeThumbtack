@@ -12,10 +12,8 @@ from tolist_zipcodes import zipCodeCSV
 
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
-# serviceList = ["DJ", "House Cleaning"]
-# zipCodeList = ["95814", "90013"]
-serviceList = servicesNameCSV[:9]
-zipCodeList = zipCodeCSV[:9]
+serviceList = servicesNameCSV
+zipCodeList = zipCodeCSV
 
 for serviceName in serviceList:
     for zipCode in zipCodeList:
@@ -98,7 +96,6 @@ for serviceName in serviceList:
                 )
 
             # Put all ratings into a list
-            # TODO: Change to numpy array for faster execution
             listServiceRating = []
             for ratings in tempRatingsList:
                 if len(ratings) == 0:
