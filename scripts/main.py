@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from tolist_services import servicesCSV
+from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
 
 PATH = f"{os.getcwd()}/selenium/chromedriver"
@@ -156,7 +156,7 @@ for serviceName in serviceList:
 
             # Add the name of service and zipcode into a list
             for i in range(len(listServiceProvider)):
-                listServices.append(serviceName)
+                listServices.append(serviceID[serviceName])
                 listZipCodes.append(zipCode)
 
             # Create a dictionary for all lists
@@ -171,7 +171,7 @@ for serviceName in serviceList:
 
             # Convert to csv for all names and zipcodes
             dfServicesProvided = pd.DataFrame(dictServicesProvided).to_csv(
-                f"data/{serviceName}_{zipCode}.csv"
+                f"data/{serviceID[serviceName]}_{zipCode}.csv"
             )
             driver.quit()
 
