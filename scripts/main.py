@@ -178,4 +178,5 @@ for serviceName in serviceList:
             driver.quit()
 
         except:
+            driver.quit()
             pass
