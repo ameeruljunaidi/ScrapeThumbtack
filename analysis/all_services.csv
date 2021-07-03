@@ -1,0 +1,611 @@
+,Service,Rating,Hires,Price,ZipCode,Zip Code,Price Type,Services,Type,Segments,Implied Revenue
+0,Second Growth Homes,,,,99801.0,,,General Carpentry,Peripheral,Home Improvement,
+1,Colony Construction,4.5,27.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+2,WDS Remodeling & Renovation,5.0,18.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+3,Rose Remodeling,5.0,,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+4,Lunas handyman.,5.0,5.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+5,CDL Construction,5.0,3.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+6,R&R General Contracting,5.0,2.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+7,The Bath Biz,5.0,,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+8,Anlos Remodeling & Painting Services,5.0,,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+9,Amador Construction,5.0,,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+10,"Spectrum One, Inc.",4.0,30.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+11,Business Design Services,5.0,2.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+12,Concept Interior Design Studio,5.0,2.0,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+13,Precision Home Services,,,,95814.0,,,General Carpentry,Peripheral,Home Improvement,
+14,LawnStarter Lawn Care,4.0,161.0,29.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,4669.0
+15,JF Landscaping,4.5,65.0,35.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,2275.0
+16,CJ’s landscaping,5.0,82.0,,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+17,Fuentes Services,5.0,48.0,45.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,2160.0
+18,MP Construction,5.0,92.0,,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+19,Pacific Green Solutions Landscaping,4.0,6.0,45.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,270.0
+20,San Diego Landscapers,4.0,,,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+21,paradise landscaping services,5.0,4.0,100.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,400.0
+22,Rich Berry Maintenance,4.0,37.0,60.0,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,2220.0
+23,Mateo Gaspar,5.0,,,92101.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+24,Rosendo ramos,5.0,19.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+25,McLeod Roof Repairs,5.0,74.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+26,John J. Griffin Roofing Contractor,4.5,41.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+27,Pacific Blue Roofing,4.5,15.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+28,Elite Roof Services Inc,5.0,16.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+29,The Roof Masters,5.0,31.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+30,Precision General Contracting,5.0,,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+31,Greenliving,5.0,2.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+32,A.G. Roofing,5.0,16.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+33,Morpheus Design Inc,5.0,,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+34,SolarGoingUP,5.0,10.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+35,Ridge To Rake Roofing,4.0,5.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+36,BH Construction,5.0,3.0,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+37,Generation819,4.5,,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+38,Alpha Roofing,,,,92101.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+39,Duster Bunnies Cleaning,5.0,21.0,140.0,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,2940.0
+40,Diana Torres,5.0,8.0,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+41,Care With Confidence,4.5,121.0,120.0,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,14520.0
+42,Frankie construction & landscaping LLC,5.0,,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+43,Monika’s house cleaning,5.0,,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+44,Diamond Cut Professional Cleaning,5.0,,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+45,Home Solutions By Libny,5.0,4.0,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+46,EXTREME STEAM CLEAN,5.0,,,85001.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+47,Paradise Views LLC,5.0,18.0,45.0,36104.0,,,Lawn Mower Repair,Peripheral,Home Improvement,810.0
+48,Andre's Lawn Care Services,5.0,3.0,25.0,36104.0,,,Lawn Mower Repair,Peripheral,Home Improvement,75.0
+49,Promy'S Landscaping,,,,36104.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+50,Hartman's Lawn Care & Home development,5.0,3.0,,36104.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+51,ISAAK HAWK COACHING,5.0,52.0,60.0,99801.0,,,Palm Reading,Peripheral,Wellness,3120.0
+52,Beau Gardner,5.0,142.0,1000.0,99801.0,,,Palm Reading,Peripheral,Wellness,142000.0
+53,YallFit,5.0,3.0,60.0,99801.0,,,Palm Reading,Peripheral,Wellness,180.0
+54,1 Body Strength and Conditioning LLC.,5.0,83.0,50.0,99801.0,,,Palm Reading,Peripheral,Wellness,4150.0
+55,Cody Gilliss @ InspireMVMT,5.0,3.0,125.0,99801.0,,,Palm Reading,Peripheral,Wellness,375.0
+56,Markstrong Training,5.0,11.0,50.0,99801.0,,,Palm Reading,Peripheral,Wellness,550.0
+57,Cody Collins,5.0,42.0,35.0,99801.0,,,Palm Reading,Peripheral,Wellness,1470.0
+58,Xavier Sanchez,5.0,2.0,30.0,99801.0,,,Palm Reading,Peripheral,Wellness,60.0
+59,"Sandel Fitness Solutions, NASM CPT, CES, PES",5.0,9.0,55.0,99801.0,,,Palm Reading,Peripheral,Wellness,495.0
+60,PureOg Fitness,5.0,62.0,80.0,99801.0,,,Palm Reading,Peripheral,Wellness,4960.0
+61,Wave Fitness $270 for 10x60min,5.0,20.0,27.0,99801.0,,,Palm Reading,Peripheral,Wellness,540.0
+62,Med Tabar,5.0,,70.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+63,Aligned Strength,5.0,2.0,120.0,99801.0,,,Palm Reading,Peripheral,Wellness,240.0
+64,Kickoff: Daily remote training for $3/day,5.0,,,99801.0,,,Palm Reading,Peripheral,Wellness,
+65,Justin Cayton,5.0,,70.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+66,Kanthaka Personal Trainers and Yoga Instructors,4.5,52.0,42.0,99801.0,,,Palm Reading,Peripheral,Wellness,2184.0
+67,LT’s Style Fit,5.0,,75.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+68,MPWR Institute,5.0,2.0,75.0,99801.0,,,Palm Reading,Peripheral,Wellness,150.0
+69,Train With Talz,5.0,,80.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+70,Alex Cook Health,5.0,29.0,75.0,99801.0,,,Palm Reading,Peripheral,Wellness,2175.0
+71,"Blue Lotus Wellness, ACSM-CPT, RYT 200, CPPC, FMS1",5.0,4.0,60.0,99801.0,,,Palm Reading,Peripheral,Wellness,240.0
+72,Zion Health and Wellness,5.0,298.0,60.0,99801.0,,,Palm Reading,Peripheral,Wellness,17880.0
+73,New Heights Fitness LLC,5.0,8.0,900.0,99801.0,,,Palm Reading,Peripheral,Wellness,7200.0
+74,"GIRLS ONLY, 📍LOS ANGELES/ OFFER REMOTE TRAINING",5.0,63.0,110.0,99801.0,,,Palm Reading,Peripheral,Wellness,6930.0
+75,"Dr Val Fiott, Health, Fitness & Wellness Coach",5.0,,100.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+76,Runonheart Personal Training Fitness and Nutrition,5.0,18.0,65.0,99801.0,,,Palm Reading,Peripheral,Wellness,1170.0
+77,Collin David,5.0,13.0,100.0,99801.0,,,Palm Reading,Peripheral,Wellness,1300.0
+78,BFIT Transformation Programs,5.0,2.0,60.0,99801.0,,,Palm Reading,Peripheral,Wellness,120.0
+79,Platinum Fitness Co,5.0,,250.0,99801.0,,,Palm Reading,Peripheral,Wellness,
+80,HypertroFit LLC,5.0,185.0,255.0,99801.0,,,Palm Reading,Peripheral,Wellness,47175.0
+81,Californian Home Remodeling,4.5,5.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+82,"5 BLOX, INC.",4.5,67.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+83,SB Construction & Remodeling,5.0,3.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+84,KYRA CONSTRUCTION,4.5,25.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+85,Nobu Home Remodeling Inc,5.0,8.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+86,CURTIS CONSTRUCTION SERVICES,5.0,35.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+87,Ofir construction Inc.,5.0,19.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+88,Y.S. Remodeling & Design,5.0,5.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+89,"Vision Home Remodeling, Inc",5.0,3.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+90,Liebobuilders,4.5,28.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+91,American B General Contractor,4.0,30.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+92,CAL FIRST BUILDERS INC,5.0,16.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+93,BK Remodelers,5.0,13.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+94,Adobe Builders Inc.,5.0,2.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+95,T&N Remodeling Inc,5.0,3.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+96,Create Construction Inc,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+97,Baldwin Builder,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+98,Jm Alpha Construction Inc,5.0,6.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+99,Q General Construction,5.0,5.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+100,509 Construction,4.0,38.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+101,AKT Home Builders,5.0,3.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+102,"Living Process, LLC",5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+103,EXCEL CONSTRUCTION LA,4.0,139.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+104,AKR Construction,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+105,Good Samaritan Builders,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+106,BuenaVenture Construction,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+107,Gedikian Enterprises,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+108,H&H Design&Renovation,5.0,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+109,TREEIUM INC,4.5,3.0,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+110,Right Image builders inc,,,,90013.0,,,General Carpentry,Peripheral,Home Improvement,
+111,Banks Industries,5.0,11.0,65.0,92101.0,,hourly,Gutter Repair,Peripheral,Home Improvement,715.0
+112,Raymond Barron,5.0,13.0,,92101.0,,,Gutter Repair,Peripheral,Home Improvement,
+113,Jacqueline Kennedy Designs,4.5,89.0,65.0,92101.0,,hourly,Gutter Repair,Peripheral,Home Improvement,5785.0
+114,Diaz services,4.5,53.0,85.0,92101.0,,hourly,Gutter Repair,Peripheral,Home Improvement,4505.0
+115,Eddie Mickenberg Interior Design,5.0,2.0,75.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,150.0
+116,Ariana LaRae Designs,4.5,27.0,85.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,2295.0
+117,A Woman's Touch,5.0,21.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+118,Instinct Home Design,5.0,,80.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+119,ADL Interiors,5.0,8.0,100.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,800.0
+120,Design by Ranj,5.0,31.0,95.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,2945.0
+121,HAENEN DESIGN STUDIOS,5.0,42.0,95.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,3990.0
+122,Spacemakers,5.0,3.0,85.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,255.0
+123,Custom Design,5.0,39.0,85.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,3315.0
+124,romero + obeji interior design - servicing so cal,5.0,20.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+125,Aria Lisotto Collective,5.0,,125.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+126,"Living Process, LLC",5.0,,60.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+127,Ghiasi Designs,5.0,48.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+128,Heart of the Home Organizing,5.0,,95.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+129,Peti Lau Inc,5.0,,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+130,SB Construction & Remodeling,5.0,3.0,95.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,285.0
+131,C-Oliveira Design,5.0,3.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+132,Karo-Walczyk-Design,5.0,,100.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+133,3D Design Studio,5.0,7.0,75.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,525.0
+134,Interiors by Brigitte,4.5,2.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+135,Coast to Coast Interiors,5.0,20.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+136,INNER SPACE - Luxury Interior Design,5.0,44.0,85.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,3740.0
+137,Raymond Rae Interior Design,5.0,2.0,135.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,270.0
+138,Izanhour Design,5.0,9.0,165.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1485.0
+139,Tara Mickel Design,5.0,3.0,95.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,285.0
+140,DOSALA INC,5.0,2.0,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+141,beyond modern interiors,5.0,,70.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+142,Nora Gabbayan Design,5.0,,150.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+143,Lily Yung Studio,5.0,,150.0,90013.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+144,AVR Interior Design,5.0,,,90013.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+145,LCF Designs & Staging,4.5,23.0,85.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1955.0
+146,C.LehmanHome,5.0,3.0,95.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,285.0
+147,Larisa Pomescikova Interior Design,5.0,11.0,125.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1375.0
+148,INSPIRING SPACES | Home Decorating Within Reach,4.5,6.0,75.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,450.0
+149,Bond Design LLC,5.0,,,95814.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+150,Virtual Interior Design by Alyssa Beth Interiors,,2.0,80.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,160.0
+151,Premier Interior Luxury & Design,,,,95814.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+152,TLN Interiors,4.5,29.0,,95814.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+153,"fragile, inc.",5.0,8.0,75.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,600.0
+154,LUCA CASA Interior Design Sacramento,,,,95814.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+155,Studio G and G,4.0,,104.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+156,Business Design Services,5.0,2.0,90.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,180.0
+157,Showhomes of Folsom Lake,5.0,6.0,90.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,540.0
+158,MHP DESIGN INC,,,50.0,95814.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+159,TMI (Time + Money = Investment),4.5,13.0,50.0,36104.0,,hourly,Gutter Repair,Peripheral,Home Improvement,650.0
+160,Express Handy Services,5.0,,,36104.0,,,Gutter Repair,Peripheral,Home Improvement,
+161,Amanda Ramey,4.0,15.0,40.0,36104.0,,hourly,Gutter Repair,Peripheral,Home Improvement,600.0
+162,DJ Stallion Entertainment,5.0,358.0,400.0,,95814.0,,Custom Airbrushing,Peripheral,Events,143200.0
+163,Dj Sean,5.0,2.0,100.0,,95814.0,,Custom Airbrushing,Peripheral,Events,200.0
+164,Wendell ' DJ Dub T' Thomas,5.0,106.0,400.0,,95814.0,,Custom Airbrushing,Peripheral,Events,42400.0
+165,MCC-Master Of Ceremonies & Celebrations,5.0,175.0,150.0,,95814.0,,Custom Airbrushing,Peripheral,Events,26250.0
+166,A New Day And Time Entertainment,4.5,88.0,200.0,,95814.0,,Custom Airbrushing,Peripheral,Events,17600.0
+167,A Big Ticket Sound Experience,5.0,,,,95814.0,,Custom Airbrushing,Peripheral,Events,
+168,Cory Entertainment,5.0,13.0,225.0,,95814.0,,Custom Airbrushing,Peripheral,Events,2925.0
+169,"A ""Nuthin But Flava"" Flight",5.0,10.0,800.0,,95814.0,,Custom Airbrushing,Peripheral,Events,8000.0
+170,PC Entertainment,5.0,114.0,450.0,,95814.0,,Custom Airbrushing,Peripheral,Events,51300.0
+171,Souli,5.0,9.0,,,95814.0,,Custom Airbrushing,Peripheral,Events,
+172,Ghost Light Events and Productions,5.0,,1200.0,,95814.0,,Custom Airbrushing,Peripheral,Events,
+173,ZAEL,5.0,14.0,125.0,,95814.0,,Custom Airbrushing,Peripheral,Events,1750.0
+174,Duse Beatz Productions,5.0,11.0,300.0,,95814.0,,Custom Airbrushing,Peripheral,Events,3300.0
+175,Maximus Multimedia DJ Services,5.0,30.0,350.0,,95814.0,,Custom Airbrushing,Peripheral,Events,10500.0
+176,Burnett Entertainment & DJ Services,5.0,4.0,175.0,,95814.0,,Custom Airbrushing,Peripheral,Events,700.0
+177,DJ Melly Mel Productions,1.0,,75.0,,95814.0,,Custom Airbrushing,Peripheral,Events,
+178,A-Romantherapy Productions LLC,,,,,95814.0,,Custom Airbrushing,Peripheral,Events,
+179,Parker Sounding Board,5.0,2.0,175.0,,95814.0,,Custom Airbrushing,Peripheral,Events,350.0
+180,Scout Creative,5.0,,200.0,,95814.0,,Custom Airbrushing,Peripheral,Events,
+181,Ruth cleaning.,5.0,134.0,,99501.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+182,Marioli cleaning,4.5,19.0,200.0,99501.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,3800.0
+183,Visan professional Cleaning,5.0,,,99501.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+184,Animal House Janitorial and Maintenance,4.5,89.0,100.0,99501.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,8900.0
+185,All Decked Out,5.0,,60.0,36104.0,,,General Carpentry,Peripheral,Home Improvement,
+186,TMI (Time + Money = Investment),4.5,13.0,,36104.0,,,General Carpentry,Peripheral,Home Improvement,
+187,LawnStarter Lawn Care,4.0,161.0,29.0,90013.0,,,Lawn Mower Repair,Peripheral,Home Improvement,4669.0
+188,Conde's Gardening,5.0,40.0,,90013.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+189,Atlas Roofing,5.0,30.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+190,Power Roofing,5.0,12.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+191,A1 American Roofing,5.0,6.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+192,NRG UPGRADE,4.5,47.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+193,Aguilar roofing repair.,5.0,14.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+194,Rescue Roofer,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+195,Roof Replacement Inc.,4.5,9.0,50.0,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,450.0
+196,DLS Development Inc,5.0,2.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+197,Carlos Camacho,4.5,25.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+198,SoCal Green Builders,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+199,Smart Roofing inc,5.0,7.0,5.0,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,35.0
+200,Primitive Repair & Roofing,4.0,53.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+201,Roofing,5.0,,100.0,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+202,Alpha One Construction Inc,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+203,SB Construction & Remodeling,5.0,3.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+204,ANR Energy,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+205,APG Roofing,,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+206,Precision Roofing,,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+207,MQ LUXE INC,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+208,"Gio Roofing, Inc.",5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+209,Californian Home Remodeling,4.5,5.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+210,Gilleo's reliable roof repair,,,100.0,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+211,Nobu Home Remodeling Inc,5.0,8.0,75.0,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,600.0
+212,HP Roofing Pro,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+213,Solid Roofing,5.0,6.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+214,509 Construction,4.0,38.0,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+215,A Cut Above Builders & Renovation,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+216,Great Roofs LA,,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+217,All State Construction,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+218,Reliance Roofing Inc,5.0,,,90013.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+219,Clean in a Click,5.0,4.0,134.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,536.0
+220,Wendolyn ‘s cleaning,5.0,6.0,,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+221,Big Apple Clean Up,5.0,4.0,60.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,240.0
+222,Luana’s Cleaning Services,5.0,8.0,110.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,880.0
+223,Magic Broom,5.0,35.0,,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+224,Simple Pro Cleaning,5.0,,119.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+225,Sophia Deep Cleaning Service,5.0,46.0,,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+226,Snow Bright Cleaning,5.0,,100.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+227,The Clean Dream - Birmingham,5.0,,129.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+228,Ladybugs Eco-Friendly Cleaning Services,5.0,16.0,,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+229,Get it right commercial cleaning and pressure w...,,,70.0,35210.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+230,Aguilar Roofing LLC,4.5,133.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+231,AE Roofing,5.0,33.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+232,RAINOWAY INC.,5.0,4.0,275.0,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,1100.0
+233,J&J Services,4.5,25.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+234,Performance Roofing,4.5,45.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+235,Valley Roofing Services,5.0,4.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+236,Sonny roofing,4.5,106.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+237,Maginis Roofing,5.0,23.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+238,IRONSTONE Roofing,5.0,,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+239,Rose Remodeling,5.0,,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+240,Integrity roofing,5.0,8.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+241,Epic Energy,4.5,17.0,,95814.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+242,LawnStarter Lawn Care,4.0,161.0,29.0,95814.0,,,Lawn Mower Repair,Peripheral,Home Improvement,4669.0
+243,Rodriguez Gardening,4.5,276.0,1.0,95814.0,,,Lawn Mower Repair,Peripheral,Home Improvement,276.0
+244,Premier Garden & Landscape,4.5,156.0,,95814.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+245,Teknik Design & Remodeling,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+246,Hire Pro Man Inc.,5.0,22.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+247,Kanna Construction & Remodeling,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+248,We Hammer 4 You,5.0,21.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+249,Ramirez Handyman Services,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+250,Need For Build,4.5,56.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+251,Morpheus Design Inc,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+252,Arcano,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+253,David McArthur,5.0,137.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+254,UCON SD Construction,5.0,4.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+255,"HAVIRDO Remodeling, Painting, Handyman",5.0,109.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+256,Prestige Construction & Design,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+257,Expericon Construction Inc.,4.5,6.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+258,Gedikian Enterprises,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+259,Handyman Direct,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+260,Next Level Painting,4.0,4.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+261,Aviles contracting,,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+262,Andy Saysourivong- Construction Services,5.0,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+263,Robert Crespin,,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+264,Simply Stunning Spaces,,,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+265,Alert Plumbing and Drains,5.0,15.0,,92101.0,,,General Carpentry,Peripheral,Home Improvement,
+266,Viva Event DJs by Andy Klein,5.0,117.0,400.0,,90013.0,,Custom Airbrushing,Peripheral,Events,46800.0
+267,Joshwayy Productions,5.0,87.0,100.0,,90013.0,,Custom Airbrushing,Peripheral,Events,8700.0
+268,Dj Daniel Londono,5.0,4.0,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+269,Heretixx (LA),5.0,2.0,750.0,,90013.0,,Custom Airbrushing,Peripheral,Events,1500.0
+270,RED-DRUM Entertainment,5.0,115.0,230.0,,90013.0,,Custom Airbrushing,Peripheral,Events,26450.0
+271,DJ MG,4.5,27.0,200.0,,90013.0,,Custom Airbrushing,Peripheral,Events,5400.0
+272,California Music Group,5.0,43.0,1295.0,,90013.0,,Custom Airbrushing,Peripheral,Events,55685.0
+273,Xclusive Xperience Entertainment,5.0,67.0,300.0,,90013.0,,Custom Airbrushing,Peripheral,Events,20100.0
+274,CO & Play,5.0,149.0,250.0,,90013.0,,Custom Airbrushing,Peripheral,Events,37250.0
+275,DJ T-Roc,5.0,280.0,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+276,True Brothers 2000,5.0,34.0,125.0,,90013.0,,Custom Airbrushing,Peripheral,Events,4250.0
+277,DJ Concrete Chris,,,100.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+278,DJ Stoke,5.0,67.0,250.0,,90013.0,,Custom Airbrushing,Peripheral,Events,16750.0
+279,DJ Ceeej & friends,5.0,12.0,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+280,DJ Jon Don Myers,5.0,108.0,380.0,,90013.0,,Custom Airbrushing,Peripheral,Events,41040.0
+281,That Jam Entertainment,5.0,62.0,100.0,,90013.0,,Custom Airbrushing,Peripheral,Events,6200.0
+282,Tarrant Entertainment,5.0,3.0,230.0,,90013.0,,Custom Airbrushing,Peripheral,Events,690.0
+283,DJ Cast,5.0,7.0,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+284,DJ Dr. Rico LLC,5.0,13.0,80.0,,90013.0,,Custom Airbrushing,Peripheral,Events,1040.0
+285,Danny Make It Happen,5.0,,100.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+286,Alexandra Robertson,5.0,,150.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+287,DJ Klassic,5.0,,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+288,DJ Zanzara,5.0,,80.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+289,DJJK Events,5.0,,100.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+290,HÄANA: live electronic producer/violinist,,,1000.0,,90013.0,,Custom Airbrushing,Peripheral,Events,
+291,Crystal Note DJ Company,5.0,32.0,90.0,,90013.0,,Custom Airbrushing,Peripheral,Events,2880.0
+292,DJ Drelo,,,,,90013.0,,Custom Airbrushing,Peripheral,Events,
+293,Mikecross dj karaoke entertainment,2.5,2.0,75.0,,90013.0,,Custom Airbrushing,Peripheral,Events,150.0
+294,"S.P. Entertainment, LLC",5.0,14.0,150.0,,90013.0,,Custom Airbrushing,Peripheral,Events,2100.0
+295,DJ Johnny Hawkes,5.0,56.0,500.0,,90013.0,,Custom Airbrushing,Peripheral,Events,28000.0
+296,Beau Gardner,5.0,142.0,1000.0,36104.0,,,Palm Reading,Peripheral,Wellness,142000.0
+297,Cody Collins,5.0,42.0,35.0,36104.0,,,Palm Reading,Peripheral,Wellness,1470.0
+298,Bragg Fitness,5.0,,,36104.0,,,Palm Reading,Peripheral,Wellness,
+299,"Sandel Fitness Solutions, NASM CPT, CES, PES",5.0,9.0,55.0,36104.0,,,Palm Reading,Peripheral,Wellness,495.0
+300,Fit 4 Life,5.0,,65.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+301,Cooper Fitness,5.0,39.0,99.0,36104.0,,,Palm Reading,Peripheral,Wellness,3861.0
+302,Kimbroughfit,5.0,2.0,50.0,36104.0,,,Palm Reading,Peripheral,Wellness,100.0
+303,The Fitness Rebellion | Nutrition & Health Coach,5.0,4.0,57.0,36104.0,,,Palm Reading,Peripheral,Wellness,228.0
+304,TC Fitness LLC,5.0,5.0,35.0,36104.0,,,Palm Reading,Peripheral,Wellness,175.0
+305,Rizzo Fitness,5.0,,100.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+306,Wave Fitness $270 for 10x60min,5.0,20.0,27.0,36104.0,,,Palm Reading,Peripheral,Wellness,540.0
+307,Success Fitness and Training,5.0,10.0,60.0,36104.0,,,Palm Reading,Peripheral,Wellness,600.0
+308,Klasik Fit,5.0,36.0,,36104.0,,,Palm Reading,Peripheral,Wellness,
+309,7th Nation Fitness LLC,5.0,38.0,65.0,36104.0,,,Palm Reading,Peripheral,Wellness,2470.0
+310,Snap Fitness Edina (France Avenue),5.0,,60.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+311,Kanthaka Personal Trainers and Yoga Instructors,4.5,52.0,42.0,36104.0,,,Palm Reading,Peripheral,Wellness,2184.0
+312,Jade Alexandria Fitness,5.0,5.0,50.0,36104.0,,,Palm Reading,Peripheral,Wellness,250.0
+313,Ferraro Physique Personal Training,5.0,,65.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+314,Matt K Training,5.0,3.0,87.0,36104.0,,,Palm Reading,Peripheral,Wellness,261.0
+315,Runonheart Personal Training Fitness and Nutrition,5.0,18.0,65.0,36104.0,,,Palm Reading,Peripheral,Wellness,1170.0
+316,Kickoff: Daily remote training for $3/day,4.5,124.0,,36104.0,,,Palm Reading,Peripheral,Wellness,
+317,Weightloss For Busy Proffessionals,5.0,,60.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+318,Alex Cook Health,5.0,29.0,75.0,36104.0,,,Palm Reading,Peripheral,Wellness,2175.0
+319,Show Off Fitness,5.0,71.0,55.0,36104.0,,,Palm Reading,Peripheral,Wellness,3905.0
+320,Ptrcomplex,5.0,,90.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+321,Web Fit Weight Loss and Nutrition,5.0,42.0,55.0,36104.0,,,Palm Reading,Peripheral,Wellness,2310.0
+322,"Dr Val Fiott, Health, Fitness & Wellness Coach",5.0,,100.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+323,Wave Fitness,5.0,30.0,27.0,36104.0,,,Palm Reading,Peripheral,Wellness,810.0
+324,Web Fit Live,5.0,,30.0,36104.0,,,Palm Reading,Peripheral,Wellness,
+325,BFIT Transformation Programs,5.0,2.0,60.0,36104.0,,,Palm Reading,Peripheral,Wellness,120.0
+326,LA Home repair services,5.0,97.0,50.0,90013.0,,hourly,Gutter Repair,Peripheral,Home Improvement,4850.0
+327,FixTman LLC (LA-OC Top Pro),5.0,1481.0,90.0,90013.0,,hourly,Gutter Repair,Peripheral,Home Improvement,133290.0
+328,Handy Dennis V *READ ENTIRE PROFILE*,5.0,208.0,100.0,90013.0,,hourly,Gutter Repair,Peripheral,Home Improvement,20800.0
+329,American B General Contractor,4.0,30.0,69.0,90013.0,,hourly,Gutter Repair,Peripheral,Home Improvement,2070.0
+330,BuenaVenture Construction,5.0,,75.0,90013.0,,hourly,Gutter Repair,Peripheral,Home Improvement,
+331,Corale Painting / Handy Work,5.0,78.0,,90013.0,,,Gutter Repair,Peripheral,Home Improvement,
+332,House and Harmony Interior Design Studio,5.0,,125.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+333,Joli G Interiors & Designs,5.0,30.0,125.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,3750.0
+334,Vitti Interiors,5.0,2.0,75.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,150.0
+335,Studio Ignis,5.0,3.0,100.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,300.0
+336,Jacqueline Kennedy Designs,4.5,89.0,125.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,11125.0
+337,Legacy Interior Design,5.0,13.0,90.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1170.0
+338,ADL Interiors,5.0,8.0,100.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,800.0
+339,Arcano,5.0,,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+340,Charles Taylor Home,5.0,,125.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+341,Melissa Jean Designs,5.0,,75.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+342,Rick Caty's Custom Drape Services,5.0,14.0,99.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1386.0
+343,romero + obeji interior design - servicing so cal,5.0,20.0,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+344,Ghiasi Designs,5.0,48.0,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+345,Spaces that Sell,5.0,52.0,85.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,4420.0
+346,Sea and Pine Interior Design,5.0,,200.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+347,Coast to Coast Interiors,5.0,20.0,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+348,Novo Interiors By Carla,5.0,19.0,85.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1615.0
+349,3D Design Studio,5.0,7.0,75.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,525.0
+350,Izanhour Design,5.0,9.0,165.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1485.0
+351,Raymond Rae Interior Design,5.0,2.0,135.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,270.0
+352,Bryan Design Group,5.0,4.0,175.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,700.0
+353,Aspen Scharff Designs,5.0,,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+354,Gem Den Decor,5.0,,100.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+355,Ritual House,5.0,,195.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+356,Beachy Bohème Interiors,5.0,,90.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+357,bereye,5.0,,100.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+358,I AM MILAH Photography & Interior Design,5.0,57.0,92.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,5244.0
+359,Stephen Shaw Design,,,80.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+360,Bellissima Interiors,5.0,,,92101.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+361,Haven Organizing + Decor,5.0,,85.0,92101.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+362,Spector USA,5.0,8.0,60.0,95814.0,,hourly,Gutter Repair,Peripheral,Home Improvement,480.0
+363,Homemade Simple,5.0,7.0,40.0,95814.0,,hourly,Gutter Repair,Peripheral,Home Improvement,280.0
+364,Sessoms Tree and Hauling Service,5.0,23.0,,95814.0,,,Gutter Repair,Peripheral,Home Improvement,
+365,McCoy's Handyman Service,5.0,5.0,1.0,95814.0,,hourly,Gutter Repair,Peripheral,Home Improvement,5.0
+366,Professional Services LLP,3.5,5.0,60.0,95814.0,,hourly,Gutter Repair,Peripheral,Home Improvement,300.0
+367,Baha,5.0,11.0,35.0,95814.0,,hourly,Gutter Repair,Peripheral,Home Improvement,385.0
+368,Sherlock Handyman Services,5.0,,,95814.0,,,Gutter Repair,Peripheral,Home Improvement,
+369,ASAPHouse Cleaning,5.0,286.0,95.0,72201.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,27170.0
+370,Holly Kelly,5.0,18.0,90.0,72201.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,1620.0
+371,MaxForce Delivery Service,4.5,98.0,85.0,72201.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,8330.0
+372,Royhilda cleaning services,4.5,,60.0,72201.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+373,Second Growth Homes,,,,99801.0,,,Gutter Repair,Peripheral,Home Improvement,
+374,Aviles inc,5.0,,30.0,85001.0,,hourly,Gutter Repair,Peripheral,Home Improvement,
+375,LoneWing Solutions LLC,5.0,53.0,,85001.0,,,Gutter Repair,Peripheral,Home Improvement,
+376,Chic combs,5.0,6.0,,85001.0,,,Gutter Repair,Peripheral,Home Improvement,
+377,Furniture assembly by steve,5.0,29.0,50.0,85001.0,,hourly,Gutter Repair,Peripheral,Home Improvement,1450.0
+378,LUCA CASA Interior Design Anchorage,,,,99501.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+379,Suite Staging AK,5.0,,80.0,99501.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+380,"AP Renovations, Inc.",4.0,10.0,,72201.0,,,General Carpentry,Peripheral,Home Improvement,
+381,Modern Roofing llc,5.0,2.0,,72201.0,,,General Carpentry,Peripheral,Home Improvement,
+382,Elevated Construction,5.0,,,72201.0,,,General Carpentry,Peripheral,Home Improvement,
+383,Summit Restorations,5.0,,,72201.0,,,General Carpentry,Peripheral,Home Improvement,
+384,Klymit Roofing,5.0,4.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+385,Allstare improvement roofing 6026771087,5.0,2.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+386,JWF Roofing,4.5,153.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+387,Sosa Roofing LLC,5.0,24.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+388,Awm roofing,5.0,71.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+389,Gastelum & Sons Roofing co.,5.0,50.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+390,Eco Roofing Solutions,5.0,2.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+391,Payne Roofing,4.0,,75.0,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+392,Levy B LLC Spray Foam Roofing,5.0,18.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+393,AZ Roof Repair Guy,4.5,88.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+394,Brooklyn Roofing LLC,5.0,178.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+395,Best All Around Roofing,5.0,12.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+396,SKY SUPERIOR ROOFING,5.0,3.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+397,Sunview Roofing LLC,4.5,2.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+398,R&A sprayfoam roofing,5.0,,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+399,"ValleyContracting, LLC",5.0,10.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+400,Prowest Roofing,5.0,,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+401,Clarity Construction Group,5.0,12.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+402,Baker roofing,5.0,14.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+403,Level 5 Roofing,5.0,5.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+404,TL WALL & CO. ROOF SERVICE,5.0,9.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+405,3D ROOFING LLC,5.0,4.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+406,United Contracting Group,5.0,6.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+407,Diamond Designs LLC,5.0,13.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+408,"KY-KO Roofing Systems, Inc.",5.0,3.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+409,WeatherGuard Improvements,5.0,,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+410,Diego Development & Construction,4.5,18.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+411,Diamond & 4 Brother's Roofing L.L.C,5.0,18.0,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+412,Stonecreek Roofing,5.0,,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+413,Weather Guard Improvements,5.0,,,85001.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+414,Roche Construction,5.0,,,99501.0,,,General Carpentry,Peripheral,Home Improvement,
+415,BBH Construction Service’s,5.0,,,99501.0,,,General Carpentry,Peripheral,Home Improvement,
+416,Vicente Gonzalez Handyman,5.0,168.0,,99501.0,,,General Carpentry,Peripheral,Home Improvement,
+417,Animal House Janitorial and Maintenance,4.5,89.0,,99501.0,,,General Carpentry,Peripheral,Home Improvement,
+418,Trinium Construction,5.0,,150.0,99501.0,,,General Carpentry,Peripheral,Home Improvement,
+419,Miss Sparkling Clean Maids,5.0,17.0,100.0,36104.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,1700.0
+420,Sonnie's Cleaning,5.0,35.0,75.0,36104.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,2625.0
+421,Rough & Tuff Cleaning Service LLC,5.0,5.0,60.0,36104.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,300.0
+422,Sophia Deep Cleaning Service,5.0,46.0,,36104.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+423,LawnStarter Lawn Care,4.0,68.0,29.0,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,1972.0
+424,Luna landscape and tree service,5.0,,,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+425,"Milk and Honey Landscape, LLC",5.0,,,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+426,APM Development,4.5,15.0,,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+427,R&C landscaping and clean-up,4.5,190.0,,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+428,Marcos Crystal Clear Maintenance Services,5.0,30.0,95.0,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,2850.0
+429,Morales Maintenance and Landscaping,5.0,,,85001.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+430,HIGHEND PRO,5.0,6.0,150.0,35210.0,,,General Carpentry,Peripheral,Home Improvement,900.0
+431,"Shades Mountain Remodeling, LLC",4.5,8.0,,35210.0,,,General Carpentry,Peripheral,Home Improvement,
+432,Better Built Craftsman LLC,5.0,146.0,,35210.0,,,General Carpentry,Peripheral,Home Improvement,
+433,HLM INDUSTRIES,5.0,82.0,,35210.0,,,General Carpentry,Peripheral,Home Improvement,
+434,Jackson Construction,4.5,7.0,,35210.0,,,General Carpentry,Peripheral,Home Improvement,
+435,Momentum Contracting LLC,4.5,6.0,,35210.0,,,General Carpentry,Peripheral,Home Improvement,
+436,ZoKlean,4.5,413.0,109.0,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,45017.0
+437,GO CLEAN,5.0,85.0,,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+438,"The Art of Clean & Home Organizing, Bonded/Insured",5.0,201.0,140.0,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,28140.0
+439,Brazilian Cleaning Lousa,4.0,5.0,100.0,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,500.0
+440,Susie’s spotless cleaning,4.5,31.0,80.0,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,2480.0
+441,Adriana,1.0,,,92101.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+442,Beau Gardner,5.0,142.0,1000.0,35210.0,,,Palm Reading,Peripheral,Wellness,142000.0
+443,Bragg Fitness,5.0,,,35210.0,,,Palm Reading,Peripheral,Wellness,
+444,Fit 4 Life,5.0,,65.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+445,Cody Collins,5.0,42.0,35.0,35210.0,,,Palm Reading,Peripheral,Wellness,1470.0
+446,"Sandel Fitness Solutions, NASM CPT, CES, PES",5.0,9.0,55.0,35210.0,,,Palm Reading,Peripheral,Wellness,495.0
+447,Cooper Fitness,5.0,39.0,99.0,35210.0,,,Palm Reading,Peripheral,Wellness,3861.0
+448,Matt K Training,5.0,3.0,87.0,35210.0,,,Palm Reading,Peripheral,Wellness,261.0
+449,Ptrcomplex,5.0,,90.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+450,Kimbroughfit,5.0,2.0,50.0,35210.0,,,Palm Reading,Peripheral,Wellness,100.0
+451,The Fitness Rebellion | Nutrition & Health Coach,5.0,4.0,57.0,35210.0,,,Palm Reading,Peripheral,Wellness,228.0
+452,Rizzo Fitness,5.0,,100.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+453,TC Fitness LLC,5.0,5.0,35.0,35210.0,,,Palm Reading,Peripheral,Wellness,175.0
+454,Wave Fitness $270 for 10x60min,5.0,20.0,27.0,35210.0,,,Palm Reading,Peripheral,Wellness,540.0
+455,Klasik Fit,5.0,36.0,,35210.0,,,Palm Reading,Peripheral,Wellness,
+456,7th Nation Fitness LLC,5.0,38.0,65.0,35210.0,,,Palm Reading,Peripheral,Wellness,2470.0
+457,DI MCXPRIENCE LLC,5.0,140.0,95.0,35210.0,,,Palm Reading,Peripheral,Wellness,13300.0
+458,Kanthaka Personal Trainers and Yoga Instructors,4.5,52.0,42.0,35210.0,,,Palm Reading,Peripheral,Wellness,2184.0
+459,Kickoff: Daily remote training for $3/day,4.5,124.0,,35210.0,,,Palm Reading,Peripheral,Wellness,
+460,Julie Henderson- Personal Training & Yoga,5.0,2.0,85.0,35210.0,,,Palm Reading,Peripheral,Wellness,170.0
+461,Jade Alexandria Fitness,5.0,5.0,50.0,35210.0,,,Palm Reading,Peripheral,Wellness,250.0
+462,Runonheart Personal Training Fitness and Nutrition,5.0,18.0,65.0,35210.0,,,Palm Reading,Peripheral,Wellness,1170.0
+463,Alex Cook Health,5.0,29.0,75.0,35210.0,,,Palm Reading,Peripheral,Wellness,2175.0
+464,Web Fit Weight Loss and Nutrition,5.0,42.0,55.0,35210.0,,,Palm Reading,Peripheral,Wellness,2310.0
+465,Weightloss For Busy Proffessionals,5.0,,60.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+466,"Dr Val Fiott, Health, Fitness & Wellness Coach",5.0,,100.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+467,Wave Fitness,5.0,30.0,27.0,35210.0,,,Palm Reading,Peripheral,Wellness,810.0
+468,Web Fit Live,5.0,,30.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+469,BFIT Transformation Programs,5.0,2.0,60.0,35210.0,,,Palm Reading,Peripheral,Wellness,120.0
+470,Body By Er LLC,5.0,,85.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+471,Personal Training,5.0,,70.0,35210.0,,,Palm Reading,Peripheral,Wellness,
+472,ISAAK HAWK COACHING,5.0,52.0,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,3120.0
+473,Beau Gardner,5.0,142.0,1000.0,99501.0,,,Palm Reading,Peripheral,Wellness,142000.0
+474,YallFit,5.0,3.0,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,180.0
+475,1 Body Strength and Conditioning LLC.,5.0,83.0,50.0,99501.0,,,Palm Reading,Peripheral,Wellness,4150.0
+476,Cody Gilliss @ InspireMVMT,5.0,3.0,125.0,99501.0,,,Palm Reading,Peripheral,Wellness,375.0
+477,Markstrong Training,5.0,11.0,50.0,99501.0,,,Palm Reading,Peripheral,Wellness,550.0
+478,Justin Cayton,5.0,,70.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+479,Cody Collins,5.0,42.0,35.0,99501.0,,,Palm Reading,Peripheral,Wellness,1470.0
+480,Xavier Sanchez,5.0,2.0,30.0,99501.0,,,Palm Reading,Peripheral,Wellness,60.0
+481,"Sandel Fitness Solutions, NASM CPT, CES, PES",5.0,9.0,55.0,99501.0,,,Palm Reading,Peripheral,Wellness,495.0
+482,Aligned Strength,5.0,2.0,120.0,99501.0,,,Palm Reading,Peripheral,Wellness,240.0
+483,PureOg Fitness,5.0,62.0,80.0,99501.0,,,Palm Reading,Peripheral,Wellness,4960.0
+484,Wave Fitness $270 for 10x60min,5.0,20.0,27.0,99501.0,,,Palm Reading,Peripheral,Wellness,540.0
+485,Med Tabar,5.0,,70.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+486,Kickoff: Daily remote training for $3/day,5.0,,,99501.0,,,Palm Reading,Peripheral,Wellness,
+487,Kanthaka Personal Trainers and Yoga Instructors,4.5,52.0,42.0,99501.0,,,Palm Reading,Peripheral,Wellness,2184.0
+488,Train With Talz,5.0,,80.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+489,Weightloss For Busy Proffessionals,5.0,,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+490,"Blue Lotus Wellness, ACSM-CPT, RYT 200, CPPC, FMS1",5.0,4.0,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,240.0
+491,LT’s Style Fit,5.0,,75.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+492,MPWR Institute,5.0,2.0,75.0,99501.0,,,Palm Reading,Peripheral,Wellness,150.0
+493,New Heights Fitness LLC,5.0,8.0,900.0,99501.0,,,Palm Reading,Peripheral,Wellness,7200.0
+494,Alex Cook Health,5.0,29.0,75.0,99501.0,,,Palm Reading,Peripheral,Wellness,2175.0
+495,Platinum Fitness Co,5.0,,250.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+496,Zion Health and Wellness,5.0,298.0,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,17880.0
+497,"GIRLS ONLY, 📍LOS ANGELES/ OFFER REMOTE TRAINING",5.0,63.0,110.0,99501.0,,,Palm Reading,Peripheral,Wellness,6930.0
+498,"Dr Val Fiott, Health, Fitness & Wellness Coach",5.0,,100.0,99501.0,,,Palm Reading,Peripheral,Wellness,
+499,Runonheart Personal Training Fitness and Nutrition,5.0,18.0,65.0,99501.0,,,Palm Reading,Peripheral,Wellness,1170.0
+500,Collin David,5.0,13.0,100.0,99501.0,,,Palm Reading,Peripheral,Wellness,1300.0
+501,BFIT Transformation Programs,5.0,2.0,60.0,99501.0,,,Palm Reading,Peripheral,Wellness,120.0
+502,LawnStarter Lawn Care,4.5,134.0,29.0,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,3886.0
+503,Wildcat lawn care and tractor service LLC,5.0,,,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+504,Broadway LawnCare 2,5.0,2.0,,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+505,Lawn Love Lawn Care,4.0,106.0,35.0,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,3710.0
+506,Pressure Washing Express LLC,5.0,6.0,40.0,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,240.0
+507,"Mow-Edge-Blow Lawn Care Service, LLC",5.0,17.0,40.0,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,680.0
+508,UltraGreen Lawn Care,5.0,9.0,50.0,72201.0,,,Lawn Mower Repair,Peripheral,Home Improvement,450.0
+509,Bates Interiors,5.0,22.0,85.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,1870.0
+510,Kerry Murphy,5.0,11.0,75.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,825.0
+511,Het Hout Interiors,5.0,7.0,95.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,665.0
+512,Holistic Havens,5.0,,125.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+513,Organize and Design AZ,5.0,9.0,85.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,765.0
+514,Amanda Thomas Design,5.0,,100.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+515,Surroundings Interior Design,,,70.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+516,Distinctive Interior Design and Real Estate,4.5,,125.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+517,"C&S Professional Home Services, Llc",5.0,2.0,75.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,150.0
+518,Design to Reflect,4.0,40.0,150.0,85001.0,,hourly,Insulation Installation or Upgrade,Peripheral,Home Improvement,6000.0
+519,Paper Box Concepts,5.0,,,85001.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+520,The Cottage Co,5.0,,,85001.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+521,LUCA CASA Interior Design Phoenix,,,,85001.0,,,Insulation Installation or Upgrade,Peripheral,Home Improvement,
+522,Modern Roofing llc,5.0,2.0,,72201.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+523,Diamond State Restoration,5.0,2.0,,72201.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+524,HLM INDUSTRIES,5.0,82.0,65.0,35210.0,,hourly,Gutter Repair,Peripheral,Home Improvement,5330.0
+525,EMP Electric,4.5,21.0,60.0,35210.0,,hourly,Gutter Repair,Peripheral,Home Improvement,1260.0
+526,Professional Painting Solutions,5.0,6.0,,35210.0,,,Gutter Repair,Peripheral,Home Improvement,
+527,Express Handy Services,5.0,,,35210.0,,,Gutter Repair,Peripheral,Home Improvement,
+528,C&W Services,5.0,3.0,60.0,35210.0,,hourly,Gutter Repair,Peripheral,Home Improvement,180.0
+529,Vicente Gonzalez Handyman,5.0,168.0,75.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,12600.0
+530,Sprout,5.0,,35.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,
+531,Happy Cleaning,5.0,36.0,,99501.0,,,Gutter Repair,Peripheral,Home Improvement,
+532,Eagle River Property Services LLC,5.0,,65.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,
+533,FitByCyrus,5.0,4.0,100.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,400.0
+534,Fred's Handyman Services,5.0,50.0,50.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,2500.0
+535,Animal House Janitorial and Maintenance,4.5,89.0,50.0,99501.0,,hourly,Gutter Repair,Peripheral,Home Improvement,4450.0
+536,ISAAK HAWK COACHING,5.0,52.0,60.0,85001.0,,,Palm Reading,Peripheral,Wellness,3120.0
+537,Crowned Fitness,5.0,18.0,50.0,85001.0,,,Palm Reading,Peripheral,Wellness,900.0
+538,Beau Gardner,5.0,142.0,1000.0,85001.0,,,Palm Reading,Peripheral,Wellness,142000.0
+539,YallFit,5.0,3.0,60.0,85001.0,,,Palm Reading,Peripheral,Wellness,180.0
+540,1 Body Strength and Conditioning LLC.,5.0,83.0,50.0,85001.0,,,Palm Reading,Peripheral,Wellness,4150.0
+541,Bragg Fitness,5.0,,,85001.0,,,Palm Reading,Peripheral,Wellness,
+542,Cody Collins,5.0,42.0,35.0,85001.0,,,Palm Reading,Peripheral,Wellness,1470.0
+543,"Sandel Fitness Solutions, NASM CPT, CES, PES",5.0,9.0,55.0,85001.0,,,Palm Reading,Peripheral,Wellness,495.0
+544,Markstrong Training,5.0,11.0,50.0,85001.0,,,Palm Reading,Peripheral,Wellness,550.0
+545,Xavier Sanchez,5.0,2.0,30.0,85001.0,,,Palm Reading,Peripheral,Wellness,60.0
+546,SVETNESS Personal Training,4.5,4.0,70.0,85001.0,,,Palm Reading,Peripheral,Wellness,280.0
+547,Med Tabar,5.0,,70.0,85001.0,,,Palm Reading,Peripheral,Wellness,
+548,Personal Training with Karen Grover,5.0,82.0,65.0,85001.0,,,Palm Reading,Peripheral,Wellness,5330.0
+549,PureOg Fitness,5.0,62.0,80.0,85001.0,,,Palm Reading,Peripheral,Wellness,4960.0
+550,Wave Fitness $270 for 10x60min,5.0,20.0,27.0,85001.0,,,Palm Reading,Peripheral,Wellness,540.0
+551,Justin Cayton,5.0,,70.0,85001.0,,,Palm Reading,Peripheral,Wellness,
+552,Kickoff: Daily remote training for $3/day,5.0,,,85001.0,,,Palm Reading,Peripheral,Wellness,
+553,Kanthaka Personal Trainers and Yoga Instructors,4.5,52.0,42.0,85001.0,,,Palm Reading,Peripheral,Wellness,2184.0
+554,Aligned Strength,5.0,2.0,120.0,85001.0,,,Palm Reading,Peripheral,Wellness,240.0
+555,Runonheart Personal Training Fitness and Nutrition,5.0,18.0,65.0,85001.0,,,Palm Reading,Peripheral,Wellness,1170.0
+556,Mobile Trainers,5.0,10.0,109.0,85001.0,,,Palm Reading,Peripheral,Wellness,1090.0
+557,LT’s Style Fit,5.0,,75.0,85001.0,,,Palm Reading,Peripheral,Wellness,
+558,MPWR Institute,5.0,2.0,75.0,85001.0,,,Palm Reading,Peripheral,Wellness,150.0
+559,Alex Cook Health,5.0,29.0,75.0,85001.0,,,Palm Reading,Peripheral,Wellness,2175.0
+560,Zion Health and Wellness,5.0,298.0,60.0,85001.0,,,Palm Reading,Peripheral,Wellness,17880.0
+561,Exult Performance,5.0,8.0,65.0,85001.0,,,Palm Reading,Peripheral,Wellness,520.0
+562,"GIRLS ONLY, 📍LOS ANGELES/ OFFER REMOTE TRAINING",5.0,63.0,110.0,85001.0,,,Palm Reading,Peripheral,Wellness,6930.0
+563,Collin David,5.0,13.0,100.0,85001.0,,,Palm Reading,Peripheral,Wellness,1300.0
+564,BFIT Transformation Programs,5.0,2.0,60.0,85001.0,,,Palm Reading,Peripheral,Wellness,120.0
+565,DenlingerFitness,5.0,2.0,,85001.0,,,Palm Reading,Peripheral,Wellness,
+566,Ana's Cleaning Solutions,5.0,122.0,100.0,95814.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,12200.0
+567,Sessoms Tree and Hauling Service,5.0,23.0,,95814.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+568,C & M JANITORIAL CLEANING SERVICES,,,,95814.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+569,CS cleaning solutions,4.5,10.0,70.0,95814.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,700.0
+570,Quality Painters LLC,5.0,5.0,30.0,72201.0,,hourly,Gutter Repair,Peripheral,Home Improvement,150.0
+571,"Cut 'N' Care, LLC",4.5,144.0,60.0,72201.0,,hourly,Gutter Repair,Peripheral,Home Improvement,8640.0
+572,The Paint I.C.U.,5.0,,45.0,72201.0,,hourly,Gutter Repair,Peripheral,Home Improvement,
+573,MGMT LLC,4.5,3.0,35.0,72201.0,,hourly,Gutter Repair,Peripheral,Home Improvement,105.0
+574,BBH Construction Service’s,5.0,,,99501.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+575,WDS Architecture,5.0,19.0,250.0,85001.0,,,General Carpentry,Peripheral,Home Improvement,4750.0
+576,Sawmill Cabinets,4.5,2.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+577,XLT Construction Inc.,4.5,20.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+578,Arcadia Design Build LLC,4.0,11.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+579,Custom Cabinets and Refinishing,4.0,50.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+580,Organize and Design AZ,5.0,9.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+581,Jacob Ahouanvoheke,4.5,4.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+582,Alin Design Construction,5.0,15.0,,85001.0,,,General Carpentry,Peripheral,Home Improvement,
+583,LawnStarter Lawn Care,4.0,848.0,29.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,24592.0
+584,Nature's Best LLC,5.0,33.0,50.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,1650.0
+585,Newton Lawn Services,5.0,10.0,40.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,400.0
+586,"Scott's Lawn Care Service, LLC",4.5,21.0,,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+587,"Tip-Top Lawn Service, LLC",5.0,8.0,60.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,480.0
+588,4 Seasons Lawn & Garden,5.0,2.0,75.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,150.0
+589,Prestige Lawn Solutions LLC,5.0,,29.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+590,H&H complete lawncare and Landscaping LLC.,4.5,62.0,35.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,2170.0
+591,Kipkip lawn services,,,45.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+592,Mint Property Care,5.0,,,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+593,G Property Management and Maintenance,4.5,6.0,55.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,330.0
+594,Brent’s,,,40.0,35210.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
+595,Fleming Roofing & Restoration,4.5,29.0,,35210.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+596,"Shades Mountain Remodeling, LLC",4.5,8.0,,35210.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+597,"Magnum Construction, LLC",,,350.0,35210.0,,,Roof Installation or Replacement,Peripheral,Home Improvement,
+598,Magic maids,5.0,,111.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+599,Air decor balloons,5.0,10.0,111.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,1110.0
+600,Wayuu Organic Cleaning,5.0,45.0,125.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,5625.0
+601,Karen Kares Kleaning,4.0,,33.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+602,Ammana's House Cleanser,4.5,168.0,,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+603,Ishmael Seven Jasso,,,,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+604,Tequila Moore,5.0,,90.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+605,Karen Hernandez,,,,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,
+606,Matthew Environmental Janitorial,5.0,7.0,80.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,560.0
+607,house Cleaning,4.5,5.0,90.0,90013.0,,,Hot Tub and Spa Repair,Peripheral,Home Improvement,450.0
+608,Animal House Janitorial and Maintenance,4.5,89.0,40.0,99501.0,,,Lawn Mower Repair,Peripheral,Home Improvement,3560.0
+609,Make it rain llc,4.5,3.0,,99501.0,,,Lawn Mower Repair,Peripheral,Home Improvement,
