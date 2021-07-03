@@ -12,8 +12,10 @@ from tolist_zipcodes import zipCodeCSV
 
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
-serviceList = ["DJ", "House Cleaning"]
-zipCodeList = ["95814", "90013"]
+# serviceList = ["DJ", "House Cleaning"]
+# zipCodeList = ["95814", "90013"]
+serviceList = servicesNameCSV[:9]
+zipCodeList = zipCodeCSV[:9]
 
 for serviceName in serviceList:
     for zipCode in zipCodeList:
@@ -175,6 +177,5 @@ for serviceName in serviceList:
             )
             driver.quit()
 
-        except Exception as e:
-            print(e)
-            driver.quit()
+        except:
+            pass
