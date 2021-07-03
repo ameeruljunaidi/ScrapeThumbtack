@@ -65,29 +65,18 @@ try:
         )
     )
 
-    tempListServiceHires = []
+    tempListServicePrice = []
     for service in pricesList:
-        tempListServiceHires.append(service.text)
-
-    # listServiceHires = []
-    # for service in tempListServiceHires:
-    #     if service.find("hires") != -1:
-    #         x = service.split()[0]
-    #     else:
-    #         x = NaN
-    #     listServiceHires.append(x)
+        tempListServicePrice.append(service.text)
 
     listServicePrice = []
-    for i in tempListServiceHires:
+    for i in tempListServicePrice:
         if i.find("$") != -1:
             x = i.split()[0]
             x = x[1:]
         else:
             x = NaN
         listServicePrice.append(x)
-
-    print(len(listServiceProvider))
-    print(len(tempListServiceHires))
 
     dictDf = {"Name": listServiceProvider, "Price": listServicePrice}
     dfFinal = pd.DataFrame(dictDf)

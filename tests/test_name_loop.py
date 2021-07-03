@@ -16,7 +16,6 @@ serviceList = ["DJ", "House Cleaning"]
 zipCodeList = ["95814", "90013"]
 
 zipDf = pd.DataFrame()
-serviceDf = pd.DataFrame()
 
 for serviceName in serviceList:
     for zipCode in zipCodeList:

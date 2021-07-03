@@ -51,7 +51,6 @@ for serviceName in serviceList:
             pass
 
         try:
-            # Name of service
             serviceProvider = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -65,7 +64,6 @@ for serviceName in serviceList:
             for service in serviceProvider:
                 listServiceProvider.append(service.text)
 
-            # List of ratings
             blocks = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -125,11 +123,39 @@ for serviceName in serviceList:
                 listServices.append(serviceName)
                 listZipCodes.append(zipCode)
 
+                listServiceProvider = []
+
+            for service in serviceProvider:
+                listServiceProvider.append(service.text)
+
+            elementServicePrices = WebDriverWait(driver, 3).until(
+                EC.presence_of_all_elements_located(
+                    (
+                        By.XPATH,
+                        "//*[@data-test]/div/div[2]/div/div[2]",
+                    )
+                )
+            )
+
+            tempListServicePrice = []
+            for service in elementServicePrices:
+                tempListServicePrice.append(service.text)
+
+            listServicePrice = []
+            for i in tempListServicePrice:
+                if i.find("$") != -1:
+                    x = i.split()[0]
+                    x = x[1:]
+                else:
+                    x = NaN
+                listServicePrice.append(x)
+
             dictServicesProvided = {
                 "Service": listServiceProvider,
                 "Type": listServices,
                 "Rating": listServiceRating,
                 "Hires": listServiceHires,
+                "Price": listServicePrice,
                 "Zip Code": listZipCodes,
             }
 
@@ -143,3 +169,6 @@ for serviceName in serviceList:
 
 driver.quit()
 zipDf.to_csv("data/services_database.csv")
+
+# TODO: Change the loops to numpy array
+# TODO: Convert to datafframe and csv per zipcode and name of service
