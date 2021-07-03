@@ -1,4 +1,6 @@
 import os
+from numpy.core.arrayprint import set_printoptions
+from numpy.lib.function_base import append
 import pandas as pd
 import time
 from numpy import NaN
@@ -40,45 +42,31 @@ except:
     pass
 
 try:
-    blocks = WebDriverWait(driver, 3).until(
+    serviceHires = WebDriverWait(driver, 3).until(
         EC.presence_of_all_elements_located(
             (
                 By.XPATH,
-                "//*[@class='flex-1 m_flex relative z-0']",
+                "//*[@data-test]/div/div[2]/div/div[1]/div/div[4]/ul/li[1]/span[2]",
             )
         )
     )
 
-    # Returns a nested list for all the service blocks
-    listBlockNodes = []
-    for block in blocks:
-        listBlockNodes.append(block.find_elements_by_xpath(".//*"))
+    tempListServiceHires = []
+    for service in serviceHires:
+        tempListServiceHires.append(service.text)
 
-    # Get all the ratings in nested form
-    nestedRatings = []
-    for i, listNodes in zip(range(len(listBlockNodes)), listBlockNodes):
-        nestedRatings.append([])
-        for nodes in listNodes:
-            nestedRatings[i].append(nodes.get_attribute("data-star"))
-
-    # Get a temporary list of all the ratings
-    tempList = []
-    for ratingsList in nestedRatings:
-        tempList.append([ratings for ratings in ratingsList if ratings is not None])
-
-    # Get the provider ratings
-    providerRatings = []
-    for ratings in tempList:
-        if len(ratings) == 0:
-            x = NaN
+    listServiceHires = []
+    for service in tempListServiceHires:
+        if service.find("hires") != -1:
+            x = service.split()[0]
         else:
-            x = ratings[0]
-        providerRatings.append(x)
+            x = NaN
+        listServiceHires.append(x)
+
+    print(listServiceHires)
 
 except Exception as e:
     print(e)
     driver.quit()
 
 driver.quit()
-
-# TODO: Get more zipcodes

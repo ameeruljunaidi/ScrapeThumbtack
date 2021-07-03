@@ -7,99 +7,127 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# from zipcodes import dfZipCodesDict
-
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
-driver = webdriver.Chrome(PATH)
-driver.get("https://www.thumbtack.com/more-services")
+zipCodeCSV = pd.read_csv("data/us_states.csv")
+zipCodeCSV = zipCodeCSV["Representative ZIP Code"].tolist()
 
 servicePlaceHolder = "DJ"
-zipCodePlaceHolder = "95814"
 
-link = driver.find_element_by_link_text(servicePlaceHolder)
-link.click()
+finalDf = pd.DataFrame()
 
-enterZipCode = driver.find_element_by_name("zip_code")
-enterZipCode.send_keys(zipCodePlaceHolder)
-enterZipCode.send_keys(Keys.RETURN)
+for zipCode in zipCodeCSV:
+    driver = webdriver.Chrome(PATH)
+    driver.get("https://www.thumbtack.com/more-services")
 
-try:
-    while True:
-        seeMoreButton = WebDriverWait(driver, 3).until(
-            EC.presence_of_element_located(
+    link = driver.find_element_by_link_text(servicePlaceHolder)
+    link.click()
+
+    enterZipCode = driver.find_element_by_name("zip_code")
+    enterZipCode.send_keys(zipCode)
+    enterZipCode.send_keys(Keys.RETURN)
+
+    try:
+        while True:
+            seeMoreButton = WebDriverWait(driver, 3).until(
+                EC.presence_of_element_located(
+                    (
+                        By.XPATH,
+                        "//button//span[contains(text(), 'See More')]",
+                    )
+                )
+            )
+            seeMoreButton.click()
+    except:
+        pass
+
+    try:
+        # Name of service
+        serviceProvider = WebDriverWait(driver, 3).until(
+            EC.presence_of_all_elements_located(
                 (
                     By.XPATH,
-                    "//button//span[contains(text(), 'See More')]",
+                    "//*[@data-test]//div[2]//div//div[1]//div//div[1]//span[@class='b']",
                 )
             )
         )
-        seeMoreButton.click()
-except:
-    pass
 
-try:
-    serviceProvider = WebDriverWait(driver, 3).until(
-        EC.presence_of_all_elements_located(
-            (
-                By.XPATH,
-                "//*[@data-test]//div[2]//div//div[1]//div//div[1]//span[@class='b']",
+        listServiceProvider = []
+        for service in serviceProvider:
+            listServiceProvider.append(service.text)
+
+        # List of ratings
+        blocks = WebDriverWait(driver, 3).until(
+            EC.presence_of_all_elements_located(
+                (
+                    By.XPATH,
+                    "//*[@class='flex-1 m_flex relative z-0']",
+                )
             )
         )
-    )
 
-    listServiceProvider = []
-    for service in serviceProvider:
-        listServiceProvider.append(service.text)
+        listBlockNodes = []
+        for block in blocks:
+            listBlockNodes.append(block.find_elements_by_xpath(".//*"))
 
-    blocks = WebDriverWait(driver, 3).until(
-        EC.presence_of_all_elements_located(
-            (
-                By.XPATH,
-                "//*[@class='flex-1 m_flex relative z-0']",
+        nestedRatings = []
+        for i, listNodes in zip(range(len(listBlockNodes)), listBlockNodes):
+            nestedRatings.append([])
+            for nodes in listNodes:
+                nestedRatings[i].append(nodes.get_attribute("data-star"))
+
+        tempRatingsList = []
+        for ratingsList in nestedRatings:
+            tempRatingsList.append(
+                [ratings for ratings in ratingsList if ratings is not None]
+            )
+
+        listServiceRating = []
+        for ratings in tempRatingsList:
+            if len(ratings) == 0:
+                x = NaN
+            else:
+                x = ratings[0]
+            listServiceRating.append(x)
+
+        # Number of hires
+        serviceHires = WebDriverWait(driver, 3).until(
+            EC.presence_of_all_elements_located(
+                (
+                    By.XPATH,
+                    "//*[@data-test]/div/div[2]/div/div[1]/div/div[4]/ul/li[1]/span[2]",
+                )
             )
         )
-    )
 
-    # Returns a nested list for all the service blocks
-    listBlockNodes = []
-    for block in blocks:
-        listBlockNodes.append(block.find_elements_by_xpath(".//*"))
+        tempListServiceHires = []
+        for service in serviceHires:
+            tempListServiceHires.append(service.text)
 
-    # Get all the ratings in nested form
-    nestedRatings = []
-    for i, listNodes in zip(range(len(listBlockNodes)), listBlockNodes):
-        nestedRatings.append([])
-        for nodes in listNodes:
-            nestedRatings[i].append(nodes.get_attribute("data-star"))
+        listServiceHires = []
+        for service in tempListServiceHires:
+            if service.find("hires") != -1:
+                x = service.split()[0]
+            else:
+                x = NaN
+            listServiceHires.append(x)
 
-    # Get a temporary list of all the ratings
-    tempList = []
-    for ratingsList in nestedRatings:
-        tempList.append([ratings for ratings in ratingsList if ratings is not None])
+        dictServicesProvided = {
+            "Service": listServiceProvider,
+            "Type": servicePlaceHolder,
+            "Rating": listServiceRating,
+            "Hires": listServiceHires,
+            "Zip Code": zipCode,
+        }
 
-    # Get the provider ratings
-    listServiceRating = []
-    for ratings in tempList:
-        if len(ratings) == 0:
-            x = NaN
-        else:
-            x = ratings[0]
-        listServiceRating.append(x)
+        dfServicesProvided = pd.DataFrame(dictServicesProvided)
 
-    dictServicesProvided = {
-        "Service": listServiceProvider,
-        "Rating": listServiceRating,
-        "Type": servicePlaceHolder,
-        "Zip Code": zipCodePlaceHolder,
-    }
+    except Exception as e:
+        print(e)
+        driver.quit()
 
-    dfServicesProvided = pd.DataFrame(dictServicesProvided)
-    dfServicesProvided.to_csv("data/services_database.csv", index=False)
-
-except:
-    pass
+    finalDf = finalDf.append(dfServicesProvided, ignore_index=True)
+    driver.quit()
 
 driver.quit()
-
-# TODO: Get more zipcodes
+finalDf.to_csv("data/services_database.csv")
