@@ -7,37 +7,37 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from tolist_services import servicesCSV
+from tolist_zipcodes import zipCodeCSV
+
 PATH = f"{os.getcwd()}/selenium/chromedriver"
-
-zipCodeCSV = pd.read_csv("data/us_states.csv")
-zipCodeCSV = zipCodeCSV["Representative ZIP Code"].tolist()
-
-servicesCSV = pd.read_csv("data/all_services.csv")
-servicesCSV = servicesCSV["Services"].tolist()
 
 serviceList = ["DJ", "House Cleaning"]
 zipCodeList = ["95814", "90013"]
 
-zipDf = pd.DataFrame()
-
 for serviceName in serviceList:
     for zipCode in zipCodeList:
 
+        # Clear the list for service name and zip codes
         listServices = []
         listZipCodes = []
 
+        # Open a chrome page with url specified
         driver = webdriver.Chrome(PATH)
         driver.get("https://www.thumbtack.com/more-services")
 
+        # Click the name of the service
         link = driver.find_element_by_link_text(serviceName)
         link.click()
 
+        # Enter zipcode and press enter
         enterZipCode = driver.find_element_by_name("zip_code")
         enterZipCode.send_keys(zipCode)
         enterZipCode.send_keys(Keys.RETURN)
 
         try:
             while True:
+                # Make sure the "see more" button is pressed if it's there
                 seeMoreButton = WebDriverWait(driver, 3).until(
                     EC.presence_of_element_located(
                         (
@@ -51,7 +51,7 @@ for serviceName in serviceList:
             pass
 
         try:
-            # Name of service
+            # Get elements for names of services
             serviceProvider = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -61,11 +61,12 @@ for serviceName in serviceList:
                 )
             )
 
+            # Get a list of the names of services
             listServiceProvider = []
             for service in serviceProvider:
                 listServiceProvider.append(service.text)
 
-            # List of ratings
+            # Get elements for ratings (need to get blocks first)
             blocks = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -75,22 +76,27 @@ for serviceName in serviceList:
                 )
             )
 
+            # Get children nodes for the blocks for ratings
             listBlockNodes = []
             for block in blocks:
                 listBlockNodes.append(block.find_elements_by_xpath(".//*"))
 
+            # Put all the nodes in a nested list (to make sure NA values are counted)
             nestedRatings = []
             for i, listNodes in zip(range(len(listBlockNodes)), listBlockNodes):
                 nestedRatings.append([])
                 for nodes in listNodes:
                     nestedRatings[i].append(nodes.get_attribute("data-star"))
 
+            # Remove all the none values from the children nodes
             tempRatingsList = []
             for ratingsList in nestedRatings:
                 tempRatingsList.append(
                     [ratings for ratings in ratingsList if ratings is not None]
                 )
 
+            # Put all ratings into a list
+            # TODO: Change to numpy array for faster execution
             listServiceRating = []
             for ratings in tempRatingsList:
                 if len(ratings) == 0:
@@ -99,7 +105,7 @@ for serviceName in serviceList:
                     x = ratings[0]
                 listServiceRating.append(x)
 
-            # Number of hires
+            # Get elements for number of hires
             serviceHires = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -109,10 +115,13 @@ for serviceName in serviceList:
                 )
             )
 
+            # Put in a temporary list (for # of hires)
             tempListServiceHires = []
             for service in serviceHires:
                 tempListServiceHires.append(service.text)
 
+            # Check for the word "hire" and put in a list
+            # TODO: Change to numpy array for faster execution
             listServiceHires = []
             for service in tempListServiceHires:
                 if service.find("hires") != -1:
@@ -121,15 +130,7 @@ for serviceName in serviceList:
                     x = NaN
                 listServiceHires.append(x)
 
-            for i in range(len(listServiceProvider)):
-                listServices.append(serviceName)
-                listZipCodes.append(zipCode)
-
-                listServiceProvider = []
-
-            for service in serviceProvider:
-                listServiceProvider.append(service.text)
-
+            # Get elements for prices
             elementServicePrices = WebDriverWait(driver, 3).until(
                 EC.presence_of_all_elements_located(
                     (
@@ -139,10 +140,13 @@ for serviceName in serviceList:
                 )
             )
 
+            # Put prices into temporary list
             tempListServicePrice = []
             for service in elementServicePrices:
                 tempListServicePrice.append(service.text)
 
+            # Check for dollar signs and put into list
+            # TODO: Change to numpy array for faster execution
             listServicePrice = []
             for i in tempListServicePrice:
                 if i.find("$") != -1:
@@ -152,6 +156,12 @@ for serviceName in serviceList:
                     x = NaN
                 listServicePrice.append(x)
 
+            # Add the name of service and zipcode into a list
+            for i in range(len(listServiceProvider)):
+                listServices.append(serviceName)
+                listZipCodes.append(zipCode)
+
+            # Create a dictionary for all lists
             dictServicesProvided = {
                 "Service": listServiceProvider,
                 "Type": listServices,
@@ -161,13 +171,12 @@ for serviceName in serviceList:
                 "Zip Code": listZipCodes,
             }
 
-            dfServicesProvided = pd.DataFrame(dictServicesProvided)
-            zipDf = zipDf.append(dfServicesProvided, ignore_index=True)
+            # Convert to csv for all names and zipcodes
+            dfServicesProvided = pd.DataFrame(dictServicesProvided).to_csv(
+                f"data/{serviceName}_{zipCode}.csv"
+            )
             driver.quit()
 
         except Exception as e:
             print(e)
             driver.quit()
-
-driver.quit()
-zipDf.to_csv("data/services_database.csv")

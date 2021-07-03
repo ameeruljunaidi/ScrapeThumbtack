@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
-zipCodeCSV = pd.read_csv("data/us_states.csv")
+zipCodeCSV = pd.read_csv("src/us_states.csv")
 zipCodeCSV = zipCodeCSV["Representative ZIP Code"].tolist()
 
 serviceList = ["DJ", "House Cleaning"]

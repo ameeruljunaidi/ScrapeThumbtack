@@ -34,5 +34,3 @@ dfAllServices = pd.concat(
 dfAllServices.to_csv("data/all_services.csv", index=False)
 
 driver.quit()
-
-# TODO: Categorize the data for all services
