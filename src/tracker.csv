@@ -2901,7 +2901,7 @@
 2899,29,00802,29_00802,False,True,Singing Lessons,False
 2900,30,36104,30_36104,False,False,Piano Lessons,True
 2901,30,35210,30_35210,False,False,Piano Lessons,True
-2902,30,99801,30_99801,False,False,Piano Lessons,True
+2902,30,99801,30_99801,True,False,Piano Lessons,False
 2903,30,99501,30_99501,False,False,Piano Lessons,True
 2904,30,85001,30_85001,False,False,Piano Lessons,True
 2905,30,72201,30_72201,False,False,Piano Lessons,True
@@ -48401,7 +48401,7 @@
 48399,484,00802,484_00802,False,False,Photography Lessons,True
 48400,30,36104,30_36104,False,False,Piano Lessons,True
 48401,30,35210,30_35210,False,False,Piano Lessons,True
-48402,30,99801,30_99801,False,False,Piano Lessons,True
+48402,30,99801,30_99801,True,False,Piano Lessons,False
 48403,30,99501,30_99501,False,False,Piano Lessons,True
 48404,30,85001,30_85001,False,False,Piano Lessons,True
 48405,30,72201,30_72201,False,False,Piano Lessons,True
