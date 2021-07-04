@@ -1,4 +1,5 @@
 import os
+from sys import platform
 import pandas as pd
 from numpy import NaN
 from selenium import webdriver
@@ -18,7 +19,12 @@ from completed import (
 
 from functions import append_new_line
 
-PATH = f"{os.getcwd()}/selenium/chromedriver"
+if platform == "linux":
+    PATH = f"{os.getcwd()}/selenium/linux/chromedriver"
+elif platform == "darwin":
+    PATH = f"{os.getcwd()}/selenium/macos/chromedriver"
+else:
+    pass
 
 serviceList = serviceTodo
 zipCodeList = zipCodeTodo
@@ -45,7 +51,10 @@ for serviceName in serviceList:
             link.click()
 
             # Enter zipcode and press enter
-            enterZipCode = driver.find_element_by_name("zip_code")
+            enterZipCode = driver.find_element_by_xpath(
+                "//*[@id='uniqueId5']/div/div[2]/input"
+            )
+            driver.implicitly_wait(10)
             enterZipCode.send_keys(zipCode)
             enterZipCode.send_keys(Keys.RETURN)
 
