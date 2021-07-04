@@ -2220,6 +2220,7 @@
 2218,23,33132,23_33132,False,False,DJ,True
 2219,23,33602,23_33602,False,False,DJ,True
 2220,23,30303,23_30303,False,False,DJ,True
+<<<<<<< HEAD
 2221,23,96813,23_96813,True,False,DJ,False
 2222,23,83702,23_83702,True,False,DJ,False
 2223,23,62701,23_62701,True,False,DJ,False
@@ -2227,6 +2228,15 @@
 2225,23,46225,23_46225,True,False,DJ,False
 2226,23,50309,23_50309,True,False,DJ,False
 2227,23,66603,23_66603,True,False,DJ,False
+=======
+2221,23,96813,23_96813,False,False,DJ,True
+2222,23,83702,23_83702,False,False,DJ,True
+2223,23,62701,23_62701,False,False,DJ,True
+2224,23,60176,23_60176,False,False,DJ,True
+2225,23,46225,23_46225,False,False,DJ,True
+2226,23,50309,23_50309,False,False,DJ,True
+2227,23,66603,23_66603,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 2228,23,67052,23_67052,True,False,DJ,False
 2229,23,40601,23_40601,True,False,DJ,False
 2230,23,40507,23_40507,True,False,DJ,False
@@ -2245,10 +2255,17 @@
 2243,23,65101,23_65101,True,False,DJ,False
 2244,23,64105,23_64105,True,False,DJ,False
 2245,23,59623,23_59623,False,True,DJ,False
+<<<<<<< HEAD
 2246,23,05101,23_05101,True,False,DJ,False
 2247,23,68502,23_68502,True,False,DJ,False
 2248,23,68102,23_68102,True,False,DJ,False
 2249,23,89701,23_89701,True,False,DJ,False
+=======
+2246,23,05101,23_05101,False,False,DJ,True
+2247,23,68502,23_68502,False,False,DJ,True
+2248,23,68102,23_68102,False,False,DJ,True
+2249,23,89701,23_89701,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 2250,23,89101,23_89101,False,False,DJ,True
 2251,23,03301,23_03301,True,False,DJ,False
 2252,23,03108,23_03108,True,False,DJ,False
@@ -2286,9 +2303,15 @@
 2284,23,98507,23_98507,True,False,DJ,False
 2285,23,98105,23_98105,True,False,DJ,False
 2286,23,25301,23_25301,True,False,DJ,False
+<<<<<<< HEAD
 2287,23,53703,23_53703,True,False,DJ,False
 2288,23,53205,23_53205,True,False,DJ,False
 2289,23,82001,23_82001,True,False,DJ,False
+=======
+2287,23,53703,23_53703,False,False,DJ,True
+2288,23,53205,23_53205,False,False,DJ,True
+2289,23,82001,23_82001,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 2290,23,96799,23_96799,False,True,DJ,False
 2291,23,20001,23_20001,False,False,DJ,True
 2292,23,96941,23_96941,False,True,DJ,False
@@ -38620,6 +38643,7 @@
 38618,23,33132,23_33132,False,False,DJ,True
 38619,23,33602,23_33602,False,False,DJ,True
 38620,23,30303,23_30303,False,False,DJ,True
+<<<<<<< HEAD
 38621,23,96813,23_96813,True,False,DJ,False
 38622,23,83702,23_83702,True,False,DJ,False
 38623,23,62701,23_62701,True,False,DJ,False
@@ -38627,6 +38651,15 @@
 38625,23,46225,23_46225,True,False,DJ,False
 38626,23,50309,23_50309,True,False,DJ,False
 38627,23,66603,23_66603,True,False,DJ,False
+=======
+38621,23,96813,23_96813,False,False,DJ,True
+38622,23,83702,23_83702,False,False,DJ,True
+38623,23,62701,23_62701,False,False,DJ,True
+38624,23,60176,23_60176,False,False,DJ,True
+38625,23,46225,23_46225,False,False,DJ,True
+38626,23,50309,23_50309,False,False,DJ,True
+38627,23,66603,23_66603,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 38628,23,67052,23_67052,True,False,DJ,False
 38629,23,40601,23_40601,True,False,DJ,False
 38630,23,40507,23_40507,True,False,DJ,False
@@ -38645,10 +38678,17 @@
 38643,23,65101,23_65101,True,False,DJ,False
 38644,23,64105,23_64105,True,False,DJ,False
 38645,23,59623,23_59623,False,True,DJ,False
+<<<<<<< HEAD
 38646,23,05101,23_05101,True,False,DJ,False
 38647,23,68502,23_68502,True,False,DJ,False
 38648,23,68102,23_68102,True,False,DJ,False
 38649,23,89701,23_89701,True,False,DJ,False
+=======
+38646,23,05101,23_05101,False,False,DJ,True
+38647,23,68502,23_68502,False,False,DJ,True
+38648,23,68102,23_68102,False,False,DJ,True
+38649,23,89701,23_89701,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 38650,23,89101,23_89101,False,False,DJ,True
 38651,23,03301,23_03301,True,False,DJ,False
 38652,23,03108,23_03108,True,False,DJ,False
@@ -38686,9 +38726,15 @@
 38684,23,98507,23_98507,True,False,DJ,False
 38685,23,98105,23_98105,True,False,DJ,False
 38686,23,25301,23_25301,True,False,DJ,False
+<<<<<<< HEAD
 38687,23,53703,23_53703,True,False,DJ,False
 38688,23,53205,23_53205,True,False,DJ,False
 38689,23,82001,23_82001,True,False,DJ,False
+=======
+38687,23,53703,23_53703,False,False,DJ,True
+38688,23,53205,23_53205,False,False,DJ,True
+38689,23,82001,23_82001,False,False,DJ,True
+>>>>>>> parent of 5f10dc4 (Run the script)
 38690,23,96799,23_96799,False,True,DJ,False
 38691,23,20001,23_20001,False,False,DJ,True
 38692,23,96941,23_96941,False,True,DJ,False
