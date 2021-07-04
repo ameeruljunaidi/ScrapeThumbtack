@@ -2210,17 +2210,16 @@
 2208,23,92101,23_92101,True,False,DJ,False
 2209,23,95112,23_95112,True,False,DJ,False
 2210,23,94108,23_94108,True,False,DJ,False
-2211,23,80202,23_80202,False,False,DJ,True
+2211,23,80202,23_80202,True,False,DJ,False
 2212,23,06103,23_06103,True,False,DJ,False
 2213,23,06604,23_06604,True,False,DJ,False
 2214,23,19901,23_19901,True,False,DJ,False
-2215,23,19850,23_19850,False,False,DJ,True
+2215,23,19850,23_19850,True,False,DJ,False
 2216,23,32301,23_32301,True,False,DJ,False
 2217,23,32202,23_32202,True,False,DJ,False
-2218,23,33132,23_33132,False,False,DJ,True
-2219,23,33602,23_33602,False,False,DJ,True
-2220,23,30303,23_30303,False,False,DJ,True
-<<<<<<< HEAD
+2218,23,33132,23_33132,True,False,DJ,False
+2219,23,33602,23_33602,True,False,DJ,False
+2220,23,30303,23_30303,True,False,DJ,False
 2221,23,96813,23_96813,True,False,DJ,False
 2222,23,83702,23_83702,True,False,DJ,False
 2223,23,62701,23_62701,True,False,DJ,False
@@ -2228,15 +2227,6 @@
 2225,23,46225,23_46225,True,False,DJ,False
 2226,23,50309,23_50309,True,False,DJ,False
 2227,23,66603,23_66603,True,False,DJ,False
-=======
-2221,23,96813,23_96813,False,False,DJ,True
-2222,23,83702,23_83702,False,False,DJ,True
-2223,23,62701,23_62701,False,False,DJ,True
-2224,23,60176,23_60176,False,False,DJ,True
-2225,23,46225,23_46225,False,False,DJ,True
-2226,23,50309,23_50309,False,False,DJ,True
-2227,23,66603,23_66603,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
 2228,23,67052,23_67052,True,False,DJ,False
 2229,23,40601,23_40601,True,False,DJ,False
 2230,23,40507,23_40507,True,False,DJ,False
@@ -2244,9 +2234,9 @@
 2232,23,70114,23_70114,True,False,DJ,False
 2233,23,04330,23_04330,True,False,DJ,False
 2234,23,04101,23_04101,True,False,DJ,False
-2235,23,21401,23_21401,False,False,DJ,True
+2235,23,21401,23_21401,True,False,DJ,False
 2236,23,21202,23_21202,True,False,DJ,False
-2237,23,02201,23_02201,False,False,DJ,True
+2237,23,02201,23_02201,True,False,DJ,False
 2238,23,48933,23_48933,True,False,DJ,False
 2239,23,48226,23_48226,True,False,DJ,False
 2240,23,55102,23_55102,True,False,DJ,False
@@ -2255,22 +2245,15 @@
 2243,23,65101,23_65101,True,False,DJ,False
 2244,23,64105,23_64105,True,False,DJ,False
 2245,23,59623,23_59623,False,True,DJ,False
-<<<<<<< HEAD
 2246,23,05101,23_05101,True,False,DJ,False
 2247,23,68502,23_68502,True,False,DJ,False
 2248,23,68102,23_68102,True,False,DJ,False
 2249,23,89701,23_89701,True,False,DJ,False
-=======
-2246,23,05101,23_05101,False,False,DJ,True
-2247,23,68502,23_68502,False,False,DJ,True
-2248,23,68102,23_68102,False,False,DJ,True
-2249,23,89701,23_89701,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
-2250,23,89101,23_89101,False,False,DJ,True
+2250,23,89101,23_89101,True,False,DJ,False
 2251,23,03301,23_03301,True,False,DJ,False
 2252,23,03108,23_03108,True,False,DJ,False
 2253,23,08608,23_08608,True,False,DJ,False
-2254,23,07102,23_07102,False,False,DJ,True
+2254,23,07102,23_07102,True,False,DJ,False
 2255,23,87501,23_87501,True,False,DJ,False
 2256,23,87102,23_87102,True,False,DJ,False
 2257,23,12207,23_12207,True,False,DJ,False
@@ -2280,7 +2263,7 @@
 2261,23,28105,23_28105,True,False,DJ,False
 2262,23,58501,23_58501,True,False,DJ,False
 2263,23,58102,23_58102,False,True,DJ,False
-2264,23,43215,23_43215,False,False,DJ,True
+2264,23,43215,23_43215,True,False,DJ,False
 2265,23,73102,23_73102,True,False,DJ,False
 2266,23,97301,23_97301,True,False,DJ,False
 2267,23,97201,23_97201,True,False,DJ,False
@@ -2292,8 +2275,8 @@
 2273,23,57103,23_57103,False,True,DJ,False
 2274,23,37219,23_37219,True,False,DJ,False
 2275,23,78701,23_78701,True,False,DJ,False
-2276,23,77002,23_77002,False,False,DJ,True
-2277,23,78207,23_78207,False,False,DJ,True
+2276,23,77002,23_77002,True,False,DJ,False
+2277,23,78207,23_78207,True,False,DJ,False
 2278,23,75207,23_75207,True,False,DJ,False
 2279,23,84111,23_84111,True,False,DJ,False
 2280,23,05602,23_05602,True,False,DJ,False
@@ -2303,17 +2286,11 @@
 2284,23,98507,23_98507,True,False,DJ,False
 2285,23,98105,23_98105,True,False,DJ,False
 2286,23,25301,23_25301,True,False,DJ,False
-<<<<<<< HEAD
 2287,23,53703,23_53703,True,False,DJ,False
 2288,23,53205,23_53205,True,False,DJ,False
 2289,23,82001,23_82001,True,False,DJ,False
-=======
-2287,23,53703,23_53703,False,False,DJ,True
-2288,23,53205,23_53205,False,False,DJ,True
-2289,23,82001,23_82001,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
 2290,23,96799,23_96799,False,True,DJ,False
-2291,23,20001,23_20001,False,False,DJ,True
+2291,23,20001,23_20001,True,False,DJ,False
 2292,23,96941,23_96941,False,True,DJ,False
 2293,23,96910,23_96910,False,True,DJ,False
 2294,23,96912,23_96912,False,True,DJ,False
@@ -2322,112 +2299,112 @@
 2297,23,96939,23_96939,False,True,DJ,False
 2298,23,00901,23_00901,False,True,DJ,False
 2299,23,00802,23_00802,False,True,DJ,False
-2300,24,36104,24_36104,False,False,Wedding Officiant,True
-2301,24,35210,24_35210,False,False,Wedding Officiant,True
-2302,24,99801,24_99801,False,False,Wedding Officiant,True
-2303,24,99501,24_99501,False,False,Wedding Officiant,True
-2304,24,85001,24_85001,False,False,Wedding Officiant,True
-2305,24,72201,24_72201,False,False,Wedding Officiant,True
-2306,24,95814,24_95814,False,False,Wedding Officiant,True
-2307,24,90013,24_90013,False,False,Wedding Officiant,True
-2308,24,92101,24_92101,False,False,Wedding Officiant,True
-2309,24,95112,24_95112,False,False,Wedding Officiant,True
-2310,24,94108,24_94108,False,False,Wedding Officiant,True
-2311,24,80202,24_80202,False,False,Wedding Officiant,True
-2312,24,06103,24_06103,False,False,Wedding Officiant,True
-2313,24,06604,24_06604,False,False,Wedding Officiant,True
-2314,24,19901,24_19901,False,False,Wedding Officiant,True
-2315,24,19850,24_19850,False,False,Wedding Officiant,True
-2316,24,32301,24_32301,False,False,Wedding Officiant,True
-2317,24,32202,24_32202,False,False,Wedding Officiant,True
-2318,24,33132,24_33132,False,False,Wedding Officiant,True
-2319,24,33602,24_33602,False,False,Wedding Officiant,True
-2320,24,30303,24_30303,False,False,Wedding Officiant,True
-2321,24,96813,24_96813,False,False,Wedding Officiant,True
-2322,24,83702,24_83702,False,False,Wedding Officiant,True
-2323,24,62701,24_62701,False,False,Wedding Officiant,True
-2324,24,60176,24_60176,False,False,Wedding Officiant,True
-2325,24,46225,24_46225,False,False,Wedding Officiant,True
-2326,24,50309,24_50309,False,False,Wedding Officiant,True
-2327,24,66603,24_66603,False,False,Wedding Officiant,True
-2328,24,67052,24_67052,False,False,Wedding Officiant,True
-2329,24,40601,24_40601,False,False,Wedding Officiant,True
-2330,24,40507,24_40507,False,False,Wedding Officiant,True
-2331,24,70802,24_70802,False,False,Wedding Officiant,True
-2332,24,70114,24_70114,False,False,Wedding Officiant,True
-2333,24,04330,24_04330,False,False,Wedding Officiant,True
-2334,24,04101,24_04101,False,False,Wedding Officiant,True
-2335,24,21401,24_21401,False,False,Wedding Officiant,True
-2336,24,21202,24_21202,False,False,Wedding Officiant,True
-2337,24,02201,24_02201,False,False,Wedding Officiant,True
-2338,24,48933,24_48933,False,False,Wedding Officiant,True
-2339,24,48226,24_48226,False,False,Wedding Officiant,True
-2340,24,55102,24_55102,False,False,Wedding Officiant,True
-2341,24,55404,24_55404,False,False,Wedding Officiant,True
-2342,24,39205,24_39205,False,False,Wedding Officiant,True
-2343,24,65101,24_65101,False,False,Wedding Officiant,True
-2344,24,64105,24_64105,False,False,Wedding Officiant,True
-2345,24,59623,24_59623,False,False,Wedding Officiant,True
-2346,24,05101,24_05101,False,False,Wedding Officiant,True
-2347,24,68502,24_68502,False,False,Wedding Officiant,True
-2348,24,68102,24_68102,False,False,Wedding Officiant,True
-2349,24,89701,24_89701,False,False,Wedding Officiant,True
-2350,24,89101,24_89101,False,False,Wedding Officiant,True
-2351,24,03301,24_03301,False,False,Wedding Officiant,True
-2352,24,03108,24_03108,False,False,Wedding Officiant,True
-2353,24,08608,24_08608,False,False,Wedding Officiant,True
-2354,24,07102,24_07102,False,False,Wedding Officiant,True
-2355,24,87501,24_87501,False,False,Wedding Officiant,True
-2356,24,87102,24_87102,False,False,Wedding Officiant,True
-2357,24,12207,24_12207,False,False,Wedding Officiant,True
-2358,24,10007,24_10007,False,False,Wedding Officiant,True
-2359,24,11021,24_11021,False,False,Wedding Officiant,True
-2360,24,27601,24_27601,False,False,Wedding Officiant,True
-2361,24,28105,24_28105,False,False,Wedding Officiant,True
-2362,24,58501,24_58501,False,False,Wedding Officiant,True
-2363,24,58102,24_58102,False,False,Wedding Officiant,True
-2364,24,43215,24_43215,False,False,Wedding Officiant,True
-2365,24,73102,24_73102,False,False,Wedding Officiant,True
-2366,24,97301,24_97301,False,False,Wedding Officiant,True
-2367,24,97201,24_97201,False,False,Wedding Officiant,True
-2368,24,17101,24_17101,False,False,Wedding Officiant,True
-2369,24,19103,24_19103,False,False,Wedding Officiant,True
-2370,24,02903,24_02903,False,False,Wedding Officiant,True
-2371,24,29217,24_29217,False,False,Wedding Officiant,True
-2372,24,57501,24_57501,False,False,Wedding Officiant,True
-2373,24,57103,24_57103,False,False,Wedding Officiant,True
-2374,24,37219,24_37219,False,False,Wedding Officiant,True
-2375,24,78701,24_78701,False,False,Wedding Officiant,True
-2376,24,77002,24_77002,False,False,Wedding Officiant,True
-2377,24,78207,24_78207,False,False,Wedding Officiant,True
-2378,24,75207,24_75207,False,False,Wedding Officiant,True
-2379,24,84111,24_84111,False,False,Wedding Officiant,True
-2380,24,05602,24_05602,False,False,Wedding Officiant,True
-2381,24,05401,24_05401,False,False,Wedding Officiant,True
-2382,24,23219,24_23219,False,False,Wedding Officiant,True
-2383,24,23454,24_23454,False,False,Wedding Officiant,True
-2384,24,98507,24_98507,False,False,Wedding Officiant,True
-2385,24,98105,24_98105,False,False,Wedding Officiant,True
-2386,24,25301,24_25301,False,False,Wedding Officiant,True
-2387,24,53703,24_53703,False,False,Wedding Officiant,True
-2388,24,53205,24_53205,False,False,Wedding Officiant,True
-2389,24,82001,24_82001,False,False,Wedding Officiant,True
-2390,24,96799,24_96799,False,False,Wedding Officiant,True
-2391,24,20001,24_20001,False,False,Wedding Officiant,True
-2392,24,96941,24_96941,False,False,Wedding Officiant,True
-2393,24,96910,24_96910,False,False,Wedding Officiant,True
-2394,24,96912,24_96912,False,False,Wedding Officiant,True
-2395,24,96960,24_96960,False,False,Wedding Officiant,True
-2396,24,96950,24_96950,False,False,Wedding Officiant,True
-2397,24,96939,24_96939,False,False,Wedding Officiant,True
-2398,24,00901,24_00901,False,False,Wedding Officiant,True
-2399,24,00802,24_00802,False,False,Wedding Officiant,True
-2400,25,36104,25_36104,False,False,Wedding and Event Catering,True
-2401,25,35210,25_35210,False,False,Wedding and Event Catering,True
-2402,25,99801,25_99801,False,False,Wedding and Event Catering,True
-2403,25,99501,25_99501,False,False,Wedding and Event Catering,True
+2300,24,36104,24_36104,True,False,Wedding Officiant,False
+2301,24,35210,24_35210,True,False,Wedding Officiant,False
+2302,24,99801,24_99801,False,True,Wedding Officiant,False
+2303,24,99501,24_99501,False,True,Wedding Officiant,False
+2304,24,85001,24_85001,True,False,Wedding Officiant,False
+2305,24,72201,24_72201,True,False,Wedding Officiant,False
+2306,24,95814,24_95814,True,False,Wedding Officiant,False
+2307,24,90013,24_90013,True,False,Wedding Officiant,False
+2308,24,92101,24_92101,True,False,Wedding Officiant,False
+2309,24,95112,24_95112,True,False,Wedding Officiant,False
+2310,24,94108,24_94108,True,False,Wedding Officiant,False
+2311,24,80202,24_80202,True,False,Wedding Officiant,False
+2312,24,06103,24_06103,True,False,Wedding Officiant,False
+2313,24,06604,24_06604,True,False,Wedding Officiant,False
+2314,24,19901,24_19901,True,False,Wedding Officiant,False
+2315,24,19850,24_19850,True,False,Wedding Officiant,False
+2316,24,32301,24_32301,True,False,Wedding Officiant,False
+2317,24,32202,24_32202,True,False,Wedding Officiant,False
+2318,24,33132,24_33132,True,False,Wedding Officiant,False
+2319,24,33602,24_33602,True,False,Wedding Officiant,False
+2320,24,30303,24_30303,True,False,Wedding Officiant,False
+2321,24,96813,24_96813,True,False,Wedding Officiant,False
+2322,24,83702,24_83702,True,False,Wedding Officiant,False
+2323,24,62701,24_62701,True,False,Wedding Officiant,False
+2324,24,60176,24_60176,True,False,Wedding Officiant,False
+2325,24,46225,24_46225,True,False,Wedding Officiant,False
+2326,24,50309,24_50309,True,False,Wedding Officiant,False
+2327,24,66603,24_66603,True,False,Wedding Officiant,False
+2328,24,67052,24_67052,True,False,Wedding Officiant,False
+2329,24,40601,24_40601,True,False,Wedding Officiant,False
+2330,24,40507,24_40507,True,False,Wedding Officiant,False
+2331,24,70802,24_70802,True,False,Wedding Officiant,False
+2332,24,70114,24_70114,True,False,Wedding Officiant,False
+2333,24,04330,24_04330,True,False,Wedding Officiant,False
+2334,24,04101,24_04101,True,False,Wedding Officiant,False
+2335,24,21401,24_21401,True,False,Wedding Officiant,False
+2336,24,21202,24_21202,True,False,Wedding Officiant,False
+2337,24,02201,24_02201,True,False,Wedding Officiant,False
+2338,24,48933,24_48933,True,False,Wedding Officiant,False
+2339,24,48226,24_48226,True,False,Wedding Officiant,False
+2340,24,55102,24_55102,True,False,Wedding Officiant,False
+2341,24,55404,24_55404,True,False,Wedding Officiant,False
+2342,24,39205,24_39205,True,False,Wedding Officiant,False
+2343,24,65101,24_65101,True,False,Wedding Officiant,False
+2344,24,64105,24_64105,True,False,Wedding Officiant,False
+2345,24,59623,24_59623,False,True,Wedding Officiant,False
+2346,24,05101,24_05101,True,False,Wedding Officiant,False
+2347,24,68502,24_68502,True,False,Wedding Officiant,False
+2348,24,68102,24_68102,True,False,Wedding Officiant,False
+2349,24,89701,24_89701,True,False,Wedding Officiant,False
+2350,24,89101,24_89101,True,False,Wedding Officiant,False
+2351,24,03301,24_03301,True,False,Wedding Officiant,False
+2352,24,03108,24_03108,True,False,Wedding Officiant,False
+2353,24,08608,24_08608,True,False,Wedding Officiant,False
+2354,24,07102,24_07102,True,False,Wedding Officiant,False
+2355,24,87501,24_87501,True,False,Wedding Officiant,False
+2356,24,87102,24_87102,True,False,Wedding Officiant,False
+2357,24,12207,24_12207,True,False,Wedding Officiant,False
+2358,24,10007,24_10007,True,False,Wedding Officiant,False
+2359,24,11021,24_11021,True,False,Wedding Officiant,False
+2360,24,27601,24_27601,True,False,Wedding Officiant,False
+2361,24,28105,24_28105,True,False,Wedding Officiant,False
+2362,24,58501,24_58501,True,False,Wedding Officiant,False
+2363,24,58102,24_58102,True,False,Wedding Officiant,False
+2364,24,43215,24_43215,True,False,Wedding Officiant,False
+2365,24,73102,24_73102,True,False,Wedding Officiant,False
+2366,24,97301,24_97301,True,False,Wedding Officiant,False
+2367,24,97201,24_97201,True,False,Wedding Officiant,False
+2368,24,17101,24_17101,True,False,Wedding Officiant,False
+2369,24,19103,24_19103,True,False,Wedding Officiant,False
+2370,24,02903,24_02903,True,False,Wedding Officiant,False
+2371,24,29217,24_29217,True,False,Wedding Officiant,False
+2372,24,57501,24_57501,False,True,Wedding Officiant,False
+2373,24,57103,24_57103,True,False,Wedding Officiant,False
+2374,24,37219,24_37219,True,False,Wedding Officiant,False
+2375,24,78701,24_78701,True,False,Wedding Officiant,False
+2376,24,77002,24_77002,True,False,Wedding Officiant,False
+2377,24,78207,24_78207,True,False,Wedding Officiant,False
+2378,24,75207,24_75207,True,False,Wedding Officiant,False
+2379,24,84111,24_84111,True,False,Wedding Officiant,False
+2380,24,05602,24_05602,True,False,Wedding Officiant,False
+2381,24,05401,24_05401,True,False,Wedding Officiant,False
+2382,24,23219,24_23219,True,False,Wedding Officiant,False
+2383,24,23454,24_23454,True,False,Wedding Officiant,False
+2384,24,98507,24_98507,True,False,Wedding Officiant,False
+2385,24,98105,24_98105,True,False,Wedding Officiant,False
+2386,24,25301,24_25301,True,False,Wedding Officiant,False
+2387,24,53703,24_53703,True,False,Wedding Officiant,False
+2388,24,53205,24_53205,True,False,Wedding Officiant,False
+2389,24,82001,24_82001,True,False,Wedding Officiant,False
+2390,24,96799,24_96799,False,True,Wedding Officiant,False
+2391,24,20001,24_20001,True,False,Wedding Officiant,False
+2392,24,96941,24_96941,False,True,Wedding Officiant,False
+2393,24,96910,24_96910,False,True,Wedding Officiant,False
+2394,24,96912,24_96912,False,True,Wedding Officiant,False
+2395,24,96960,24_96960,False,True,Wedding Officiant,False
+2396,24,96950,24_96950,False,True,Wedding Officiant,False
+2397,24,96939,24_96939,False,True,Wedding Officiant,False
+2398,24,00901,24_00901,False,True,Wedding Officiant,False
+2399,24,00802,24_00802,False,True,Wedding Officiant,False
+2400,25,36104,25_36104,True,False,Wedding and Event Catering,False
+2401,25,35210,25_35210,True,False,Wedding and Event Catering,False
+2402,25,99801,25_99801,False,True,Wedding and Event Catering,False
+2403,25,99501,25_99501,False,True,Wedding and Event Catering,False
 2404,25,85001,25_85001,False,False,Wedding and Event Catering,True
-2405,25,72201,25_72201,False,False,Wedding and Event Catering,True
+2405,25,72201,25_72201,False,True,Wedding and Event Catering,False
 2406,25,95814,25_95814,False,False,Wedding and Event Catering,True
 2407,25,90013,25_90013,False,False,Wedding and Event Catering,True
 2408,25,92101,25_92101,False,False,Wedding and Event Catering,True
@@ -2438,37 +2415,37 @@
 2413,25,06604,25_06604,False,False,Wedding and Event Catering,True
 2414,25,19901,25_19901,False,False,Wedding and Event Catering,True
 2415,25,19850,25_19850,False,False,Wedding and Event Catering,True
-2416,25,32301,25_32301,False,False,Wedding and Event Catering,True
+2416,25,32301,25_32301,True,False,Wedding and Event Catering,False
 2417,25,32202,25_32202,False,False,Wedding and Event Catering,True
 2418,25,33132,25_33132,False,False,Wedding and Event Catering,True
 2419,25,33602,25_33602,False,False,Wedding and Event Catering,True
 2420,25,30303,25_30303,False,False,Wedding and Event Catering,True
 2421,25,96813,25_96813,False,False,Wedding and Event Catering,True
-2422,25,83702,25_83702,False,False,Wedding and Event Catering,True
+2422,25,83702,25_83702,False,True,Wedding and Event Catering,False
 2423,25,62701,25_62701,False,False,Wedding and Event Catering,True
 2424,25,60176,25_60176,False,False,Wedding and Event Catering,True
 2425,25,46225,25_46225,False,False,Wedding and Event Catering,True
-2426,25,50309,25_50309,False,False,Wedding and Event Catering,True
-2427,25,66603,25_66603,False,False,Wedding and Event Catering,True
-2428,25,67052,25_67052,False,False,Wedding and Event Catering,True
-2429,25,40601,25_40601,False,False,Wedding and Event Catering,True
-2430,25,40507,25_40507,False,False,Wedding and Event Catering,True
+2426,25,50309,25_50309,False,True,Wedding and Event Catering,False
+2427,25,66603,25_66603,True,False,Wedding and Event Catering,False
+2428,25,67052,25_67052,False,True,Wedding and Event Catering,False
+2429,25,40601,25_40601,True,False,Wedding and Event Catering,False
+2430,25,40507,25_40507,True,False,Wedding and Event Catering,False
 2431,25,70802,25_70802,False,False,Wedding and Event Catering,True
 2432,25,70114,25_70114,False,False,Wedding and Event Catering,True
-2433,25,04330,25_04330,False,False,Wedding and Event Catering,True
-2434,25,04101,25_04101,False,False,Wedding and Event Catering,True
+2433,25,04330,25_04330,False,True,Wedding and Event Catering,False
+2434,25,04101,25_04101,True,False,Wedding and Event Catering,False
 2435,25,21401,25_21401,False,False,Wedding and Event Catering,True
 2436,25,21202,25_21202,False,False,Wedding and Event Catering,True
 2437,25,02201,25_02201,False,False,Wedding and Event Catering,True
-2438,25,48933,25_48933,False,False,Wedding and Event Catering,True
+2438,25,48933,25_48933,True,False,Wedding and Event Catering,False
 2439,25,48226,25_48226,False,False,Wedding and Event Catering,True
 2440,25,55102,25_55102,False,False,Wedding and Event Catering,True
 2441,25,55404,25_55404,False,False,Wedding and Event Catering,True
-2442,25,39205,25_39205,False,False,Wedding and Event Catering,True
+2442,25,39205,25_39205,False,True,Wedding and Event Catering,False
 2443,25,65101,25_65101,False,False,Wedding and Event Catering,True
 2444,25,64105,25_64105,False,False,Wedding and Event Catering,True
-2445,25,59623,25_59623,False,False,Wedding and Event Catering,True
-2446,25,05101,25_05101,False,False,Wedding and Event Catering,True
+2445,25,59623,25_59623,False,True,Wedding and Event Catering,False
+2446,25,05101,25_05101,True,False,Wedding and Event Catering,False
 2447,25,68502,25_68502,False,False,Wedding and Event Catering,True
 2448,25,68102,25_68102,False,False,Wedding and Event Catering,True
 2449,25,89701,25_89701,False,False,Wedding and Event Catering,True
@@ -2480,48 +2457,48 @@
 2455,25,87501,25_87501,False,False,Wedding and Event Catering,True
 2456,25,87102,25_87102,False,False,Wedding and Event Catering,True
 2457,25,12207,25_12207,False,False,Wedding and Event Catering,True
-2458,25,10007,25_10007,False,False,Wedding and Event Catering,True
-2459,25,11021,25_11021,False,False,Wedding and Event Catering,True
+2458,25,10007,25_10007,True,False,Wedding and Event Catering,False
+2459,25,11021,25_11021,True,False,Wedding and Event Catering,False
 2460,25,27601,25_27601,False,False,Wedding and Event Catering,True
 2461,25,28105,25_28105,False,False,Wedding and Event Catering,True
-2462,25,58501,25_58501,False,False,Wedding and Event Catering,True
-2463,25,58102,25_58102,False,False,Wedding and Event Catering,True
+2462,25,58501,25_58501,True,False,Wedding and Event Catering,False
+2463,25,58102,25_58102,False,True,Wedding and Event Catering,False
 2464,25,43215,25_43215,False,False,Wedding and Event Catering,True
 2465,25,73102,25_73102,False,False,Wedding and Event Catering,True
 2466,25,97301,25_97301,False,False,Wedding and Event Catering,True
 2467,25,97201,25_97201,False,False,Wedding and Event Catering,True
-2468,25,17101,25_17101,False,False,Wedding and Event Catering,True
+2468,25,17101,25_17101,True,False,Wedding and Event Catering,False
 2469,25,19103,25_19103,False,False,Wedding and Event Catering,True
 2470,25,02903,25_02903,False,False,Wedding and Event Catering,True
 2471,25,29217,25_29217,False,False,Wedding and Event Catering,True
-2472,25,57501,25_57501,False,False,Wedding and Event Catering,True
-2473,25,57103,25_57103,False,False,Wedding and Event Catering,True
+2472,25,57501,25_57501,False,True,Wedding and Event Catering,False
+2473,25,57103,25_57103,False,True,Wedding and Event Catering,False
 2474,25,37219,25_37219,False,False,Wedding and Event Catering,True
 2475,25,78701,25_78701,False,False,Wedding and Event Catering,True
 2476,25,77002,25_77002,False,False,Wedding and Event Catering,True
 2477,25,78207,25_78207,False,False,Wedding and Event Catering,True
 2478,25,75207,25_75207,False,False,Wedding and Event Catering,True
 2479,25,84111,25_84111,False,False,Wedding and Event Catering,True
-2480,25,05602,25_05602,False,False,Wedding and Event Catering,True
-2481,25,05401,25_05401,False,False,Wedding and Event Catering,True
+2480,25,05602,25_05602,False,True,Wedding and Event Catering,False
+2481,25,05401,25_05401,False,True,Wedding and Event Catering,False
 2482,25,23219,25_23219,False,False,Wedding and Event Catering,True
 2483,25,23454,25_23454,False,False,Wedding and Event Catering,True
 2484,25,98507,25_98507,False,False,Wedding and Event Catering,True
 2485,25,98105,25_98105,False,False,Wedding and Event Catering,True
-2486,25,25301,25_25301,False,False,Wedding and Event Catering,True
+2486,25,25301,25_25301,True,False,Wedding and Event Catering,False
 2487,25,53703,25_53703,False,False,Wedding and Event Catering,True
 2488,25,53205,25_53205,False,False,Wedding and Event Catering,True
-2489,25,82001,25_82001,False,False,Wedding and Event Catering,True
-2490,25,96799,25_96799,False,False,Wedding and Event Catering,True
+2489,25,82001,25_82001,True,False,Wedding and Event Catering,False
+2490,25,96799,25_96799,False,True,Wedding and Event Catering,False
 2491,25,20001,25_20001,False,False,Wedding and Event Catering,True
-2492,25,96941,25_96941,False,False,Wedding and Event Catering,True
-2493,25,96910,25_96910,False,False,Wedding and Event Catering,True
-2494,25,96912,25_96912,False,False,Wedding and Event Catering,True
-2495,25,96960,25_96960,False,False,Wedding and Event Catering,True
-2496,25,96950,25_96950,False,False,Wedding and Event Catering,True
-2497,25,96939,25_96939,False,False,Wedding and Event Catering,True
-2498,25,00901,25_00901,False,False,Wedding and Event Catering,True
-2499,25,00802,25_00802,False,False,Wedding and Event Catering,True
+2492,25,96941,25_96941,False,True,Wedding and Event Catering,False
+2493,25,96910,25_96910,False,True,Wedding and Event Catering,False
+2494,25,96912,25_96912,False,True,Wedding and Event Catering,False
+2495,25,96960,25_96960,False,True,Wedding and Event Catering,False
+2496,25,96950,25_96950,False,True,Wedding and Event Catering,False
+2497,25,96939,25_96939,False,True,Wedding and Event Catering,False
+2498,25,00901,25_00901,False,True,Wedding and Event Catering,False
+2499,25,00802,25_00802,False,True,Wedding and Event Catering,False
 2500,26,36104,26_36104,False,False,Wedding and Event Makeup,True
 2501,26,35210,26_35210,False,False,Wedding and Event Makeup,True
 2502,26,99801,26_99801,False,False,Wedding and Event Makeup,True
@@ -38633,17 +38610,16 @@
 38608,23,92101,23_92101,True,False,DJ,False
 38609,23,95112,23_95112,True,False,DJ,False
 38610,23,94108,23_94108,True,False,DJ,False
-38611,23,80202,23_80202,False,False,DJ,True
+38611,23,80202,23_80202,True,False,DJ,False
 38612,23,06103,23_06103,True,False,DJ,False
 38613,23,06604,23_06604,True,False,DJ,False
 38614,23,19901,23_19901,True,False,DJ,False
-38615,23,19850,23_19850,False,False,DJ,True
+38615,23,19850,23_19850,True,False,DJ,False
 38616,23,32301,23_32301,True,False,DJ,False
 38617,23,32202,23_32202,True,False,DJ,False
-38618,23,33132,23_33132,False,False,DJ,True
-38619,23,33602,23_33602,False,False,DJ,True
-38620,23,30303,23_30303,False,False,DJ,True
-<<<<<<< HEAD
+38618,23,33132,23_33132,True,False,DJ,False
+38619,23,33602,23_33602,True,False,DJ,False
+38620,23,30303,23_30303,True,False,DJ,False
 38621,23,96813,23_96813,True,False,DJ,False
 38622,23,83702,23_83702,True,False,DJ,False
 38623,23,62701,23_62701,True,False,DJ,False
@@ -38651,15 +38627,6 @@
 38625,23,46225,23_46225,True,False,DJ,False
 38626,23,50309,23_50309,True,False,DJ,False
 38627,23,66603,23_66603,True,False,DJ,False
-=======
-38621,23,96813,23_96813,False,False,DJ,True
-38622,23,83702,23_83702,False,False,DJ,True
-38623,23,62701,23_62701,False,False,DJ,True
-38624,23,60176,23_60176,False,False,DJ,True
-38625,23,46225,23_46225,False,False,DJ,True
-38626,23,50309,23_50309,False,False,DJ,True
-38627,23,66603,23_66603,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
 38628,23,67052,23_67052,True,False,DJ,False
 38629,23,40601,23_40601,True,False,DJ,False
 38630,23,40507,23_40507,True,False,DJ,False
@@ -38667,9 +38634,9 @@
 38632,23,70114,23_70114,True,False,DJ,False
 38633,23,04330,23_04330,True,False,DJ,False
 38634,23,04101,23_04101,True,False,DJ,False
-38635,23,21401,23_21401,False,False,DJ,True
+38635,23,21401,23_21401,True,False,DJ,False
 38636,23,21202,23_21202,True,False,DJ,False
-38637,23,02201,23_02201,False,False,DJ,True
+38637,23,02201,23_02201,True,False,DJ,False
 38638,23,48933,23_48933,True,False,DJ,False
 38639,23,48226,23_48226,True,False,DJ,False
 38640,23,55102,23_55102,True,False,DJ,False
@@ -38678,22 +38645,15 @@
 38643,23,65101,23_65101,True,False,DJ,False
 38644,23,64105,23_64105,True,False,DJ,False
 38645,23,59623,23_59623,False,True,DJ,False
-<<<<<<< HEAD
 38646,23,05101,23_05101,True,False,DJ,False
 38647,23,68502,23_68502,True,False,DJ,False
 38648,23,68102,23_68102,True,False,DJ,False
 38649,23,89701,23_89701,True,False,DJ,False
-=======
-38646,23,05101,23_05101,False,False,DJ,True
-38647,23,68502,23_68502,False,False,DJ,True
-38648,23,68102,23_68102,False,False,DJ,True
-38649,23,89701,23_89701,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
-38650,23,89101,23_89101,False,False,DJ,True
+38650,23,89101,23_89101,True,False,DJ,False
 38651,23,03301,23_03301,True,False,DJ,False
 38652,23,03108,23_03108,True,False,DJ,False
 38653,23,08608,23_08608,True,False,DJ,False
-38654,23,07102,23_07102,False,False,DJ,True
+38654,23,07102,23_07102,True,False,DJ,False
 38655,23,87501,23_87501,True,False,DJ,False
 38656,23,87102,23_87102,True,False,DJ,False
 38657,23,12207,23_12207,True,False,DJ,False
@@ -38703,7 +38663,7 @@
 38661,23,28105,23_28105,True,False,DJ,False
 38662,23,58501,23_58501,True,False,DJ,False
 38663,23,58102,23_58102,False,True,DJ,False
-38664,23,43215,23_43215,False,False,DJ,True
+38664,23,43215,23_43215,True,False,DJ,False
 38665,23,73102,23_73102,True,False,DJ,False
 38666,23,97301,23_97301,True,False,DJ,False
 38667,23,97201,23_97201,True,False,DJ,False
@@ -38715,8 +38675,8 @@
 38673,23,57103,23_57103,False,True,DJ,False
 38674,23,37219,23_37219,True,False,DJ,False
 38675,23,78701,23_78701,True,False,DJ,False
-38676,23,77002,23_77002,False,False,DJ,True
-38677,23,78207,23_78207,False,False,DJ,True
+38676,23,77002,23_77002,True,False,DJ,False
+38677,23,78207,23_78207,True,False,DJ,False
 38678,23,75207,23_75207,True,False,DJ,False
 38679,23,84111,23_84111,True,False,DJ,False
 38680,23,05602,23_05602,True,False,DJ,False
@@ -38726,17 +38686,11 @@
 38684,23,98507,23_98507,True,False,DJ,False
 38685,23,98105,23_98105,True,False,DJ,False
 38686,23,25301,23_25301,True,False,DJ,False
-<<<<<<< HEAD
 38687,23,53703,23_53703,True,False,DJ,False
 38688,23,53205,23_53205,True,False,DJ,False
 38689,23,82001,23_82001,True,False,DJ,False
-=======
-38687,23,53703,23_53703,False,False,DJ,True
-38688,23,53205,23_53205,False,False,DJ,True
-38689,23,82001,23_82001,False,False,DJ,True
->>>>>>> parent of 5f10dc4 (Run the script)
 38690,23,96799,23_96799,False,True,DJ,False
-38691,23,20001,23_20001,False,False,DJ,True
+38691,23,20001,23_20001,True,False,DJ,False
 38692,23,96941,23_96941,False,True,DJ,False
 38693,23,96910,23_96910,False,True,DJ,False
 38694,23,96912,23_96912,False,True,DJ,False
@@ -44145,106 +44099,106 @@
 44097,441,96939,441_96939,False,False,Wedding Florist,True
 44098,441,00901,441_00901,False,False,Wedding Florist,True
 44099,441,00802,441_00802,False,False,Wedding Florist,True
-44100,24,36104,24_36104,False,False,Wedding Officiant,True
-44101,24,35210,24_35210,False,False,Wedding Officiant,True
-44102,24,99801,24_99801,False,False,Wedding Officiant,True
-44103,24,99501,24_99501,False,False,Wedding Officiant,True
-44104,24,85001,24_85001,False,False,Wedding Officiant,True
-44105,24,72201,24_72201,False,False,Wedding Officiant,True
-44106,24,95814,24_95814,False,False,Wedding Officiant,True
-44107,24,90013,24_90013,False,False,Wedding Officiant,True
-44108,24,92101,24_92101,False,False,Wedding Officiant,True
-44109,24,95112,24_95112,False,False,Wedding Officiant,True
-44110,24,94108,24_94108,False,False,Wedding Officiant,True
-44111,24,80202,24_80202,False,False,Wedding Officiant,True
-44112,24,06103,24_06103,False,False,Wedding Officiant,True
-44113,24,06604,24_06604,False,False,Wedding Officiant,True
-44114,24,19901,24_19901,False,False,Wedding Officiant,True
-44115,24,19850,24_19850,False,False,Wedding Officiant,True
-44116,24,32301,24_32301,False,False,Wedding Officiant,True
-44117,24,32202,24_32202,False,False,Wedding Officiant,True
-44118,24,33132,24_33132,False,False,Wedding Officiant,True
-44119,24,33602,24_33602,False,False,Wedding Officiant,True
-44120,24,30303,24_30303,False,False,Wedding Officiant,True
-44121,24,96813,24_96813,False,False,Wedding Officiant,True
-44122,24,83702,24_83702,False,False,Wedding Officiant,True
-44123,24,62701,24_62701,False,False,Wedding Officiant,True
-44124,24,60176,24_60176,False,False,Wedding Officiant,True
-44125,24,46225,24_46225,False,False,Wedding Officiant,True
-44126,24,50309,24_50309,False,False,Wedding Officiant,True
-44127,24,66603,24_66603,False,False,Wedding Officiant,True
-44128,24,67052,24_67052,False,False,Wedding Officiant,True
-44129,24,40601,24_40601,False,False,Wedding Officiant,True
-44130,24,40507,24_40507,False,False,Wedding Officiant,True
-44131,24,70802,24_70802,False,False,Wedding Officiant,True
-44132,24,70114,24_70114,False,False,Wedding Officiant,True
-44133,24,04330,24_04330,False,False,Wedding Officiant,True
-44134,24,04101,24_04101,False,False,Wedding Officiant,True
-44135,24,21401,24_21401,False,False,Wedding Officiant,True
-44136,24,21202,24_21202,False,False,Wedding Officiant,True
-44137,24,02201,24_02201,False,False,Wedding Officiant,True
-44138,24,48933,24_48933,False,False,Wedding Officiant,True
-44139,24,48226,24_48226,False,False,Wedding Officiant,True
-44140,24,55102,24_55102,False,False,Wedding Officiant,True
-44141,24,55404,24_55404,False,False,Wedding Officiant,True
-44142,24,39205,24_39205,False,False,Wedding Officiant,True
-44143,24,65101,24_65101,False,False,Wedding Officiant,True
-44144,24,64105,24_64105,False,False,Wedding Officiant,True
-44145,24,59623,24_59623,False,False,Wedding Officiant,True
-44146,24,05101,24_05101,False,False,Wedding Officiant,True
-44147,24,68502,24_68502,False,False,Wedding Officiant,True
-44148,24,68102,24_68102,False,False,Wedding Officiant,True
-44149,24,89701,24_89701,False,False,Wedding Officiant,True
-44150,24,89101,24_89101,False,False,Wedding Officiant,True
-44151,24,03301,24_03301,False,False,Wedding Officiant,True
-44152,24,03108,24_03108,False,False,Wedding Officiant,True
-44153,24,08608,24_08608,False,False,Wedding Officiant,True
-44154,24,07102,24_07102,False,False,Wedding Officiant,True
-44155,24,87501,24_87501,False,False,Wedding Officiant,True
-44156,24,87102,24_87102,False,False,Wedding Officiant,True
-44157,24,12207,24_12207,False,False,Wedding Officiant,True
-44158,24,10007,24_10007,False,False,Wedding Officiant,True
-44159,24,11021,24_11021,False,False,Wedding Officiant,True
-44160,24,27601,24_27601,False,False,Wedding Officiant,True
-44161,24,28105,24_28105,False,False,Wedding Officiant,True
-44162,24,58501,24_58501,False,False,Wedding Officiant,True
-44163,24,58102,24_58102,False,False,Wedding Officiant,True
-44164,24,43215,24_43215,False,False,Wedding Officiant,True
-44165,24,73102,24_73102,False,False,Wedding Officiant,True
-44166,24,97301,24_97301,False,False,Wedding Officiant,True
-44167,24,97201,24_97201,False,False,Wedding Officiant,True
-44168,24,17101,24_17101,False,False,Wedding Officiant,True
-44169,24,19103,24_19103,False,False,Wedding Officiant,True
-44170,24,02903,24_02903,False,False,Wedding Officiant,True
-44171,24,29217,24_29217,False,False,Wedding Officiant,True
-44172,24,57501,24_57501,False,False,Wedding Officiant,True
-44173,24,57103,24_57103,False,False,Wedding Officiant,True
-44174,24,37219,24_37219,False,False,Wedding Officiant,True
-44175,24,78701,24_78701,False,False,Wedding Officiant,True
-44176,24,77002,24_77002,False,False,Wedding Officiant,True
-44177,24,78207,24_78207,False,False,Wedding Officiant,True
-44178,24,75207,24_75207,False,False,Wedding Officiant,True
-44179,24,84111,24_84111,False,False,Wedding Officiant,True
-44180,24,05602,24_05602,False,False,Wedding Officiant,True
-44181,24,05401,24_05401,False,False,Wedding Officiant,True
-44182,24,23219,24_23219,False,False,Wedding Officiant,True
-44183,24,23454,24_23454,False,False,Wedding Officiant,True
-44184,24,98507,24_98507,False,False,Wedding Officiant,True
-44185,24,98105,24_98105,False,False,Wedding Officiant,True
-44186,24,25301,24_25301,False,False,Wedding Officiant,True
-44187,24,53703,24_53703,False,False,Wedding Officiant,True
-44188,24,53205,24_53205,False,False,Wedding Officiant,True
-44189,24,82001,24_82001,False,False,Wedding Officiant,True
-44190,24,96799,24_96799,False,False,Wedding Officiant,True
-44191,24,20001,24_20001,False,False,Wedding Officiant,True
-44192,24,96941,24_96941,False,False,Wedding Officiant,True
-44193,24,96910,24_96910,False,False,Wedding Officiant,True
-44194,24,96912,24_96912,False,False,Wedding Officiant,True
-44195,24,96960,24_96960,False,False,Wedding Officiant,True
-44196,24,96950,24_96950,False,False,Wedding Officiant,True
-44197,24,96939,24_96939,False,False,Wedding Officiant,True
-44198,24,00901,24_00901,False,False,Wedding Officiant,True
-44199,24,00802,24_00802,False,False,Wedding Officiant,True
+44100,24,36104,24_36104,True,False,Wedding Officiant,False
+44101,24,35210,24_35210,True,False,Wedding Officiant,False
+44102,24,99801,24_99801,False,True,Wedding Officiant,False
+44103,24,99501,24_99501,False,True,Wedding Officiant,False
+44104,24,85001,24_85001,True,False,Wedding Officiant,False
+44105,24,72201,24_72201,True,False,Wedding Officiant,False
+44106,24,95814,24_95814,True,False,Wedding Officiant,False
+44107,24,90013,24_90013,True,False,Wedding Officiant,False
+44108,24,92101,24_92101,True,False,Wedding Officiant,False
+44109,24,95112,24_95112,True,False,Wedding Officiant,False
+44110,24,94108,24_94108,True,False,Wedding Officiant,False
+44111,24,80202,24_80202,True,False,Wedding Officiant,False
+44112,24,06103,24_06103,True,False,Wedding Officiant,False
+44113,24,06604,24_06604,True,False,Wedding Officiant,False
+44114,24,19901,24_19901,True,False,Wedding Officiant,False
+44115,24,19850,24_19850,True,False,Wedding Officiant,False
+44116,24,32301,24_32301,True,False,Wedding Officiant,False
+44117,24,32202,24_32202,True,False,Wedding Officiant,False
+44118,24,33132,24_33132,True,False,Wedding Officiant,False
+44119,24,33602,24_33602,True,False,Wedding Officiant,False
+44120,24,30303,24_30303,True,False,Wedding Officiant,False
+44121,24,96813,24_96813,True,False,Wedding Officiant,False
+44122,24,83702,24_83702,True,False,Wedding Officiant,False
+44123,24,62701,24_62701,True,False,Wedding Officiant,False
+44124,24,60176,24_60176,True,False,Wedding Officiant,False
+44125,24,46225,24_46225,True,False,Wedding Officiant,False
+44126,24,50309,24_50309,True,False,Wedding Officiant,False
+44127,24,66603,24_66603,True,False,Wedding Officiant,False
+44128,24,67052,24_67052,True,False,Wedding Officiant,False
+44129,24,40601,24_40601,True,False,Wedding Officiant,False
+44130,24,40507,24_40507,True,False,Wedding Officiant,False
+44131,24,70802,24_70802,True,False,Wedding Officiant,False
+44132,24,70114,24_70114,True,False,Wedding Officiant,False
+44133,24,04330,24_04330,True,False,Wedding Officiant,False
+44134,24,04101,24_04101,True,False,Wedding Officiant,False
+44135,24,21401,24_21401,True,False,Wedding Officiant,False
+44136,24,21202,24_21202,True,False,Wedding Officiant,False
+44137,24,02201,24_02201,True,False,Wedding Officiant,False
+44138,24,48933,24_48933,True,False,Wedding Officiant,False
+44139,24,48226,24_48226,True,False,Wedding Officiant,False
+44140,24,55102,24_55102,True,False,Wedding Officiant,False
+44141,24,55404,24_55404,True,False,Wedding Officiant,False
+44142,24,39205,24_39205,True,False,Wedding Officiant,False
+44143,24,65101,24_65101,True,False,Wedding Officiant,False
+44144,24,64105,24_64105,True,False,Wedding Officiant,False
+44145,24,59623,24_59623,False,True,Wedding Officiant,False
+44146,24,05101,24_05101,True,False,Wedding Officiant,False
+44147,24,68502,24_68502,True,False,Wedding Officiant,False
+44148,24,68102,24_68102,True,False,Wedding Officiant,False
+44149,24,89701,24_89701,True,False,Wedding Officiant,False
+44150,24,89101,24_89101,True,False,Wedding Officiant,False
+44151,24,03301,24_03301,True,False,Wedding Officiant,False
+44152,24,03108,24_03108,True,False,Wedding Officiant,False
+44153,24,08608,24_08608,True,False,Wedding Officiant,False
+44154,24,07102,24_07102,True,False,Wedding Officiant,False
+44155,24,87501,24_87501,True,False,Wedding Officiant,False
+44156,24,87102,24_87102,True,False,Wedding Officiant,False
+44157,24,12207,24_12207,True,False,Wedding Officiant,False
+44158,24,10007,24_10007,True,False,Wedding Officiant,False
+44159,24,11021,24_11021,True,False,Wedding Officiant,False
+44160,24,27601,24_27601,True,False,Wedding Officiant,False
+44161,24,28105,24_28105,True,False,Wedding Officiant,False
+44162,24,58501,24_58501,True,False,Wedding Officiant,False
+44163,24,58102,24_58102,True,False,Wedding Officiant,False
+44164,24,43215,24_43215,True,False,Wedding Officiant,False
+44165,24,73102,24_73102,True,False,Wedding Officiant,False
+44166,24,97301,24_97301,True,False,Wedding Officiant,False
+44167,24,97201,24_97201,True,False,Wedding Officiant,False
+44168,24,17101,24_17101,True,False,Wedding Officiant,False
+44169,24,19103,24_19103,True,False,Wedding Officiant,False
+44170,24,02903,24_02903,True,False,Wedding Officiant,False
+44171,24,29217,24_29217,True,False,Wedding Officiant,False
+44172,24,57501,24_57501,False,True,Wedding Officiant,False
+44173,24,57103,24_57103,True,False,Wedding Officiant,False
+44174,24,37219,24_37219,True,False,Wedding Officiant,False
+44175,24,78701,24_78701,True,False,Wedding Officiant,False
+44176,24,77002,24_77002,True,False,Wedding Officiant,False
+44177,24,78207,24_78207,True,False,Wedding Officiant,False
+44178,24,75207,24_75207,True,False,Wedding Officiant,False
+44179,24,84111,24_84111,True,False,Wedding Officiant,False
+44180,24,05602,24_05602,True,False,Wedding Officiant,False
+44181,24,05401,24_05401,True,False,Wedding Officiant,False
+44182,24,23219,24_23219,True,False,Wedding Officiant,False
+44183,24,23454,24_23454,True,False,Wedding Officiant,False
+44184,24,98507,24_98507,True,False,Wedding Officiant,False
+44185,24,98105,24_98105,True,False,Wedding Officiant,False
+44186,24,25301,24_25301,True,False,Wedding Officiant,False
+44187,24,53703,24_53703,True,False,Wedding Officiant,False
+44188,24,53205,24_53205,True,False,Wedding Officiant,False
+44189,24,82001,24_82001,True,False,Wedding Officiant,False
+44190,24,96799,24_96799,False,True,Wedding Officiant,False
+44191,24,20001,24_20001,True,False,Wedding Officiant,False
+44192,24,96941,24_96941,False,True,Wedding Officiant,False
+44193,24,96910,24_96910,False,True,Wedding Officiant,False
+44194,24,96912,24_96912,False,True,Wedding Officiant,False
+44195,24,96960,24_96960,False,True,Wedding Officiant,False
+44196,24,96950,24_96950,False,True,Wedding Officiant,False
+44197,24,96939,24_96939,False,True,Wedding Officiant,False
+44198,24,00901,24_00901,False,True,Wedding Officiant,False
+44199,24,00802,24_00802,False,True,Wedding Officiant,False
 44200,443,36104,443_36104,False,False,Wedding Planning,True
 44201,443,35210,443_35210,False,False,Wedding Planning,True
 44202,443,99801,443_99801,False,False,Wedding Planning,True
@@ -44345,12 +44299,12 @@
 44297,443,96939,443_96939,False,False,Wedding Planning,True
 44298,443,00901,443_00901,False,False,Wedding Planning,True
 44299,443,00802,443_00802,False,False,Wedding Planning,True
-44300,25,36104,25_36104,False,False,Wedding and Event Catering,True
-44301,25,35210,25_35210,False,False,Wedding and Event Catering,True
-44302,25,99801,25_99801,False,False,Wedding and Event Catering,True
-44303,25,99501,25_99501,False,False,Wedding and Event Catering,True
+44300,25,36104,25_36104,True,False,Wedding and Event Catering,False
+44301,25,35210,25_35210,True,False,Wedding and Event Catering,False
+44302,25,99801,25_99801,False,True,Wedding and Event Catering,False
+44303,25,99501,25_99501,False,True,Wedding and Event Catering,False
 44304,25,85001,25_85001,False,False,Wedding and Event Catering,True
-44305,25,72201,25_72201,False,False,Wedding and Event Catering,True
+44305,25,72201,25_72201,False,True,Wedding and Event Catering,False
 44306,25,95814,25_95814,False,False,Wedding and Event Catering,True
 44307,25,90013,25_90013,False,False,Wedding and Event Catering,True
 44308,25,92101,25_92101,False,False,Wedding and Event Catering,True
@@ -44361,37 +44315,37 @@
 44313,25,06604,25_06604,False,False,Wedding and Event Catering,True
 44314,25,19901,25_19901,False,False,Wedding and Event Catering,True
 44315,25,19850,25_19850,False,False,Wedding and Event Catering,True
-44316,25,32301,25_32301,False,False,Wedding and Event Catering,True
+44316,25,32301,25_32301,True,False,Wedding and Event Catering,False
 44317,25,32202,25_32202,False,False,Wedding and Event Catering,True
 44318,25,33132,25_33132,False,False,Wedding and Event Catering,True
 44319,25,33602,25_33602,False,False,Wedding and Event Catering,True
 44320,25,30303,25_30303,False,False,Wedding and Event Catering,True
 44321,25,96813,25_96813,False,False,Wedding and Event Catering,True
-44322,25,83702,25_83702,False,False,Wedding and Event Catering,True
+44322,25,83702,25_83702,False,True,Wedding and Event Catering,False
 44323,25,62701,25_62701,False,False,Wedding and Event Catering,True
 44324,25,60176,25_60176,False,False,Wedding and Event Catering,True
 44325,25,46225,25_46225,False,False,Wedding and Event Catering,True
-44326,25,50309,25_50309,False,False,Wedding and Event Catering,True
-44327,25,66603,25_66603,False,False,Wedding and Event Catering,True
-44328,25,67052,25_67052,False,False,Wedding and Event Catering,True
-44329,25,40601,25_40601,False,False,Wedding and Event Catering,True
-44330,25,40507,25_40507,False,False,Wedding and Event Catering,True
+44326,25,50309,25_50309,False,True,Wedding and Event Catering,False
+44327,25,66603,25_66603,True,False,Wedding and Event Catering,False
+44328,25,67052,25_67052,False,True,Wedding and Event Catering,False
+44329,25,40601,25_40601,True,False,Wedding and Event Catering,False
+44330,25,40507,25_40507,True,False,Wedding and Event Catering,False
 44331,25,70802,25_70802,False,False,Wedding and Event Catering,True
 44332,25,70114,25_70114,False,False,Wedding and Event Catering,True
-44333,25,04330,25_04330,False,False,Wedding and Event Catering,True
-44334,25,04101,25_04101,False,False,Wedding and Event Catering,True
+44333,25,04330,25_04330,False,True,Wedding and Event Catering,False
+44334,25,04101,25_04101,True,False,Wedding and Event Catering,False
 44335,25,21401,25_21401,False,False,Wedding and Event Catering,True
 44336,25,21202,25_21202,False,False,Wedding and Event Catering,True
 44337,25,02201,25_02201,False,False,Wedding and Event Catering,True
-44338,25,48933,25_48933,False,False,Wedding and Event Catering,True
+44338,25,48933,25_48933,True,False,Wedding and Event Catering,False
 44339,25,48226,25_48226,False,False,Wedding and Event Catering,True
 44340,25,55102,25_55102,False,False,Wedding and Event Catering,True
 44341,25,55404,25_55404,False,False,Wedding and Event Catering,True
-44342,25,39205,25_39205,False,False,Wedding and Event Catering,True
+44342,25,39205,25_39205,False,True,Wedding and Event Catering,False
 44343,25,65101,25_65101,False,False,Wedding and Event Catering,True
 44344,25,64105,25_64105,False,False,Wedding and Event Catering,True
-44345,25,59623,25_59623,False,False,Wedding and Event Catering,True
-44346,25,05101,25_05101,False,False,Wedding and Event Catering,True
+44345,25,59623,25_59623,False,True,Wedding and Event Catering,False
+44346,25,05101,25_05101,True,False,Wedding and Event Catering,False
 44347,25,68502,25_68502,False,False,Wedding and Event Catering,True
 44348,25,68102,25_68102,False,False,Wedding and Event Catering,True
 44349,25,89701,25_89701,False,False,Wedding and Event Catering,True
@@ -44403,48 +44357,48 @@
 44355,25,87501,25_87501,False,False,Wedding and Event Catering,True
 44356,25,87102,25_87102,False,False,Wedding and Event Catering,True
 44357,25,12207,25_12207,False,False,Wedding and Event Catering,True
-44358,25,10007,25_10007,False,False,Wedding and Event Catering,True
-44359,25,11021,25_11021,False,False,Wedding and Event Catering,True
+44358,25,10007,25_10007,True,False,Wedding and Event Catering,False
+44359,25,11021,25_11021,True,False,Wedding and Event Catering,False
 44360,25,27601,25_27601,False,False,Wedding and Event Catering,True
 44361,25,28105,25_28105,False,False,Wedding and Event Catering,True
-44362,25,58501,25_58501,False,False,Wedding and Event Catering,True
-44363,25,58102,25_58102,False,False,Wedding and Event Catering,True
+44362,25,58501,25_58501,True,False,Wedding and Event Catering,False
+44363,25,58102,25_58102,False,True,Wedding and Event Catering,False
 44364,25,43215,25_43215,False,False,Wedding and Event Catering,True
 44365,25,73102,25_73102,False,False,Wedding and Event Catering,True
 44366,25,97301,25_97301,False,False,Wedding and Event Catering,True
 44367,25,97201,25_97201,False,False,Wedding and Event Catering,True
-44368,25,17101,25_17101,False,False,Wedding and Event Catering,True
+44368,25,17101,25_17101,True,False,Wedding and Event Catering,False
 44369,25,19103,25_19103,False,False,Wedding and Event Catering,True
 44370,25,02903,25_02903,False,False,Wedding and Event Catering,True
 44371,25,29217,25_29217,False,False,Wedding and Event Catering,True
-44372,25,57501,25_57501,False,False,Wedding and Event Catering,True
-44373,25,57103,25_57103,False,False,Wedding and Event Catering,True
+44372,25,57501,25_57501,False,True,Wedding and Event Catering,False
+44373,25,57103,25_57103,False,True,Wedding and Event Catering,False
 44374,25,37219,25_37219,False,False,Wedding and Event Catering,True
 44375,25,78701,25_78701,False,False,Wedding and Event Catering,True
 44376,25,77002,25_77002,False,False,Wedding and Event Catering,True
 44377,25,78207,25_78207,False,False,Wedding and Event Catering,True
 44378,25,75207,25_75207,False,False,Wedding and Event Catering,True
 44379,25,84111,25_84111,False,False,Wedding and Event Catering,True
-44380,25,05602,25_05602,False,False,Wedding and Event Catering,True
-44381,25,05401,25_05401,False,False,Wedding and Event Catering,True
+44380,25,05602,25_05602,False,True,Wedding and Event Catering,False
+44381,25,05401,25_05401,False,True,Wedding and Event Catering,False
 44382,25,23219,25_23219,False,False,Wedding and Event Catering,True
 44383,25,23454,25_23454,False,False,Wedding and Event Catering,True
 44384,25,98507,25_98507,False,False,Wedding and Event Catering,True
 44385,25,98105,25_98105,False,False,Wedding and Event Catering,True
-44386,25,25301,25_25301,False,False,Wedding and Event Catering,True
+44386,25,25301,25_25301,True,False,Wedding and Event Catering,False
 44387,25,53703,25_53703,False,False,Wedding and Event Catering,True
 44388,25,53205,25_53205,False,False,Wedding and Event Catering,True
-44389,25,82001,25_82001,False,False,Wedding and Event Catering,True
-44390,25,96799,25_96799,False,False,Wedding and Event Catering,True
+44389,25,82001,25_82001,True,False,Wedding and Event Catering,False
+44390,25,96799,25_96799,False,True,Wedding and Event Catering,False
 44391,25,20001,25_20001,False,False,Wedding and Event Catering,True
-44392,25,96941,25_96941,False,False,Wedding and Event Catering,True
-44393,25,96910,25_96910,False,False,Wedding and Event Catering,True
-44394,25,96912,25_96912,False,False,Wedding and Event Catering,True
-44395,25,96960,25_96960,False,False,Wedding and Event Catering,True
-44396,25,96950,25_96950,False,False,Wedding and Event Catering,True
-44397,25,96939,25_96939,False,False,Wedding and Event Catering,True
-44398,25,00901,25_00901,False,False,Wedding and Event Catering,True
-44399,25,00802,25_00802,False,False,Wedding and Event Catering,True
+44392,25,96941,25_96941,False,True,Wedding and Event Catering,False
+44393,25,96910,25_96910,False,True,Wedding and Event Catering,False
+44394,25,96912,25_96912,False,True,Wedding and Event Catering,False
+44395,25,96960,25_96960,False,True,Wedding and Event Catering,False
+44396,25,96950,25_96950,False,True,Wedding and Event Catering,False
+44397,25,96939,25_96939,False,True,Wedding and Event Catering,False
+44398,25,00901,25_00901,False,True,Wedding and Event Catering,False
+44399,25,00802,25_00802,False,True,Wedding and Event Catering,False
 44400,445,36104,445_36104,False,False,Wedding and Event Decorating,True
 44401,445,35210,445_35210,False,False,Wedding and Event Decorating,True
 44402,445,99801,445_99801,False,False,Wedding and Event Decorating,True
