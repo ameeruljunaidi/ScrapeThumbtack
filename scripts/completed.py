@@ -5,8 +5,7 @@ import numpy as np
 from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
 
-from functions import find_between, find_between_r
-from functions import append_new_line
+from functions import find_between
 
 path = r"data/"
 all_csv = glob.glob(path + "/*.csv")
