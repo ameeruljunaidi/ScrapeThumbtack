@@ -9,11 +9,12 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
+from completed import serviceTodo, zipCodeTodo
 
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
-serviceList = servicesNameCSV
-zipCodeList = zipCodeCSV
+serviceList = serviceTodo
+zipCodeList = zipCodeTodo
 
 for serviceName in serviceList:
     for zipCode in zipCodeList:
