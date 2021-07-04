@@ -1,8 +1,12 @@
 #!/bin/bash
+timestamp(){
+	date + "%T"
+}
+
 while true
 do
 	git add .
-	git commit -m "Routine push for webscraping"
+	git commit -m timestamp
 	git push
 	sleep 1800
 done
