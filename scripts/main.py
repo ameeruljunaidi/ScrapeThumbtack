@@ -9,7 +9,12 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
-from completed import serviceTodo, zipCodeTodo, completed
+from completed import (
+    serviceTodo,
+    zipCodeTodo,
+    completed,
+    nullDataFrames,
+)
 
 from functions import append_new_line
 
@@ -17,8 +22,6 @@ PATH = f"{os.getcwd()}/selenium/chromedriver"
 
 serviceList = serviceTodo
 zipCodeList = zipCodeTodo
-
-nullDataFrames = open("src/null_dataframes.txt").read().splitlines()
 
 for serviceName in serviceList:
     for zipCode in zipCodeList:

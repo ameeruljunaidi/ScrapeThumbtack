@@ -1,31 +1,17 @@
 import glob
 import pandas as pd
+import numpy as np
+
 from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
+
+from functions import find_between, find_between_r
+from functions import append_new_line
 
 path = r"data/"
 all_csv = glob.glob(path + "/*.csv")
 
 dfAllServicesCSV = pd.read_csv("src/all_services.csv")
-
-
-def find_between(s, first, last):
-    try:
-        start = s.index(first) + len(first)
-        end = s.index(last, start)
-        return s[start:end]
-    except ValueError:
-        return ""
-
-
-def find_between_r(s, first, last):
-    try:
-        start = s.rindex(first) + len(first)
-        end = s.rindex(last, start)
-        return s[start:end]
-    except ValueError:
-        return ""
-
 
 completed = []
 for file in all_csv:
@@ -44,7 +30,12 @@ dfAllServices = pd.DataFrame(dictAllServices)
 dfAllServices["File Name"] = (
     dfAllServices["Service"].astype(str) + "_" + dfAllServices["Zip Code"].astype(str)
 )
+
 dfAllServices["Status"] = dfAllServices["File Name"].isin(completed)
+
+nullDataFrames = open("src/null_dataframes.txt").read().splitlines()
+dfAllServices["Null"] = dfAllServices["File Name"].isin(nullDataFrames)
+
 dfAllServices = pd.merge(
     dfAllServices,
     dfAllServicesCSV[["Services", "ID"]],
@@ -53,7 +44,20 @@ dfAllServices = pd.merge(
     how="left",
 ).drop("ID", axis=1)
 
+dfAllServices["To Do"] = np.where(
+    (dfAllServices["Status"] == False) & (dfAllServices["Null"] == False), True, False
+)
+
 serviceTodo = dfAllServices[dfAllServices["Status"] == False]["Services"].tolist()
 serviceTodo = list(dict.fromkeys(serviceTodo))
 zipCodeTodo = dfAllServices[dfAllServices["Status"] == False]["Zip Code"].tolist()
 zipCodeTodo = list(dict.fromkeys(zipCodeTodo))
+
+dfAllServices.to_csv("src/tracker.csv")
+
+percentageDone = "{:.2%}".format(
+    dfAllServices[dfAllServices["To Do"] == False]["To Do"].count()
+    / dfAllServices[dfAllServices["To Do"] == True]["To Do"].count()
+)
+
+print(percentageDone)
