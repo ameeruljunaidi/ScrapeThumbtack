@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 
 from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
@@ -37,15 +38,33 @@ for serviceName in serviceList:
             listZipCodes = []
 
             # Open a chrome page with url specified
-            driver = webdriver.Chrome(PATH)
+            options = Options()
+            options.add_argument("--headless")
+            options.add_argument("--disable-gpu")
+            driver = webdriver.Chrome(PATH, options=options)
             driver.get("https://www.thumbtack.com/more-services")
 
             # Click the name of the service
-            link = driver.find_element_by_link_text(serviceName)
+            link = WebDriverWait(driver, 3).until(
+                EC.presence_of_all_elements_located(
+                    (
+                        By.LINK_TEXT,
+                        serviceName,
+                    )
+                )
+            )
             link.click()
 
             # Enter zipcode and press enter
             enterZipCode = driver.find_element_by_name("zip_code")
+            enterZipCode = WebDriverWait(driver, 3).until(
+                EC.presence_of_all_elements_located(
+                    (
+                        By.NAME,
+                        "zip_code",
+                    )
+                )
+            )
             enterZipCode.send_keys(zipCode)
             enterZipCode.send_keys(Keys.RETURN)
 
