@@ -5,5 +5,5 @@ servicesCSV = servicesCSV[["Services", "ID"]]
 servicesCSV["ID"] = servicesCSV["ID"].astype(int)
 
 servicesNameCSV = servicesCSV["Services"].tolist()
-serviceID = pd.Series(servicesCSV["Services"], index=servicesCSV["ID"]).to_dict()
-serviceID = {v: k for k, v in serviceID.items()}
+servicesNameDf = servicesCSV.drop_duplicates(subset=["Services"])
+serviceID = servicesNameDf.set_index("Services").T.to_dict("records")[0]
