@@ -2898,7 +2898,7 @@
 2896,29,96950,29_96950,False,True,Singing Lessons,False
 2897,29,96939,29_96939,False,True,Singing Lessons,False
 2898,29,00901,29_00901,False,True,Singing Lessons,False
-2899,29,00802,29_00802,False,True,Singing Lessons,False
+2899,29,00802,29_00802,False,False,Singing Lessons,True
 2900,30,36104,30_36104,False,False,Piano Lessons,True
 2901,30,35210,30_35210,False,False,Piano Lessons,True
 2902,30,99801,30_99801,False,False,Piano Lessons,True
@@ -50098,7 +50098,7 @@
 50096,29,96950,29_96950,False,True,Singing Lessons,False
 50097,29,96939,29_96939,False,True,Singing Lessons,False
 50098,29,00901,29_00901,False,True,Singing Lessons,False
-50099,29,00802,29_00802,False,True,Singing Lessons,False
+50099,29,00802,29_00802,False,False,Singing Lessons,True
 50100,502,36104,502_36104,False,False,Soccer Lessons,True
 50101,502,35210,502_35210,False,False,Soccer Lessons,True
 50102,502,99801,502_99801,False,False,Soccer Lessons,True

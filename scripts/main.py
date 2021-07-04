@@ -51,8 +51,8 @@ for serviceName in serviceList:
             link.click()
 
             # Enter zipcode and press enter
-            enterZipCode = driver.find_element_by_xpath(
-                "//*[@id='uniqueId5']/div/div[2]/input"
+            enterZipCode = driver.find_element_by_name(
+                "zip_code"
             )
             driver.implicitly_wait(10)
             enterZipCode.send_keys(zipCode)
