@@ -11,6 +11,8 @@ from tolist_services import servicesNameCSV, serviceID
 from tolist_zipcodes import zipCodeCSV
 from completed import serviceTodo, zipCodeTodo, completed
 
+from functions import append_new_line
+
 PATH = f"{os.getcwd()}/selenium/chromedriver"
 
 serviceList = serviceTodo
@@ -71,8 +73,9 @@ for serviceName in serviceList:
                 )
             except:
                 driver.quit()
-                with open("src/null_dataframes.txt", "w") as f:
-                    f.write("%s\n" % f"{serviceID[serviceName]}_{zipCode}")
+                append_new_line(
+                    "src/null_dataframes.txt", f"{serviceID[serviceName]}_{zipCode}"
+                )
 
             try:
                 # Get a list of the names of services
