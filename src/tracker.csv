@@ -3799,815 +3799,815 @@
 3797,38,96939,38_96939,False,True,Appliance Repair or Maintenance,False
 3798,38,00901,38_00901,False,True,Appliance Repair or Maintenance,False
 3799,38,00802,38_00802,False,True,Appliance Repair or Maintenance,False
-3800,39,36104,39_36104,False,False,Architectural Services,True
-3801,39,35210,39_35210,False,False,Architectural Services,True
+3800,39,36104,39_36104,False,True,Architectural Services,False
+3801,39,35210,39_35210,True,False,Architectural Services,False
 3802,39,99801,39_99801,False,True,Architectural Services,False
-3803,39,99501,39_99501,False,False,Architectural Services,True
-3804,39,85001,39_85001,False,False,Architectural Services,True
-3805,39,72201,39_72201,False,False,Architectural Services,True
-3806,39,95814,39_95814,False,False,Architectural Services,True
-3807,39,90013,39_90013,False,False,Architectural Services,True
-3808,39,92101,39_92101,False,False,Architectural Services,True
-3809,39,95112,39_95112,False,False,Architectural Services,True
-3810,39,94108,39_94108,False,False,Architectural Services,True
-3811,39,80202,39_80202,False,False,Architectural Services,True
-3812,39,06103,39_06103,False,False,Architectural Services,True
-3813,39,06604,39_06604,False,False,Architectural Services,True
-3814,39,19901,39_19901,False,False,Architectural Services,True
-3815,39,19850,39_19850,False,False,Architectural Services,True
-3816,39,32301,39_32301,False,False,Architectural Services,True
-3817,39,32202,39_32202,False,False,Architectural Services,True
-3818,39,33132,39_33132,False,False,Architectural Services,True
-3819,39,33602,39_33602,False,False,Architectural Services,True
-3820,39,30303,39_30303,False,False,Architectural Services,True
-3821,39,96813,39_96813,False,False,Architectural Services,True
-3822,39,83702,39_83702,False,False,Architectural Services,True
-3823,39,62701,39_62701,False,False,Architectural Services,True
-3824,39,60176,39_60176,False,False,Architectural Services,True
-3825,39,46225,39_46225,False,False,Architectural Services,True
-3826,39,50309,39_50309,False,False,Architectural Services,True
-3827,39,66603,39_66603,False,False,Architectural Services,True
-3828,39,67052,39_67052,False,False,Architectural Services,True
-3829,39,40601,39_40601,False,False,Architectural Services,True
-3830,39,40507,39_40507,False,False,Architectural Services,True
-3831,39,70802,39_70802,False,False,Architectural Services,True
-3832,39,70114,39_70114,False,False,Architectural Services,True
-3833,39,04330,39_04330,False,False,Architectural Services,True
-3834,39,04101,39_04101,False,False,Architectural Services,True
-3835,39,21401,39_21401,False,False,Architectural Services,True
-3836,39,21202,39_21202,False,False,Architectural Services,True
-3837,39,02201,39_02201,False,False,Architectural Services,True
-3838,39,48933,39_48933,False,False,Architectural Services,True
-3839,39,48226,39_48226,False,False,Architectural Services,True
-3840,39,55102,39_55102,False,False,Architectural Services,True
-3841,39,55404,39_55404,False,False,Architectural Services,True
-3842,39,39205,39_39205,False,False,Architectural Services,True
-3843,39,65101,39_65101,False,False,Architectural Services,True
-3844,39,64105,39_64105,False,False,Architectural Services,True
-3845,39,59623,39_59623,False,False,Architectural Services,True
-3846,39,05101,39_05101,False,False,Architectural Services,True
-3847,39,68502,39_68502,False,False,Architectural Services,True
-3848,39,68102,39_68102,False,False,Architectural Services,True
-3849,39,89701,39_89701,False,False,Architectural Services,True
-3850,39,89101,39_89101,False,False,Architectural Services,True
-3851,39,03301,39_03301,False,False,Architectural Services,True
-3852,39,03108,39_03108,False,False,Architectural Services,True
-3853,39,08608,39_08608,False,False,Architectural Services,True
-3854,39,07102,39_07102,False,False,Architectural Services,True
-3855,39,87501,39_87501,False,False,Architectural Services,True
-3856,39,87102,39_87102,False,False,Architectural Services,True
-3857,39,12207,39_12207,False,False,Architectural Services,True
-3858,39,10007,39_10007,False,False,Architectural Services,True
-3859,39,11021,39_11021,False,False,Architectural Services,True
-3860,39,27601,39_27601,False,False,Architectural Services,True
-3861,39,28105,39_28105,False,False,Architectural Services,True
+3803,39,99501,39_99501,False,True,Architectural Services,False
+3804,39,85001,39_85001,True,False,Architectural Services,False
+3805,39,72201,39_72201,True,False,Architectural Services,False
+3806,39,95814,39_95814,True,False,Architectural Services,False
+3807,39,90013,39_90013,True,False,Architectural Services,False
+3808,39,92101,39_92101,True,False,Architectural Services,False
+3809,39,95112,39_95112,True,False,Architectural Services,False
+3810,39,94108,39_94108,True,False,Architectural Services,False
+3811,39,80202,39_80202,True,False,Architectural Services,False
+3812,39,06103,39_06103,True,False,Architectural Services,False
+3813,39,06604,39_06604,True,False,Architectural Services,False
+3814,39,19901,39_19901,True,False,Architectural Services,False
+3815,39,19850,39_19850,True,False,Architectural Services,False
+3816,39,32301,39_32301,True,False,Architectural Services,False
+3817,39,32202,39_32202,False,True,Architectural Services,False
+3818,39,33132,39_33132,True,False,Architectural Services,False
+3819,39,33602,39_33602,True,False,Architectural Services,False
+3820,39,30303,39_30303,True,False,Architectural Services,False
+3821,39,96813,39_96813,True,False,Architectural Services,False
+3822,39,83702,39_83702,True,False,Architectural Services,False
+3823,39,62701,39_62701,True,False,Architectural Services,False
+3824,39,60176,39_60176,True,False,Architectural Services,False
+3825,39,46225,39_46225,True,False,Architectural Services,False
+3826,39,50309,39_50309,True,False,Architectural Services,False
+3827,39,66603,39_66603,False,True,Architectural Services,False
+3828,39,67052,39_67052,False,True,Architectural Services,False
+3829,39,40601,39_40601,False,True,Architectural Services,False
+3830,39,40507,39_40507,False,True,Architectural Services,False
+3831,39,70802,39_70802,True,False,Architectural Services,False
+3832,39,70114,39_70114,True,False,Architectural Services,False
+3833,39,04330,39_04330,False,True,Architectural Services,False
+3834,39,04101,39_04101,False,True,Architectural Services,False
+3835,39,21401,39_21401,True,False,Architectural Services,False
+3836,39,21202,39_21202,True,False,Architectural Services,False
+3837,39,02201,39_02201,True,False,Architectural Services,False
+3838,39,48933,39_48933,False,True,Architectural Services,False
+3839,39,48226,39_48226,True,False,Architectural Services,False
+3840,39,55102,39_55102,True,False,Architectural Services,False
+3841,39,55404,39_55404,True,False,Architectural Services,False
+3842,39,39205,39_39205,True,False,Architectural Services,False
+3843,39,65101,39_65101,True,False,Architectural Services,False
+3844,39,64105,39_64105,True,False,Architectural Services,False
+3845,39,59623,39_59623,False,True,Architectural Services,False
+3846,39,05101,39_05101,False,True,Architectural Services,False
+3847,39,68502,39_68502,False,True,Architectural Services,False
+3848,39,68102,39_68102,False,True,Architectural Services,False
+3849,39,89701,39_89701,False,True,Architectural Services,False
+3850,39,89101,39_89101,False,True,Architectural Services,False
+3851,39,03301,39_03301,True,False,Architectural Services,False
+3852,39,03108,39_03108,True,False,Architectural Services,False
+3853,39,08608,39_08608,True,False,Architectural Services,False
+3854,39,07102,39_07102,True,False,Architectural Services,False
+3855,39,87501,39_87501,True,False,Architectural Services,False
+3856,39,87102,39_87102,True,False,Architectural Services,False
+3857,39,12207,39_12207,True,False,Architectural Services,False
+3858,39,10007,39_10007,True,False,Architectural Services,False
+3859,39,11021,39_11021,True,False,Architectural Services,False
+3860,39,27601,39_27601,True,False,Architectural Services,False
+3861,39,28105,39_28105,True,False,Architectural Services,False
 3862,39,58501,39_58501,False,True,Architectural Services,False
-3863,39,58102,39_58102,False,False,Architectural Services,True
-3864,39,43215,39_43215,False,False,Architectural Services,True
-3865,39,73102,39_73102,False,False,Architectural Services,True
-3866,39,97301,39_97301,False,False,Architectural Services,True
-3867,39,97201,39_97201,False,False,Architectural Services,True
-3868,39,17101,39_17101,False,False,Architectural Services,True
-3869,39,19103,39_19103,False,False,Architectural Services,True
-3870,39,02903,39_02903,False,False,Architectural Services,True
-3871,39,29217,39_29217,False,False,Architectural Services,True
+3863,39,58102,39_58102,False,True,Architectural Services,False
+3864,39,43215,39_43215,True,False,Architectural Services,False
+3865,39,73102,39_73102,True,False,Architectural Services,False
+3866,39,97301,39_97301,True,False,Architectural Services,False
+3867,39,97201,39_97201,True,False,Architectural Services,False
+3868,39,17101,39_17101,True,False,Architectural Services,False
+3869,39,19103,39_19103,True,False,Architectural Services,False
+3870,39,02903,39_02903,True,False,Architectural Services,False
+3871,39,29217,39_29217,True,False,Architectural Services,False
 3872,39,57501,39_57501,False,True,Architectural Services,False
-3873,39,57103,39_57103,False,False,Architectural Services,True
-3874,39,37219,39_37219,False,False,Architectural Services,True
-3875,39,78701,39_78701,False,False,Architectural Services,True
-3876,39,77002,39_77002,False,False,Architectural Services,True
-3877,39,78207,39_78207,False,False,Architectural Services,True
-3878,39,75207,39_75207,False,False,Architectural Services,True
-3879,39,84111,39_84111,False,False,Architectural Services,True
-3880,39,05602,39_05602,False,False,Architectural Services,True
-3881,39,05401,39_05401,False,False,Architectural Services,True
-3882,39,23219,39_23219,False,False,Architectural Services,True
-3883,39,23454,39_23454,False,False,Architectural Services,True
-3884,39,98507,39_98507,False,False,Architectural Services,True
-3885,39,98105,39_98105,False,False,Architectural Services,True
-3886,39,25301,39_25301,False,False,Architectural Services,True
-3887,39,53703,39_53703,False,False,Architectural Services,True
-3888,39,53205,39_53205,False,False,Architectural Services,True
-3889,39,82001,39_82001,False,False,Architectural Services,True
+3873,39,57103,39_57103,False,True,Architectural Services,False
+3874,39,37219,39_37219,False,True,Architectural Services,False
+3875,39,78701,39_78701,True,False,Architectural Services,False
+3876,39,77002,39_77002,True,False,Architectural Services,False
+3877,39,78207,39_78207,False,True,Architectural Services,False
+3878,39,75207,39_75207,True,False,Architectural Services,False
+3879,39,84111,39_84111,True,False,Architectural Services,False
+3880,39,05602,39_05602,False,True,Architectural Services,False
+3881,39,05401,39_05401,False,True,Architectural Services,False
+3882,39,23219,39_23219,True,False,Architectural Services,False
+3883,39,23454,39_23454,True,False,Architectural Services,False
+3884,39,98507,39_98507,True,False,Architectural Services,False
+3885,39,98105,39_98105,True,False,Architectural Services,False
+3886,39,25301,39_25301,False,True,Architectural Services,False
+3887,39,53703,39_53703,True,False,Architectural Services,False
+3888,39,53205,39_53205,True,False,Architectural Services,False
+3889,39,82001,39_82001,False,True,Architectural Services,False
 3890,39,96799,39_96799,False,True,Architectural Services,False
-3891,39,20001,39_20001,False,False,Architectural Services,True
+3891,39,20001,39_20001,True,False,Architectural Services,False
 3892,39,96941,39_96941,False,True,Architectural Services,False
 3893,39,96910,39_96910,False,True,Architectural Services,False
 3894,39,96912,39_96912,False,True,Architectural Services,False
 3895,39,96960,39_96960,False,True,Architectural Services,False
 3896,39,96950,39_96950,False,True,Architectural Services,False
-3897,39,96939,39_96939,False,False,Architectural Services,True
-3898,39,00901,39_00901,False,False,Architectural Services,True
-3899,39,00802,39_00802,False,False,Architectural Services,True
-3900,40,36104,40_36104,False,False,Artificial Turf Installation,True
-3901,40,35210,40_35210,False,False,Artificial Turf Installation,True
-3902,40,99801,40_99801,False,False,Artificial Turf Installation,True
-3903,40,99501,40_99501,False,False,Artificial Turf Installation,True
-3904,40,85001,40_85001,False,False,Artificial Turf Installation,True
-3905,40,72201,40_72201,False,False,Artificial Turf Installation,True
-3906,40,95814,40_95814,False,False,Artificial Turf Installation,True
-3907,40,90013,40_90013,False,False,Artificial Turf Installation,True
-3908,40,92101,40_92101,False,False,Artificial Turf Installation,True
-3909,40,95112,40_95112,False,False,Artificial Turf Installation,True
-3910,40,94108,40_94108,False,False,Artificial Turf Installation,True
-3911,40,80202,40_80202,False,False,Artificial Turf Installation,True
-3912,40,06103,40_06103,False,False,Artificial Turf Installation,True
-3913,40,06604,40_06604,False,False,Artificial Turf Installation,True
-3914,40,19901,40_19901,False,False,Artificial Turf Installation,True
-3915,40,19850,40_19850,False,False,Artificial Turf Installation,True
-3916,40,32301,40_32301,False,False,Artificial Turf Installation,True
-3917,40,32202,40_32202,False,False,Artificial Turf Installation,True
-3918,40,33132,40_33132,False,False,Artificial Turf Installation,True
-3919,40,33602,40_33602,False,False,Artificial Turf Installation,True
-3920,40,30303,40_30303,False,False,Artificial Turf Installation,True
-3921,40,96813,40_96813,False,False,Artificial Turf Installation,True
-3922,40,83702,40_83702,False,False,Artificial Turf Installation,True
-3923,40,62701,40_62701,False,False,Artificial Turf Installation,True
-3924,40,60176,40_60176,False,False,Artificial Turf Installation,True
-3925,40,46225,40_46225,False,False,Artificial Turf Installation,True
-3926,40,50309,40_50309,False,False,Artificial Turf Installation,True
-3927,40,66603,40_66603,False,False,Artificial Turf Installation,True
-3928,40,67052,40_67052,False,False,Artificial Turf Installation,True
-3929,40,40601,40_40601,False,False,Artificial Turf Installation,True
-3930,40,40507,40_40507,False,False,Artificial Turf Installation,True
-3931,40,70802,40_70802,False,False,Artificial Turf Installation,True
-3932,40,70114,40_70114,False,False,Artificial Turf Installation,True
-3933,40,04330,40_04330,False,False,Artificial Turf Installation,True
-3934,40,04101,40_04101,False,False,Artificial Turf Installation,True
-3935,40,21401,40_21401,False,False,Artificial Turf Installation,True
-3936,40,21202,40_21202,False,False,Artificial Turf Installation,True
-3937,40,02201,40_02201,False,False,Artificial Turf Installation,True
-3938,40,48933,40_48933,False,False,Artificial Turf Installation,True
-3939,40,48226,40_48226,False,False,Artificial Turf Installation,True
-3940,40,55102,40_55102,False,False,Artificial Turf Installation,True
-3941,40,55404,40_55404,False,False,Artificial Turf Installation,True
-3942,40,39205,40_39205,False,False,Artificial Turf Installation,True
-3943,40,65101,40_65101,False,False,Artificial Turf Installation,True
-3944,40,64105,40_64105,False,False,Artificial Turf Installation,True
-3945,40,59623,40_59623,False,False,Artificial Turf Installation,True
-3946,40,05101,40_05101,False,False,Artificial Turf Installation,True
-3947,40,68502,40_68502,False,False,Artificial Turf Installation,True
-3948,40,68102,40_68102,False,False,Artificial Turf Installation,True
-3949,40,89701,40_89701,False,False,Artificial Turf Installation,True
-3950,40,89101,40_89101,False,False,Artificial Turf Installation,True
-3951,40,03301,40_03301,False,False,Artificial Turf Installation,True
-3952,40,03108,40_03108,False,False,Artificial Turf Installation,True
-3953,40,08608,40_08608,False,False,Artificial Turf Installation,True
-3954,40,07102,40_07102,False,False,Artificial Turf Installation,True
-3955,40,87501,40_87501,False,False,Artificial Turf Installation,True
-3956,40,87102,40_87102,False,False,Artificial Turf Installation,True
-3957,40,12207,40_12207,False,False,Artificial Turf Installation,True
-3958,40,10007,40_10007,False,False,Artificial Turf Installation,True
-3959,40,11021,40_11021,False,False,Artificial Turf Installation,True
-3960,40,27601,40_27601,False,False,Artificial Turf Installation,True
-3961,40,28105,40_28105,False,False,Artificial Turf Installation,True
-3962,40,58501,40_58501,False,False,Artificial Turf Installation,True
-3963,40,58102,40_58102,False,False,Artificial Turf Installation,True
-3964,40,43215,40_43215,False,False,Artificial Turf Installation,True
-3965,40,73102,40_73102,False,False,Artificial Turf Installation,True
-3966,40,97301,40_97301,False,False,Artificial Turf Installation,True
-3967,40,97201,40_97201,False,False,Artificial Turf Installation,True
-3968,40,17101,40_17101,False,False,Artificial Turf Installation,True
-3969,40,19103,40_19103,False,False,Artificial Turf Installation,True
-3970,40,02903,40_02903,False,False,Artificial Turf Installation,True
-3971,40,29217,40_29217,False,False,Artificial Turf Installation,True
-3972,40,57501,40_57501,False,False,Artificial Turf Installation,True
-3973,40,57103,40_57103,False,False,Artificial Turf Installation,True
-3974,40,37219,40_37219,False,False,Artificial Turf Installation,True
-3975,40,78701,40_78701,False,False,Artificial Turf Installation,True
-3976,40,77002,40_77002,False,False,Artificial Turf Installation,True
-3977,40,78207,40_78207,False,False,Artificial Turf Installation,True
-3978,40,75207,40_75207,False,False,Artificial Turf Installation,True
-3979,40,84111,40_84111,False,False,Artificial Turf Installation,True
-3980,40,05602,40_05602,False,False,Artificial Turf Installation,True
-3981,40,05401,40_05401,False,False,Artificial Turf Installation,True
-3982,40,23219,40_23219,False,False,Artificial Turf Installation,True
-3983,40,23454,40_23454,False,False,Artificial Turf Installation,True
-3984,40,98507,40_98507,False,False,Artificial Turf Installation,True
-3985,40,98105,40_98105,False,False,Artificial Turf Installation,True
-3986,40,25301,40_25301,False,False,Artificial Turf Installation,True
-3987,40,53703,40_53703,False,False,Artificial Turf Installation,True
-3988,40,53205,40_53205,False,False,Artificial Turf Installation,True
-3989,40,82001,40_82001,False,False,Artificial Turf Installation,True
-3990,40,96799,40_96799,False,False,Artificial Turf Installation,True
-3991,40,20001,40_20001,False,False,Artificial Turf Installation,True
-3992,40,96941,40_96941,False,False,Artificial Turf Installation,True
-3993,40,96910,40_96910,False,False,Artificial Turf Installation,True
-3994,40,96912,40_96912,False,False,Artificial Turf Installation,True
-3995,40,96960,40_96960,False,False,Artificial Turf Installation,True
-3996,40,96950,40_96950,False,False,Artificial Turf Installation,True
-3997,40,96939,40_96939,False,False,Artificial Turf Installation,True
-3998,40,00901,40_00901,False,False,Artificial Turf Installation,True
-3999,40,00802,40_00802,False,False,Artificial Turf Installation,True
-4000,41,36104,41_36104,False,False,Asbestos Removal,True
-4001,41,35210,41_35210,False,False,Asbestos Removal,True
-4002,41,99801,41_99801,False,False,Asbestos Removal,True
-4003,41,99501,41_99501,False,False,Asbestos Removal,True
-4004,41,85001,41_85001,False,False,Asbestos Removal,True
-4005,41,72201,41_72201,False,False,Asbestos Removal,True
-4006,41,95814,41_95814,False,False,Asbestos Removal,True
-4007,41,90013,41_90013,False,False,Asbestos Removal,True
-4008,41,92101,41_92101,False,False,Asbestos Removal,True
-4009,41,95112,41_95112,False,False,Asbestos Removal,True
-4010,41,94108,41_94108,False,False,Asbestos Removal,True
-4011,41,80202,41_80202,False,False,Asbestos Removal,True
-4012,41,06103,41_06103,False,False,Asbestos Removal,True
-4013,41,06604,41_06604,False,False,Asbestos Removal,True
-4014,41,19901,41_19901,False,False,Asbestos Removal,True
-4015,41,19850,41_19850,False,False,Asbestos Removal,True
-4016,41,32301,41_32301,False,False,Asbestos Removal,True
-4017,41,32202,41_32202,False,False,Asbestos Removal,True
-4018,41,33132,41_33132,False,False,Asbestos Removal,True
-4019,41,33602,41_33602,False,False,Asbestos Removal,True
-4020,41,30303,41_30303,False,False,Asbestos Removal,True
-4021,41,96813,41_96813,False,False,Asbestos Removal,True
-4022,41,83702,41_83702,False,False,Asbestos Removal,True
-4023,41,62701,41_62701,False,False,Asbestos Removal,True
-4024,41,60176,41_60176,False,False,Asbestos Removal,True
-4025,41,46225,41_46225,False,False,Asbestos Removal,True
-4026,41,50309,41_50309,False,False,Asbestos Removal,True
-4027,41,66603,41_66603,False,False,Asbestos Removal,True
-4028,41,67052,41_67052,False,False,Asbestos Removal,True
-4029,41,40601,41_40601,False,False,Asbestos Removal,True
-4030,41,40507,41_40507,False,False,Asbestos Removal,True
-4031,41,70802,41_70802,False,False,Asbestos Removal,True
-4032,41,70114,41_70114,False,False,Asbestos Removal,True
-4033,41,04330,41_04330,False,False,Asbestos Removal,True
-4034,41,04101,41_04101,False,False,Asbestos Removal,True
-4035,41,21401,41_21401,False,False,Asbestos Removal,True
-4036,41,21202,41_21202,False,False,Asbestos Removal,True
-4037,41,02201,41_02201,False,False,Asbestos Removal,True
-4038,41,48933,41_48933,False,False,Asbestos Removal,True
-4039,41,48226,41_48226,False,False,Asbestos Removal,True
-4040,41,55102,41_55102,False,False,Asbestos Removal,True
-4041,41,55404,41_55404,False,False,Asbestos Removal,True
-4042,41,39205,41_39205,False,False,Asbestos Removal,True
-4043,41,65101,41_65101,False,False,Asbestos Removal,True
-4044,41,64105,41_64105,False,False,Asbestos Removal,True
-4045,41,59623,41_59623,False,False,Asbestos Removal,True
-4046,41,05101,41_05101,False,False,Asbestos Removal,True
-4047,41,68502,41_68502,False,False,Asbestos Removal,True
-4048,41,68102,41_68102,False,False,Asbestos Removal,True
-4049,41,89701,41_89701,False,False,Asbestos Removal,True
-4050,41,89101,41_89101,False,False,Asbestos Removal,True
-4051,41,03301,41_03301,False,False,Asbestos Removal,True
-4052,41,03108,41_03108,False,False,Asbestos Removal,True
-4053,41,08608,41_08608,False,False,Asbestos Removal,True
-4054,41,07102,41_07102,False,False,Asbestos Removal,True
-4055,41,87501,41_87501,False,False,Asbestos Removal,True
-4056,41,87102,41_87102,False,False,Asbestos Removal,True
-4057,41,12207,41_12207,False,False,Asbestos Removal,True
-4058,41,10007,41_10007,False,False,Asbestos Removal,True
-4059,41,11021,41_11021,False,False,Asbestos Removal,True
-4060,41,27601,41_27601,False,False,Asbestos Removal,True
-4061,41,28105,41_28105,False,False,Asbestos Removal,True
-4062,41,58501,41_58501,False,False,Asbestos Removal,True
-4063,41,58102,41_58102,False,False,Asbestos Removal,True
-4064,41,43215,41_43215,False,False,Asbestos Removal,True
-4065,41,73102,41_73102,False,False,Asbestos Removal,True
-4066,41,97301,41_97301,False,False,Asbestos Removal,True
-4067,41,97201,41_97201,False,False,Asbestos Removal,True
-4068,41,17101,41_17101,False,False,Asbestos Removal,True
-4069,41,19103,41_19103,False,False,Asbestos Removal,True
-4070,41,02903,41_02903,False,False,Asbestos Removal,True
-4071,41,29217,41_29217,False,False,Asbestos Removal,True
-4072,41,57501,41_57501,False,False,Asbestos Removal,True
-4073,41,57103,41_57103,False,False,Asbestos Removal,True
-4074,41,37219,41_37219,False,False,Asbestos Removal,True
-4075,41,78701,41_78701,False,False,Asbestos Removal,True
-4076,41,77002,41_77002,False,False,Asbestos Removal,True
-4077,41,78207,41_78207,False,False,Asbestos Removal,True
-4078,41,75207,41_75207,False,False,Asbestos Removal,True
-4079,41,84111,41_84111,False,False,Asbestos Removal,True
-4080,41,05602,41_05602,False,False,Asbestos Removal,True
-4081,41,05401,41_05401,False,False,Asbestos Removal,True
-4082,41,23219,41_23219,False,False,Asbestos Removal,True
-4083,41,23454,41_23454,False,False,Asbestos Removal,True
-4084,41,98507,41_98507,False,False,Asbestos Removal,True
-4085,41,98105,41_98105,False,False,Asbestos Removal,True
-4086,41,25301,41_25301,False,False,Asbestos Removal,True
-4087,41,53703,41_53703,False,False,Asbestos Removal,True
-4088,41,53205,41_53205,False,False,Asbestos Removal,True
-4089,41,82001,41_82001,False,False,Asbestos Removal,True
-4090,41,96799,41_96799,False,False,Asbestos Removal,True
-4091,41,20001,41_20001,False,False,Asbestos Removal,True
-4092,41,96941,41_96941,False,False,Asbestos Removal,True
-4093,41,96910,41_96910,False,False,Asbestos Removal,True
-4094,41,96912,41_96912,False,False,Asbestos Removal,True
-4095,41,96960,41_96960,False,False,Asbestos Removal,True
-4096,41,96950,41_96950,False,False,Asbestos Removal,True
-4097,41,96939,41_96939,False,False,Asbestos Removal,True
-4098,41,00901,41_00901,False,False,Asbestos Removal,True
-4099,41,00802,41_00802,False,False,Asbestos Removal,True
-4100,42,36104,42_36104,False,False,Asphalt Installation,True
-4101,42,35210,42_35210,False,False,Asphalt Installation,True
-4102,42,99801,42_99801,False,False,Asphalt Installation,True
-4103,42,99501,42_99501,False,False,Asphalt Installation,True
-4104,42,85001,42_85001,False,False,Asphalt Installation,True
-4105,42,72201,42_72201,False,False,Asphalt Installation,True
-4106,42,95814,42_95814,False,False,Asphalt Installation,True
-4107,42,90013,42_90013,False,False,Asphalt Installation,True
-4108,42,92101,42_92101,False,False,Asphalt Installation,True
-4109,42,95112,42_95112,False,False,Asphalt Installation,True
-4110,42,94108,42_94108,False,False,Asphalt Installation,True
-4111,42,80202,42_80202,False,False,Asphalt Installation,True
-4112,42,06103,42_06103,False,False,Asphalt Installation,True
-4113,42,06604,42_06604,False,False,Asphalt Installation,True
-4114,42,19901,42_19901,False,False,Asphalt Installation,True
-4115,42,19850,42_19850,False,False,Asphalt Installation,True
-4116,42,32301,42_32301,False,False,Asphalt Installation,True
-4117,42,32202,42_32202,False,False,Asphalt Installation,True
-4118,42,33132,42_33132,False,False,Asphalt Installation,True
-4119,42,33602,42_33602,False,False,Asphalt Installation,True
-4120,42,30303,42_30303,False,False,Asphalt Installation,True
-4121,42,96813,42_96813,False,False,Asphalt Installation,True
-4122,42,83702,42_83702,False,False,Asphalt Installation,True
-4123,42,62701,42_62701,False,False,Asphalt Installation,True
-4124,42,60176,42_60176,False,False,Asphalt Installation,True
-4125,42,46225,42_46225,False,False,Asphalt Installation,True
-4126,42,50309,42_50309,False,False,Asphalt Installation,True
-4127,42,66603,42_66603,False,False,Asphalt Installation,True
-4128,42,67052,42_67052,False,False,Asphalt Installation,True
-4129,42,40601,42_40601,False,False,Asphalt Installation,True
-4130,42,40507,42_40507,False,False,Asphalt Installation,True
-4131,42,70802,42_70802,False,False,Asphalt Installation,True
-4132,42,70114,42_70114,False,False,Asphalt Installation,True
-4133,42,04330,42_04330,False,False,Asphalt Installation,True
-4134,42,04101,42_04101,False,False,Asphalt Installation,True
-4135,42,21401,42_21401,False,False,Asphalt Installation,True
-4136,42,21202,42_21202,False,False,Asphalt Installation,True
-4137,42,02201,42_02201,False,False,Asphalt Installation,True
-4138,42,48933,42_48933,False,False,Asphalt Installation,True
-4139,42,48226,42_48226,False,False,Asphalt Installation,True
-4140,42,55102,42_55102,False,False,Asphalt Installation,True
-4141,42,55404,42_55404,False,False,Asphalt Installation,True
-4142,42,39205,42_39205,False,False,Asphalt Installation,True
-4143,42,65101,42_65101,False,False,Asphalt Installation,True
-4144,42,64105,42_64105,False,False,Asphalt Installation,True
-4145,42,59623,42_59623,False,False,Asphalt Installation,True
-4146,42,05101,42_05101,False,False,Asphalt Installation,True
-4147,42,68502,42_68502,False,False,Asphalt Installation,True
-4148,42,68102,42_68102,False,False,Asphalt Installation,True
-4149,42,89701,42_89701,False,False,Asphalt Installation,True
-4150,42,89101,42_89101,False,False,Asphalt Installation,True
-4151,42,03301,42_03301,False,False,Asphalt Installation,True
-4152,42,03108,42_03108,False,False,Asphalt Installation,True
-4153,42,08608,42_08608,False,False,Asphalt Installation,True
-4154,42,07102,42_07102,False,False,Asphalt Installation,True
-4155,42,87501,42_87501,False,False,Asphalt Installation,True
-4156,42,87102,42_87102,False,False,Asphalt Installation,True
-4157,42,12207,42_12207,False,False,Asphalt Installation,True
-4158,42,10007,42_10007,False,False,Asphalt Installation,True
-4159,42,11021,42_11021,False,False,Asphalt Installation,True
-4160,42,27601,42_27601,False,False,Asphalt Installation,True
-4161,42,28105,42_28105,False,False,Asphalt Installation,True
-4162,42,58501,42_58501,False,False,Asphalt Installation,True
-4163,42,58102,42_58102,False,False,Asphalt Installation,True
-4164,42,43215,42_43215,False,False,Asphalt Installation,True
-4165,42,73102,42_73102,False,False,Asphalt Installation,True
-4166,42,97301,42_97301,False,False,Asphalt Installation,True
-4167,42,97201,42_97201,False,False,Asphalt Installation,True
-4168,42,17101,42_17101,False,False,Asphalt Installation,True
-4169,42,19103,42_19103,False,False,Asphalt Installation,True
-4170,42,02903,42_02903,False,False,Asphalt Installation,True
-4171,42,29217,42_29217,False,False,Asphalt Installation,True
-4172,42,57501,42_57501,False,False,Asphalt Installation,True
-4173,42,57103,42_57103,False,False,Asphalt Installation,True
-4174,42,37219,42_37219,False,False,Asphalt Installation,True
-4175,42,78701,42_78701,False,False,Asphalt Installation,True
-4176,42,77002,42_77002,False,False,Asphalt Installation,True
-4177,42,78207,42_78207,False,False,Asphalt Installation,True
-4178,42,75207,42_75207,False,False,Asphalt Installation,True
-4179,42,84111,42_84111,False,False,Asphalt Installation,True
-4180,42,05602,42_05602,False,False,Asphalt Installation,True
-4181,42,05401,42_05401,False,False,Asphalt Installation,True
-4182,42,23219,42_23219,False,False,Asphalt Installation,True
-4183,42,23454,42_23454,False,False,Asphalt Installation,True
-4184,42,98507,42_98507,False,False,Asphalt Installation,True
-4185,42,98105,42_98105,False,False,Asphalt Installation,True
-4186,42,25301,42_25301,False,False,Asphalt Installation,True
-4187,42,53703,42_53703,False,False,Asphalt Installation,True
-4188,42,53205,42_53205,False,False,Asphalt Installation,True
-4189,42,82001,42_82001,False,False,Asphalt Installation,True
-4190,42,96799,42_96799,False,False,Asphalt Installation,True
-4191,42,20001,42_20001,False,False,Asphalt Installation,True
-4192,42,96941,42_96941,False,False,Asphalt Installation,True
-4193,42,96910,42_96910,False,False,Asphalt Installation,True
-4194,42,96912,42_96912,False,False,Asphalt Installation,True
-4195,42,96960,42_96960,False,False,Asphalt Installation,True
-4196,42,96950,42_96950,False,False,Asphalt Installation,True
-4197,42,96939,42_96939,False,False,Asphalt Installation,True
-4198,42,00901,42_00901,False,False,Asphalt Installation,True
-4199,42,00802,42_00802,False,False,Asphalt Installation,True
-4200,43,36104,43_36104,False,False,Asphalt Repair and Maintenance,True
-4201,43,35210,43_35210,False,False,Asphalt Repair and Maintenance,True
-4202,43,99801,43_99801,False,False,Asphalt Repair and Maintenance,True
-4203,43,99501,43_99501,False,False,Asphalt Repair and Maintenance,True
-4204,43,85001,43_85001,False,False,Asphalt Repair and Maintenance,True
-4205,43,72201,43_72201,False,False,Asphalt Repair and Maintenance,True
-4206,43,95814,43_95814,False,False,Asphalt Repair and Maintenance,True
-4207,43,90013,43_90013,False,False,Asphalt Repair and Maintenance,True
-4208,43,92101,43_92101,False,False,Asphalt Repair and Maintenance,True
-4209,43,95112,43_95112,False,False,Asphalt Repair and Maintenance,True
-4210,43,94108,43_94108,False,False,Asphalt Repair and Maintenance,True
-4211,43,80202,43_80202,False,False,Asphalt Repair and Maintenance,True
-4212,43,06103,43_06103,False,False,Asphalt Repair and Maintenance,True
-4213,43,06604,43_06604,False,False,Asphalt Repair and Maintenance,True
-4214,43,19901,43_19901,False,False,Asphalt Repair and Maintenance,True
-4215,43,19850,43_19850,False,False,Asphalt Repair and Maintenance,True
-4216,43,32301,43_32301,False,False,Asphalt Repair and Maintenance,True
-4217,43,32202,43_32202,False,False,Asphalt Repair and Maintenance,True
-4218,43,33132,43_33132,False,False,Asphalt Repair and Maintenance,True
-4219,43,33602,43_33602,False,False,Asphalt Repair and Maintenance,True
-4220,43,30303,43_30303,False,False,Asphalt Repair and Maintenance,True
-4221,43,96813,43_96813,False,False,Asphalt Repair and Maintenance,True
-4222,43,83702,43_83702,False,False,Asphalt Repair and Maintenance,True
-4223,43,62701,43_62701,False,False,Asphalt Repair and Maintenance,True
-4224,43,60176,43_60176,False,False,Asphalt Repair and Maintenance,True
-4225,43,46225,43_46225,False,False,Asphalt Repair and Maintenance,True
-4226,43,50309,43_50309,False,False,Asphalt Repair and Maintenance,True
-4227,43,66603,43_66603,False,False,Asphalt Repair and Maintenance,True
-4228,43,67052,43_67052,False,False,Asphalt Repair and Maintenance,True
-4229,43,40601,43_40601,False,False,Asphalt Repair and Maintenance,True
-4230,43,40507,43_40507,False,False,Asphalt Repair and Maintenance,True
-4231,43,70802,43_70802,False,False,Asphalt Repair and Maintenance,True
-4232,43,70114,43_70114,False,False,Asphalt Repair and Maintenance,True
-4233,43,04330,43_04330,False,False,Asphalt Repair and Maintenance,True
-4234,43,04101,43_04101,False,False,Asphalt Repair and Maintenance,True
-4235,43,21401,43_21401,False,False,Asphalt Repair and Maintenance,True
-4236,43,21202,43_21202,False,False,Asphalt Repair and Maintenance,True
-4237,43,02201,43_02201,False,False,Asphalt Repair and Maintenance,True
-4238,43,48933,43_48933,False,False,Asphalt Repair and Maintenance,True
-4239,43,48226,43_48226,False,False,Asphalt Repair and Maintenance,True
-4240,43,55102,43_55102,False,False,Asphalt Repair and Maintenance,True
-4241,43,55404,43_55404,False,False,Asphalt Repair and Maintenance,True
-4242,43,39205,43_39205,False,False,Asphalt Repair and Maintenance,True
-4243,43,65101,43_65101,False,False,Asphalt Repair and Maintenance,True
-4244,43,64105,43_64105,False,False,Asphalt Repair and Maintenance,True
-4245,43,59623,43_59623,False,False,Asphalt Repair and Maintenance,True
-4246,43,05101,43_05101,False,False,Asphalt Repair and Maintenance,True
-4247,43,68502,43_68502,False,False,Asphalt Repair and Maintenance,True
-4248,43,68102,43_68102,False,False,Asphalt Repair and Maintenance,True
-4249,43,89701,43_89701,False,False,Asphalt Repair and Maintenance,True
-4250,43,89101,43_89101,False,False,Asphalt Repair and Maintenance,True
-4251,43,03301,43_03301,False,False,Asphalt Repair and Maintenance,True
-4252,43,03108,43_03108,False,False,Asphalt Repair and Maintenance,True
-4253,43,08608,43_08608,False,False,Asphalt Repair and Maintenance,True
-4254,43,07102,43_07102,False,False,Asphalt Repair and Maintenance,True
-4255,43,87501,43_87501,False,False,Asphalt Repair and Maintenance,True
-4256,43,87102,43_87102,False,False,Asphalt Repair and Maintenance,True
-4257,43,12207,43_12207,False,False,Asphalt Repair and Maintenance,True
-4258,43,10007,43_10007,False,False,Asphalt Repair and Maintenance,True
-4259,43,11021,43_11021,False,False,Asphalt Repair and Maintenance,True
-4260,43,27601,43_27601,False,False,Asphalt Repair and Maintenance,True
-4261,43,28105,43_28105,False,False,Asphalt Repair and Maintenance,True
-4262,43,58501,43_58501,False,False,Asphalt Repair and Maintenance,True
-4263,43,58102,43_58102,False,False,Asphalt Repair and Maintenance,True
-4264,43,43215,43_43215,False,False,Asphalt Repair and Maintenance,True
-4265,43,73102,43_73102,False,False,Asphalt Repair and Maintenance,True
-4266,43,97301,43_97301,False,False,Asphalt Repair and Maintenance,True
-4267,43,97201,43_97201,False,False,Asphalt Repair and Maintenance,True
-4268,43,17101,43_17101,False,False,Asphalt Repair and Maintenance,True
-4269,43,19103,43_19103,False,False,Asphalt Repair and Maintenance,True
-4270,43,02903,43_02903,False,False,Asphalt Repair and Maintenance,True
-4271,43,29217,43_29217,False,False,Asphalt Repair and Maintenance,True
-4272,43,57501,43_57501,False,False,Asphalt Repair and Maintenance,True
-4273,43,57103,43_57103,False,False,Asphalt Repair and Maintenance,True
-4274,43,37219,43_37219,False,False,Asphalt Repair and Maintenance,True
-4275,43,78701,43_78701,False,False,Asphalt Repair and Maintenance,True
-4276,43,77002,43_77002,False,False,Asphalt Repair and Maintenance,True
-4277,43,78207,43_78207,False,False,Asphalt Repair and Maintenance,True
-4278,43,75207,43_75207,False,False,Asphalt Repair and Maintenance,True
-4279,43,84111,43_84111,False,False,Asphalt Repair and Maintenance,True
-4280,43,05602,43_05602,False,False,Asphalt Repair and Maintenance,True
-4281,43,05401,43_05401,False,False,Asphalt Repair and Maintenance,True
-4282,43,23219,43_23219,False,False,Asphalt Repair and Maintenance,True
-4283,43,23454,43_23454,False,False,Asphalt Repair and Maintenance,True
-4284,43,98507,43_98507,False,False,Asphalt Repair and Maintenance,True
-4285,43,98105,43_98105,False,False,Asphalt Repair and Maintenance,True
-4286,43,25301,43_25301,False,False,Asphalt Repair and Maintenance,True
-4287,43,53703,43_53703,False,False,Asphalt Repair and Maintenance,True
-4288,43,53205,43_53205,False,False,Asphalt Repair and Maintenance,True
-4289,43,82001,43_82001,False,False,Asphalt Repair and Maintenance,True
-4290,43,96799,43_96799,False,False,Asphalt Repair and Maintenance,True
-4291,43,20001,43_20001,False,False,Asphalt Repair and Maintenance,True
-4292,43,96941,43_96941,False,False,Asphalt Repair and Maintenance,True
-4293,43,96910,43_96910,False,False,Asphalt Repair and Maintenance,True
-4294,43,96912,43_96912,False,False,Asphalt Repair and Maintenance,True
-4295,43,96960,43_96960,False,False,Asphalt Repair and Maintenance,True
-4296,43,96950,43_96950,False,False,Asphalt Repair and Maintenance,True
-4297,43,96939,43_96939,False,False,Asphalt Repair and Maintenance,True
-4298,43,00901,43_00901,False,False,Asphalt Repair and Maintenance,True
-4299,43,00802,43_00802,False,False,Asphalt Repair and Maintenance,True
-4300,44,36104,44_36104,False,False,Basement Finishing or Remodeling,True
-4301,44,35210,44_35210,False,False,Basement Finishing or Remodeling,True
-4302,44,99801,44_99801,False,False,Basement Finishing or Remodeling,True
-4303,44,99501,44_99501,False,False,Basement Finishing or Remodeling,True
-4304,44,85001,44_85001,False,False,Basement Finishing or Remodeling,True
-4305,44,72201,44_72201,False,False,Basement Finishing or Remodeling,True
-4306,44,95814,44_95814,False,False,Basement Finishing or Remodeling,True
-4307,44,90013,44_90013,False,False,Basement Finishing or Remodeling,True
-4308,44,92101,44_92101,False,False,Basement Finishing or Remodeling,True
-4309,44,95112,44_95112,False,False,Basement Finishing or Remodeling,True
-4310,44,94108,44_94108,False,False,Basement Finishing or Remodeling,True
-4311,44,80202,44_80202,False,False,Basement Finishing or Remodeling,True
-4312,44,06103,44_06103,False,False,Basement Finishing or Remodeling,True
-4313,44,06604,44_06604,False,False,Basement Finishing or Remodeling,True
-4314,44,19901,44_19901,False,False,Basement Finishing or Remodeling,True
-4315,44,19850,44_19850,False,False,Basement Finishing or Remodeling,True
-4316,44,32301,44_32301,False,False,Basement Finishing or Remodeling,True
-4317,44,32202,44_32202,False,False,Basement Finishing or Remodeling,True
-4318,44,33132,44_33132,False,False,Basement Finishing or Remodeling,True
-4319,44,33602,44_33602,False,False,Basement Finishing or Remodeling,True
-4320,44,30303,44_30303,False,False,Basement Finishing or Remodeling,True
-4321,44,96813,44_96813,False,False,Basement Finishing or Remodeling,True
-4322,44,83702,44_83702,False,False,Basement Finishing or Remodeling,True
-4323,44,62701,44_62701,False,False,Basement Finishing or Remodeling,True
-4324,44,60176,44_60176,False,False,Basement Finishing or Remodeling,True
-4325,44,46225,44_46225,False,False,Basement Finishing or Remodeling,True
-4326,44,50309,44_50309,False,False,Basement Finishing or Remodeling,True
-4327,44,66603,44_66603,False,False,Basement Finishing or Remodeling,True
-4328,44,67052,44_67052,False,False,Basement Finishing or Remodeling,True
-4329,44,40601,44_40601,False,False,Basement Finishing or Remodeling,True
-4330,44,40507,44_40507,False,False,Basement Finishing or Remodeling,True
-4331,44,70802,44_70802,False,False,Basement Finishing or Remodeling,True
-4332,44,70114,44_70114,False,False,Basement Finishing or Remodeling,True
-4333,44,04330,44_04330,False,False,Basement Finishing or Remodeling,True
-4334,44,04101,44_04101,False,False,Basement Finishing or Remodeling,True
-4335,44,21401,44_21401,False,False,Basement Finishing or Remodeling,True
-4336,44,21202,44_21202,False,False,Basement Finishing or Remodeling,True
-4337,44,02201,44_02201,False,False,Basement Finishing or Remodeling,True
-4338,44,48933,44_48933,False,False,Basement Finishing or Remodeling,True
-4339,44,48226,44_48226,False,False,Basement Finishing or Remodeling,True
-4340,44,55102,44_55102,False,False,Basement Finishing or Remodeling,True
-4341,44,55404,44_55404,False,False,Basement Finishing or Remodeling,True
-4342,44,39205,44_39205,False,False,Basement Finishing or Remodeling,True
-4343,44,65101,44_65101,False,False,Basement Finishing or Remodeling,True
-4344,44,64105,44_64105,False,False,Basement Finishing or Remodeling,True
-4345,44,59623,44_59623,False,False,Basement Finishing or Remodeling,True
-4346,44,05101,44_05101,False,False,Basement Finishing or Remodeling,True
-4347,44,68502,44_68502,False,False,Basement Finishing or Remodeling,True
-4348,44,68102,44_68102,False,False,Basement Finishing or Remodeling,True
-4349,44,89701,44_89701,False,False,Basement Finishing or Remodeling,True
-4350,44,89101,44_89101,False,False,Basement Finishing or Remodeling,True
-4351,44,03301,44_03301,False,False,Basement Finishing or Remodeling,True
-4352,44,03108,44_03108,False,False,Basement Finishing or Remodeling,True
-4353,44,08608,44_08608,False,False,Basement Finishing or Remodeling,True
-4354,44,07102,44_07102,False,False,Basement Finishing or Remodeling,True
-4355,44,87501,44_87501,False,False,Basement Finishing or Remodeling,True
-4356,44,87102,44_87102,False,False,Basement Finishing or Remodeling,True
-4357,44,12207,44_12207,False,False,Basement Finishing or Remodeling,True
-4358,44,10007,44_10007,False,False,Basement Finishing or Remodeling,True
-4359,44,11021,44_11021,False,False,Basement Finishing or Remodeling,True
-4360,44,27601,44_27601,False,False,Basement Finishing or Remodeling,True
-4361,44,28105,44_28105,False,False,Basement Finishing or Remodeling,True
-4362,44,58501,44_58501,False,False,Basement Finishing or Remodeling,True
-4363,44,58102,44_58102,False,False,Basement Finishing or Remodeling,True
-4364,44,43215,44_43215,False,False,Basement Finishing or Remodeling,True
-4365,44,73102,44_73102,False,False,Basement Finishing or Remodeling,True
-4366,44,97301,44_97301,False,False,Basement Finishing or Remodeling,True
-4367,44,97201,44_97201,False,False,Basement Finishing or Remodeling,True
-4368,44,17101,44_17101,False,False,Basement Finishing or Remodeling,True
-4369,44,19103,44_19103,False,False,Basement Finishing or Remodeling,True
-4370,44,02903,44_02903,False,False,Basement Finishing or Remodeling,True
-4371,44,29217,44_29217,False,False,Basement Finishing or Remodeling,True
-4372,44,57501,44_57501,False,False,Basement Finishing or Remodeling,True
-4373,44,57103,44_57103,False,False,Basement Finishing or Remodeling,True
-4374,44,37219,44_37219,False,False,Basement Finishing or Remodeling,True
-4375,44,78701,44_78701,False,False,Basement Finishing or Remodeling,True
-4376,44,77002,44_77002,False,False,Basement Finishing or Remodeling,True
-4377,44,78207,44_78207,False,False,Basement Finishing or Remodeling,True
-4378,44,75207,44_75207,False,False,Basement Finishing or Remodeling,True
-4379,44,84111,44_84111,False,False,Basement Finishing or Remodeling,True
-4380,44,05602,44_05602,False,False,Basement Finishing or Remodeling,True
-4381,44,05401,44_05401,False,False,Basement Finishing or Remodeling,True
-4382,44,23219,44_23219,False,False,Basement Finishing or Remodeling,True
-4383,44,23454,44_23454,False,False,Basement Finishing or Remodeling,True
-4384,44,98507,44_98507,False,False,Basement Finishing or Remodeling,True
-4385,44,98105,44_98105,False,False,Basement Finishing or Remodeling,True
-4386,44,25301,44_25301,False,False,Basement Finishing or Remodeling,True
-4387,44,53703,44_53703,False,False,Basement Finishing or Remodeling,True
-4388,44,53205,44_53205,False,False,Basement Finishing or Remodeling,True
-4389,44,82001,44_82001,False,False,Basement Finishing or Remodeling,True
-4390,44,96799,44_96799,False,False,Basement Finishing or Remodeling,True
-4391,44,20001,44_20001,False,False,Basement Finishing or Remodeling,True
-4392,44,96941,44_96941,False,False,Basement Finishing or Remodeling,True
-4393,44,96910,44_96910,False,False,Basement Finishing or Remodeling,True
-4394,44,96912,44_96912,False,False,Basement Finishing or Remodeling,True
-4395,44,96960,44_96960,False,False,Basement Finishing or Remodeling,True
-4396,44,96950,44_96950,False,False,Basement Finishing or Remodeling,True
-4397,44,96939,44_96939,False,False,Basement Finishing or Remodeling,True
-4398,44,00901,44_00901,False,False,Basement Finishing or Remodeling,True
-4399,44,00802,44_00802,False,False,Basement Finishing or Remodeling,True
-4400,45,36104,45_36104,False,False,Bathroom Remodel,True
-4401,45,35210,45_35210,False,False,Bathroom Remodel,True
-4402,45,99801,45_99801,False,False,Bathroom Remodel,True
-4403,45,99501,45_99501,False,False,Bathroom Remodel,True
-4404,45,85001,45_85001,False,False,Bathroom Remodel,True
-4405,45,72201,45_72201,False,False,Bathroom Remodel,True
-4406,45,95814,45_95814,False,False,Bathroom Remodel,True
-4407,45,90013,45_90013,False,False,Bathroom Remodel,True
-4408,45,92101,45_92101,False,False,Bathroom Remodel,True
-4409,45,95112,45_95112,False,False,Bathroom Remodel,True
-4410,45,94108,45_94108,False,False,Bathroom Remodel,True
-4411,45,80202,45_80202,False,False,Bathroom Remodel,True
-4412,45,06103,45_06103,False,False,Bathroom Remodel,True
-4413,45,06604,45_06604,False,False,Bathroom Remodel,True
-4414,45,19901,45_19901,False,False,Bathroom Remodel,True
-4415,45,19850,45_19850,False,False,Bathroom Remodel,True
-4416,45,32301,45_32301,False,False,Bathroom Remodel,True
-4417,45,32202,45_32202,False,False,Bathroom Remodel,True
-4418,45,33132,45_33132,False,False,Bathroom Remodel,True
-4419,45,33602,45_33602,False,False,Bathroom Remodel,True
-4420,45,30303,45_30303,False,False,Bathroom Remodel,True
-4421,45,96813,45_96813,False,False,Bathroom Remodel,True
-4422,45,83702,45_83702,False,False,Bathroom Remodel,True
-4423,45,62701,45_62701,False,False,Bathroom Remodel,True
-4424,45,60176,45_60176,False,False,Bathroom Remodel,True
-4425,45,46225,45_46225,False,False,Bathroom Remodel,True
-4426,45,50309,45_50309,False,False,Bathroom Remodel,True
-4427,45,66603,45_66603,False,False,Bathroom Remodel,True
-4428,45,67052,45_67052,False,False,Bathroom Remodel,True
-4429,45,40601,45_40601,False,False,Bathroom Remodel,True
-4430,45,40507,45_40507,False,False,Bathroom Remodel,True
-4431,45,70802,45_70802,False,False,Bathroom Remodel,True
-4432,45,70114,45_70114,False,False,Bathroom Remodel,True
-4433,45,04330,45_04330,False,False,Bathroom Remodel,True
-4434,45,04101,45_04101,False,False,Bathroom Remodel,True
-4435,45,21401,45_21401,False,False,Bathroom Remodel,True
-4436,45,21202,45_21202,False,False,Bathroom Remodel,True
-4437,45,02201,45_02201,False,False,Bathroom Remodel,True
-4438,45,48933,45_48933,False,False,Bathroom Remodel,True
-4439,45,48226,45_48226,False,False,Bathroom Remodel,True
-4440,45,55102,45_55102,False,False,Bathroom Remodel,True
-4441,45,55404,45_55404,False,False,Bathroom Remodel,True
-4442,45,39205,45_39205,False,False,Bathroom Remodel,True
-4443,45,65101,45_65101,False,False,Bathroom Remodel,True
-4444,45,64105,45_64105,False,False,Bathroom Remodel,True
-4445,45,59623,45_59623,False,False,Bathroom Remodel,True
-4446,45,05101,45_05101,False,False,Bathroom Remodel,True
-4447,45,68502,45_68502,False,False,Bathroom Remodel,True
-4448,45,68102,45_68102,False,False,Bathroom Remodel,True
-4449,45,89701,45_89701,False,False,Bathroom Remodel,True
-4450,45,89101,45_89101,False,False,Bathroom Remodel,True
-4451,45,03301,45_03301,False,False,Bathroom Remodel,True
-4452,45,03108,45_03108,False,False,Bathroom Remodel,True
-4453,45,08608,45_08608,False,False,Bathroom Remodel,True
-4454,45,07102,45_07102,False,False,Bathroom Remodel,True
-4455,45,87501,45_87501,False,False,Bathroom Remodel,True
-4456,45,87102,45_87102,False,False,Bathroom Remodel,True
-4457,45,12207,45_12207,False,False,Bathroom Remodel,True
-4458,45,10007,45_10007,False,False,Bathroom Remodel,True
-4459,45,11021,45_11021,False,False,Bathroom Remodel,True
-4460,45,27601,45_27601,False,False,Bathroom Remodel,True
-4461,45,28105,45_28105,False,False,Bathroom Remodel,True
-4462,45,58501,45_58501,False,False,Bathroom Remodel,True
-4463,45,58102,45_58102,False,False,Bathroom Remodel,True
-4464,45,43215,45_43215,False,False,Bathroom Remodel,True
-4465,45,73102,45_73102,False,False,Bathroom Remodel,True
-4466,45,97301,45_97301,False,False,Bathroom Remodel,True
-4467,45,97201,45_97201,False,False,Bathroom Remodel,True
-4468,45,17101,45_17101,False,False,Bathroom Remodel,True
-4469,45,19103,45_19103,False,False,Bathroom Remodel,True
-4470,45,02903,45_02903,False,False,Bathroom Remodel,True
-4471,45,29217,45_29217,False,False,Bathroom Remodel,True
-4472,45,57501,45_57501,False,False,Bathroom Remodel,True
-4473,45,57103,45_57103,False,False,Bathroom Remodel,True
-4474,45,37219,45_37219,False,False,Bathroom Remodel,True
-4475,45,78701,45_78701,False,False,Bathroom Remodel,True
-4476,45,77002,45_77002,False,False,Bathroom Remodel,True
-4477,45,78207,45_78207,False,False,Bathroom Remodel,True
-4478,45,75207,45_75207,False,False,Bathroom Remodel,True
-4479,45,84111,45_84111,False,False,Bathroom Remodel,True
-4480,45,05602,45_05602,False,False,Bathroom Remodel,True
-4481,45,05401,45_05401,False,False,Bathroom Remodel,True
-4482,45,23219,45_23219,False,False,Bathroom Remodel,True
-4483,45,23454,45_23454,False,False,Bathroom Remodel,True
-4484,45,98507,45_98507,False,False,Bathroom Remodel,True
-4485,45,98105,45_98105,False,False,Bathroom Remodel,True
-4486,45,25301,45_25301,False,False,Bathroom Remodel,True
-4487,45,53703,45_53703,False,False,Bathroom Remodel,True
-4488,45,53205,45_53205,False,False,Bathroom Remodel,True
-4489,45,82001,45_82001,False,False,Bathroom Remodel,True
-4490,45,96799,45_96799,False,False,Bathroom Remodel,True
-4491,45,20001,45_20001,False,False,Bathroom Remodel,True
-4492,45,96941,45_96941,False,False,Bathroom Remodel,True
-4493,45,96910,45_96910,False,False,Bathroom Remodel,True
-4494,45,96912,45_96912,False,False,Bathroom Remodel,True
-4495,45,96960,45_96960,False,False,Bathroom Remodel,True
-4496,45,96950,45_96950,False,False,Bathroom Remodel,True
-4497,45,96939,45_96939,False,False,Bathroom Remodel,True
-4498,45,00901,45_00901,False,False,Bathroom Remodel,True
-4499,45,00802,45_00802,False,False,Bathroom Remodel,True
-4500,46,36104,46_36104,False,False,Bed Bug Extermination,True
-4501,46,35210,46_35210,False,False,Bed Bug Extermination,True
-4502,46,99801,46_99801,False,False,Bed Bug Extermination,True
-4503,46,99501,46_99501,False,False,Bed Bug Extermination,True
-4504,46,85001,46_85001,False,False,Bed Bug Extermination,True
-4505,46,72201,46_72201,False,False,Bed Bug Extermination,True
-4506,46,95814,46_95814,False,False,Bed Bug Extermination,True
-4507,46,90013,46_90013,False,False,Bed Bug Extermination,True
-4508,46,92101,46_92101,False,False,Bed Bug Extermination,True
-4509,46,95112,46_95112,False,False,Bed Bug Extermination,True
-4510,46,94108,46_94108,False,False,Bed Bug Extermination,True
-4511,46,80202,46_80202,False,False,Bed Bug Extermination,True
-4512,46,06103,46_06103,False,False,Bed Bug Extermination,True
-4513,46,06604,46_06604,False,False,Bed Bug Extermination,True
-4514,46,19901,46_19901,False,False,Bed Bug Extermination,True
-4515,46,19850,46_19850,False,False,Bed Bug Extermination,True
-4516,46,32301,46_32301,False,False,Bed Bug Extermination,True
-4517,46,32202,46_32202,False,False,Bed Bug Extermination,True
-4518,46,33132,46_33132,False,False,Bed Bug Extermination,True
-4519,46,33602,46_33602,False,False,Bed Bug Extermination,True
-4520,46,30303,46_30303,False,False,Bed Bug Extermination,True
-4521,46,96813,46_96813,False,False,Bed Bug Extermination,True
-4522,46,83702,46_83702,False,False,Bed Bug Extermination,True
-4523,46,62701,46_62701,False,False,Bed Bug Extermination,True
-4524,46,60176,46_60176,False,False,Bed Bug Extermination,True
-4525,46,46225,46_46225,False,False,Bed Bug Extermination,True
-4526,46,50309,46_50309,False,False,Bed Bug Extermination,True
-4527,46,66603,46_66603,False,False,Bed Bug Extermination,True
-4528,46,67052,46_67052,False,False,Bed Bug Extermination,True
-4529,46,40601,46_40601,False,False,Bed Bug Extermination,True
-4530,46,40507,46_40507,False,False,Bed Bug Extermination,True
-4531,46,70802,46_70802,False,False,Bed Bug Extermination,True
-4532,46,70114,46_70114,False,False,Bed Bug Extermination,True
-4533,46,04330,46_04330,False,False,Bed Bug Extermination,True
-4534,46,04101,46_04101,False,False,Bed Bug Extermination,True
-4535,46,21401,46_21401,False,False,Bed Bug Extermination,True
-4536,46,21202,46_21202,False,False,Bed Bug Extermination,True
-4537,46,02201,46_02201,False,False,Bed Bug Extermination,True
-4538,46,48933,46_48933,False,False,Bed Bug Extermination,True
-4539,46,48226,46_48226,False,False,Bed Bug Extermination,True
-4540,46,55102,46_55102,False,False,Bed Bug Extermination,True
-4541,46,55404,46_55404,False,False,Bed Bug Extermination,True
-4542,46,39205,46_39205,False,False,Bed Bug Extermination,True
-4543,46,65101,46_65101,False,False,Bed Bug Extermination,True
-4544,46,64105,46_64105,False,False,Bed Bug Extermination,True
-4545,46,59623,46_59623,False,False,Bed Bug Extermination,True
-4546,46,05101,46_05101,False,False,Bed Bug Extermination,True
-4547,46,68502,46_68502,False,False,Bed Bug Extermination,True
-4548,46,68102,46_68102,False,False,Bed Bug Extermination,True
-4549,46,89701,46_89701,False,False,Bed Bug Extermination,True
-4550,46,89101,46_89101,False,False,Bed Bug Extermination,True
-4551,46,03301,46_03301,False,False,Bed Bug Extermination,True
-4552,46,03108,46_03108,False,False,Bed Bug Extermination,True
-4553,46,08608,46_08608,False,False,Bed Bug Extermination,True
-4554,46,07102,46_07102,False,False,Bed Bug Extermination,True
-4555,46,87501,46_87501,False,False,Bed Bug Extermination,True
-4556,46,87102,46_87102,False,False,Bed Bug Extermination,True
-4557,46,12207,46_12207,False,False,Bed Bug Extermination,True
-4558,46,10007,46_10007,False,False,Bed Bug Extermination,True
-4559,46,11021,46_11021,False,False,Bed Bug Extermination,True
-4560,46,27601,46_27601,False,False,Bed Bug Extermination,True
-4561,46,28105,46_28105,False,False,Bed Bug Extermination,True
-4562,46,58501,46_58501,False,False,Bed Bug Extermination,True
-4563,46,58102,46_58102,False,False,Bed Bug Extermination,True
-4564,46,43215,46_43215,False,False,Bed Bug Extermination,True
-4565,46,73102,46_73102,False,False,Bed Bug Extermination,True
-4566,46,97301,46_97301,False,False,Bed Bug Extermination,True
-4567,46,97201,46_97201,False,False,Bed Bug Extermination,True
-4568,46,17101,46_17101,False,False,Bed Bug Extermination,True
-4569,46,19103,46_19103,False,False,Bed Bug Extermination,True
-4570,46,02903,46_02903,False,False,Bed Bug Extermination,True
-4571,46,29217,46_29217,False,False,Bed Bug Extermination,True
-4572,46,57501,46_57501,False,False,Bed Bug Extermination,True
-4573,46,57103,46_57103,False,False,Bed Bug Extermination,True
-4574,46,37219,46_37219,False,False,Bed Bug Extermination,True
-4575,46,78701,46_78701,False,False,Bed Bug Extermination,True
-4576,46,77002,46_77002,False,False,Bed Bug Extermination,True
-4577,46,78207,46_78207,False,False,Bed Bug Extermination,True
-4578,46,75207,46_75207,False,False,Bed Bug Extermination,True
-4579,46,84111,46_84111,False,False,Bed Bug Extermination,True
-4580,46,05602,46_05602,False,False,Bed Bug Extermination,True
-4581,46,05401,46_05401,False,False,Bed Bug Extermination,True
-4582,46,23219,46_23219,False,False,Bed Bug Extermination,True
-4583,46,23454,46_23454,False,False,Bed Bug Extermination,True
-4584,46,98507,46_98507,False,False,Bed Bug Extermination,True
-4585,46,98105,46_98105,False,False,Bed Bug Extermination,True
-4586,46,25301,46_25301,False,False,Bed Bug Extermination,True
-4587,46,53703,46_53703,False,False,Bed Bug Extermination,True
-4588,46,53205,46_53205,False,False,Bed Bug Extermination,True
-4589,46,82001,46_82001,False,False,Bed Bug Extermination,True
-4590,46,96799,46_96799,False,False,Bed Bug Extermination,True
-4591,46,20001,46_20001,False,False,Bed Bug Extermination,True
-4592,46,96941,46_96941,False,False,Bed Bug Extermination,True
-4593,46,96910,46_96910,False,False,Bed Bug Extermination,True
-4594,46,96912,46_96912,False,False,Bed Bug Extermination,True
-4595,46,96960,46_96960,False,False,Bed Bug Extermination,True
-4596,46,96950,46_96950,False,False,Bed Bug Extermination,True
-4597,46,96939,46_96939,False,False,Bed Bug Extermination,True
-4598,46,00901,46_00901,False,False,Bed Bug Extermination,True
-4599,46,00802,46_00802,False,False,Bed Bug Extermination,True
-4600,47,36104,47_36104,False,False,Brick or Stone Repair,True
-4601,47,35210,47_35210,False,False,Brick or Stone Repair,True
-4602,47,99801,47_99801,False,False,Brick or Stone Repair,True
-4603,47,99501,47_99501,False,False,Brick or Stone Repair,True
+3897,39,96939,39_96939,False,True,Architectural Services,False
+3898,39,00901,39_00901,False,True,Architectural Services,False
+3899,39,00802,39_00802,False,True,Architectural Services,False
+3900,40,36104,40_36104,False,True,Artificial Turf Installation,False
+3901,40,35210,40_35210,False,True,Artificial Turf Installation,False
+3902,40,99801,40_99801,False,True,Artificial Turf Installation,False
+3903,40,99501,40_99501,False,True,Artificial Turf Installation,False
+3904,40,85001,40_85001,True,False,Artificial Turf Installation,False
+3905,40,72201,40_72201,True,False,Artificial Turf Installation,False
+3906,40,95814,40_95814,True,False,Artificial Turf Installation,False
+3907,40,90013,40_90013,True,False,Artificial Turf Installation,False
+3908,40,92101,40_92101,True,False,Artificial Turf Installation,False
+3909,40,95112,40_95112,True,False,Artificial Turf Installation,False
+3910,40,94108,40_94108,True,False,Artificial Turf Installation,False
+3911,40,80202,40_80202,True,False,Artificial Turf Installation,False
+3912,40,06103,40_06103,True,False,Artificial Turf Installation,False
+3913,40,06604,40_06604,True,False,Artificial Turf Installation,False
+3914,40,19901,40_19901,False,True,Artificial Turf Installation,False
+3915,40,19850,40_19850,False,True,Artificial Turf Installation,False
+3916,40,32301,40_32301,False,True,Artificial Turf Installation,False
+3917,40,32202,40_32202,True,False,Artificial Turf Installation,False
+3918,40,33132,40_33132,True,False,Artificial Turf Installation,False
+3919,40,33602,40_33602,True,False,Artificial Turf Installation,False
+3920,40,30303,40_30303,True,False,Artificial Turf Installation,False
+3921,40,96813,40_96813,False,True,Artificial Turf Installation,False
+3922,40,83702,40_83702,True,False,Artificial Turf Installation,False
+3923,40,62701,40_62701,False,True,Artificial Turf Installation,False
+3924,40,60176,40_60176,True,False,Artificial Turf Installation,False
+3925,40,46225,40_46225,False,True,Artificial Turf Installation,False
+3926,40,50309,40_50309,True,False,Artificial Turf Installation,False
+3927,40,66603,40_66603,False,True,Artificial Turf Installation,False
+3928,40,67052,40_67052,False,True,Artificial Turf Installation,False
+3929,40,40601,40_40601,False,True,Artificial Turf Installation,False
+3930,40,40507,40_40507,False,True,Artificial Turf Installation,False
+3931,40,70802,40_70802,False,True,Artificial Turf Installation,False
+3932,40,70114,40_70114,True,False,Artificial Turf Installation,False
+3933,40,04330,40_04330,False,True,Artificial Turf Installation,False
+3934,40,04101,40_04101,False,True,Artificial Turf Installation,False
+3935,40,21401,40_21401,True,False,Artificial Turf Installation,False
+3936,40,21202,40_21202,True,False,Artificial Turf Installation,False
+3937,40,02201,40_02201,True,False,Artificial Turf Installation,False
+3938,40,48933,40_48933,True,False,Artificial Turf Installation,False
+3939,40,48226,40_48226,True,False,Artificial Turf Installation,False
+3940,40,55102,40_55102,True,False,Artificial Turf Installation,False
+3941,40,55404,40_55404,True,False,Artificial Turf Installation,False
+3942,40,39205,40_39205,False,True,Artificial Turf Installation,False
+3943,40,65101,40_65101,False,True,Artificial Turf Installation,False
+3944,40,64105,40_64105,False,True,Artificial Turf Installation,False
+3945,40,59623,40_59623,False,True,Artificial Turf Installation,False
+3946,40,05101,40_05101,True,False,Artificial Turf Installation,False
+3947,40,68502,40_68502,False,True,Artificial Turf Installation,False
+3948,40,68102,40_68102,False,True,Artificial Turf Installation,False
+3949,40,89701,40_89701,True,False,Artificial Turf Installation,False
+3950,40,89101,40_89101,True,False,Artificial Turf Installation,False
+3951,40,03301,40_03301,True,False,Artificial Turf Installation,False
+3952,40,03108,40_03108,True,False,Artificial Turf Installation,False
+3953,40,08608,40_08608,True,False,Artificial Turf Installation,False
+3954,40,07102,40_07102,True,False,Artificial Turf Installation,False
+3955,40,87501,40_87501,True,False,Artificial Turf Installation,False
+3956,40,87102,40_87102,True,False,Artificial Turf Installation,False
+3957,40,12207,40_12207,True,False,Artificial Turf Installation,False
+3958,40,10007,40_10007,True,False,Artificial Turf Installation,False
+3959,40,11021,40_11021,True,False,Artificial Turf Installation,False
+3960,40,27601,40_27601,False,True,Artificial Turf Installation,False
+3961,40,28105,40_28105,False,True,Artificial Turf Installation,False
+3962,40,58501,40_58501,False,True,Artificial Turf Installation,False
+3963,40,58102,40_58102,False,True,Artificial Turf Installation,False
+3964,40,43215,40_43215,False,True,Artificial Turf Installation,False
+3965,40,73102,40_73102,False,True,Artificial Turf Installation,False
+3966,40,97301,40_97301,True,False,Artificial Turf Installation,False
+3967,40,97201,40_97201,True,False,Artificial Turf Installation,False
+3968,40,17101,40_17101,False,True,Artificial Turf Installation,False
+3969,40,19103,40_19103,False,True,Artificial Turf Installation,False
+3970,40,02903,40_02903,True,False,Artificial Turf Installation,False
+3971,40,29217,40_29217,False,True,Artificial Turf Installation,False
+3972,40,57501,40_57501,False,True,Artificial Turf Installation,False
+3973,40,57103,40_57103,False,True,Artificial Turf Installation,False
+3974,40,37219,40_37219,True,False,Artificial Turf Installation,False
+3975,40,78701,40_78701,True,False,Artificial Turf Installation,False
+3976,40,77002,40_77002,True,False,Artificial Turf Installation,False
+3977,40,78207,40_78207,True,False,Artificial Turf Installation,False
+3978,40,75207,40_75207,True,False,Artificial Turf Installation,False
+3979,40,84111,40_84111,False,True,Artificial Turf Installation,False
+3980,40,05602,40_05602,True,False,Artificial Turf Installation,False
+3981,40,05401,40_05401,True,False,Artificial Turf Installation,False
+3982,40,23219,40_23219,True,False,Artificial Turf Installation,False
+3983,40,23454,40_23454,True,False,Artificial Turf Installation,False
+3984,40,98507,40_98507,True,False,Artificial Turf Installation,False
+3985,40,98105,40_98105,True,False,Artificial Turf Installation,False
+3986,40,25301,40_25301,False,True,Artificial Turf Installation,False
+3987,40,53703,40_53703,True,False,Artificial Turf Installation,False
+3988,40,53205,40_53205,False,True,Artificial Turf Installation,False
+3989,40,82001,40_82001,False,True,Artificial Turf Installation,False
+3990,40,96799,40_96799,False,True,Artificial Turf Installation,False
+3991,40,20001,40_20001,True,False,Artificial Turf Installation,False
+3992,40,96941,40_96941,False,True,Artificial Turf Installation,False
+3993,40,96910,40_96910,False,True,Artificial Turf Installation,False
+3994,40,96912,40_96912,False,True,Artificial Turf Installation,False
+3995,40,96960,40_96960,False,True,Artificial Turf Installation,False
+3996,40,96950,40_96950,False,True,Artificial Turf Installation,False
+3997,40,96939,40_96939,False,True,Artificial Turf Installation,False
+3998,40,00901,40_00901,False,True,Artificial Turf Installation,False
+3999,40,00802,40_00802,False,True,Artificial Turf Installation,False
+4000,41,36104,41_36104,False,True,Asbestos Removal,False
+4001,41,35210,41_35210,False,True,Asbestos Removal,False
+4002,41,99801,41_99801,False,True,Asbestos Removal,False
+4003,41,99501,41_99501,False,True,Asbestos Removal,False
+4004,41,85001,41_85001,True,False,Asbestos Removal,False
+4005,41,72201,41_72201,False,True,Asbestos Removal,False
+4006,41,95814,41_95814,True,False,Asbestos Removal,False
+4007,41,90013,41_90013,True,False,Asbestos Removal,False
+4008,41,92101,41_92101,True,False,Asbestos Removal,False
+4009,41,95112,41_95112,False,True,Asbestos Removal,False
+4010,41,94108,41_94108,True,False,Asbestos Removal,False
+4011,41,80202,41_80202,True,False,Asbestos Removal,False
+4012,41,06103,41_06103,True,False,Asbestos Removal,False
+4013,41,06604,41_06604,False,True,Asbestos Removal,False
+4014,41,19901,41_19901,True,False,Asbestos Removal,False
+4015,41,19850,41_19850,True,False,Asbestos Removal,False
+4016,41,32301,41_32301,False,True,Asbestos Removal,False
+4017,41,32202,41_32202,False,True,Asbestos Removal,False
+4018,41,33132,41_33132,False,True,Asbestos Removal,False
+4019,41,33602,41_33602,True,False,Asbestos Removal,False
+4020,41,30303,41_30303,False,True,Asbestos Removal,False
+4021,41,96813,41_96813,False,True,Asbestos Removal,False
+4022,41,83702,41_83702,False,True,Asbestos Removal,False
+4023,41,62701,41_62701,False,True,Asbestos Removal,False
+4024,41,60176,41_60176,True,False,Asbestos Removal,False
+4025,41,46225,41_46225,True,False,Asbestos Removal,False
+4026,41,50309,41_50309,True,False,Asbestos Removal,False
+4027,41,66603,41_66603,False,True,Asbestos Removal,False
+4028,41,67052,41_67052,False,True,Asbestos Removal,False
+4029,41,40601,41_40601,False,True,Asbestos Removal,False
+4030,41,40507,41_40507,False,True,Asbestos Removal,False
+4031,41,70802,41_70802,True,False,Asbestos Removal,False
+4032,41,70114,41_70114,True,False,Asbestos Removal,False
+4033,41,04330,41_04330,False,True,Asbestos Removal,False
+4034,41,04101,41_04101,True,False,Asbestos Removal,False
+4035,41,21401,41_21401,True,False,Asbestos Removal,False
+4036,41,21202,41_21202,True,False,Asbestos Removal,False
+4037,41,02201,41_02201,True,False,Asbestos Removal,False
+4038,41,48933,41_48933,False,True,Asbestos Removal,False
+4039,41,48226,41_48226,True,False,Asbestos Removal,False
+4040,41,55102,41_55102,False,True,Asbestos Removal,False
+4041,41,55404,41_55404,False,True,Asbestos Removal,False
+4042,41,39205,41_39205,False,True,Asbestos Removal,False
+4043,41,65101,41_65101,False,True,Asbestos Removal,False
+4044,41,64105,41_64105,False,True,Asbestos Removal,False
+4045,41,59623,41_59623,False,True,Asbestos Removal,False
+4046,41,05101,41_05101,True,False,Asbestos Removal,False
+4047,41,68502,41_68502,False,True,Asbestos Removal,False
+4048,41,68102,41_68102,False,True,Asbestos Removal,False
+4049,41,89701,41_89701,False,True,Asbestos Removal,False
+4050,41,89101,41_89101,False,True,Asbestos Removal,False
+4051,41,03301,41_03301,True,False,Asbestos Removal,False
+4052,41,03108,41_03108,True,False,Asbestos Removal,False
+4053,41,08608,41_08608,True,False,Asbestos Removal,False
+4054,41,07102,41_07102,True,False,Asbestos Removal,False
+4055,41,87501,41_87501,True,False,Asbestos Removal,False
+4056,41,87102,41_87102,False,True,Asbestos Removal,False
+4057,41,12207,41_12207,True,False,Asbestos Removal,False
+4058,41,10007,41_10007,True,False,Asbestos Removal,False
+4059,41,11021,41_11021,True,False,Asbestos Removal,False
+4060,41,27601,41_27601,False,True,Asbestos Removal,False
+4061,41,28105,41_28105,False,True,Asbestos Removal,False
+4062,41,58501,41_58501,False,True,Asbestos Removal,False
+4063,41,58102,41_58102,False,True,Asbestos Removal,False
+4064,41,43215,41_43215,False,True,Asbestos Removal,False
+4065,41,73102,41_73102,False,True,Asbestos Removal,False
+4066,41,97301,41_97301,True,False,Asbestos Removal,False
+4067,41,97201,41_97201,True,False,Asbestos Removal,False
+4068,41,17101,41_17101,True,False,Asbestos Removal,False
+4069,41,19103,41_19103,True,False,Asbestos Removal,False
+4070,41,02903,41_02903,True,False,Asbestos Removal,False
+4071,41,29217,41_29217,True,False,Asbestos Removal,False
+4072,41,57501,41_57501,False,True,Asbestos Removal,False
+4073,41,57103,41_57103,False,True,Asbestos Removal,False
+4074,41,37219,41_37219,False,True,Asbestos Removal,False
+4075,41,78701,41_78701,False,True,Asbestos Removal,False
+4076,41,77002,41_77002,False,True,Asbestos Removal,False
+4077,41,78207,41_78207,False,True,Asbestos Removal,False
+4078,41,75207,41_75207,True,False,Asbestos Removal,False
+4079,41,84111,41_84111,True,False,Asbestos Removal,False
+4080,41,05602,41_05602,False,True,Asbestos Removal,False
+4081,41,05401,41_05401,False,True,Asbestos Removal,False
+4082,41,23219,41_23219,False,True,Asbestos Removal,False
+4083,41,23454,41_23454,False,True,Asbestos Removal,False
+4084,41,98507,41_98507,True,False,Asbestos Removal,False
+4085,41,98105,41_98105,True,False,Asbestos Removal,False
+4086,41,25301,41_25301,False,True,Asbestos Removal,False
+4087,41,53703,41_53703,True,False,Asbestos Removal,False
+4088,41,53205,41_53205,False,True,Asbestos Removal,False
+4089,41,82001,41_82001,True,False,Asbestos Removal,False
+4090,41,96799,41_96799,False,True,Asbestos Removal,False
+4091,41,20001,41_20001,True,False,Asbestos Removal,False
+4092,41,96941,41_96941,False,True,Asbestos Removal,False
+4093,41,96910,41_96910,False,True,Asbestos Removal,False
+4094,41,96912,41_96912,False,True,Asbestos Removal,False
+4095,41,96960,41_96960,False,True,Asbestos Removal,False
+4096,41,96950,41_96950,False,True,Asbestos Removal,False
+4097,41,96939,41_96939,False,True,Asbestos Removal,False
+4098,41,00901,41_00901,False,True,Asbestos Removal,False
+4099,41,00802,41_00802,False,True,Asbestos Removal,False
+4100,42,36104,42_36104,False,True,Asphalt Installation,False
+4101,42,35210,42_35210,True,False,Asphalt Installation,False
+4102,42,99801,42_99801,False,True,Asphalt Installation,False
+4103,42,99501,42_99501,False,True,Asphalt Installation,False
+4104,42,85001,42_85001,True,False,Asphalt Installation,False
+4105,42,72201,42_72201,True,False,Asphalt Installation,False
+4106,42,95814,42_95814,True,False,Asphalt Installation,False
+4107,42,90013,42_90013,True,False,Asphalt Installation,False
+4108,42,92101,42_92101,True,False,Asphalt Installation,False
+4109,42,95112,42_95112,True,False,Asphalt Installation,False
+4110,42,94108,42_94108,True,False,Asphalt Installation,False
+4111,42,80202,42_80202,True,False,Asphalt Installation,False
+4112,42,06103,42_06103,True,False,Asphalt Installation,False
+4113,42,06604,42_06604,True,False,Asphalt Installation,False
+4114,42,19901,42_19901,True,False,Asphalt Installation,False
+4115,42,19850,42_19850,True,False,Asphalt Installation,False
+4116,42,32301,42_32301,True,False,Asphalt Installation,False
+4117,42,32202,42_32202,True,False,Asphalt Installation,False
+4118,42,33132,42_33132,True,False,Asphalt Installation,False
+4119,42,33602,42_33602,True,False,Asphalt Installation,False
+4120,42,30303,42_30303,False,True,Asphalt Installation,False
+4121,42,96813,42_96813,False,True,Asphalt Installation,False
+4122,42,83702,42_83702,True,False,Asphalt Installation,False
+4123,42,62701,42_62701,False,True,Asphalt Installation,False
+4124,42,60176,42_60176,True,False,Asphalt Installation,False
+4125,42,46225,42_46225,True,False,Asphalt Installation,False
+4126,42,50309,42_50309,True,False,Asphalt Installation,False
+4127,42,66603,42_66603,True,False,Asphalt Installation,False
+4128,42,67052,42_67052,False,True,Asphalt Installation,False
+4129,42,40601,42_40601,True,False,Asphalt Installation,False
+4130,42,40507,42_40507,True,False,Asphalt Installation,False
+4131,42,70802,42_70802,True,False,Asphalt Installation,False
+4132,42,70114,42_70114,True,False,Asphalt Installation,False
+4133,42,04330,42_04330,False,True,Asphalt Installation,False
+4134,42,04101,42_04101,True,False,Asphalt Installation,False
+4135,42,21401,42_21401,True,False,Asphalt Installation,False
+4136,42,21202,42_21202,True,False,Asphalt Installation,False
+4137,42,02201,42_02201,True,False,Asphalt Installation,False
+4138,42,48933,42_48933,False,True,Asphalt Installation,False
+4139,42,48226,42_48226,True,False,Asphalt Installation,False
+4140,42,55102,42_55102,True,False,Asphalt Installation,False
+4141,42,55404,42_55404,True,False,Asphalt Installation,False
+4142,42,39205,42_39205,False,True,Asphalt Installation,False
+4143,42,65101,42_65101,True,False,Asphalt Installation,False
+4144,42,64105,42_64105,True,False,Asphalt Installation,False
+4145,42,59623,42_59623,False,True,Asphalt Installation,False
+4146,42,05101,42_05101,True,False,Asphalt Installation,False
+4147,42,68502,42_68502,True,False,Asphalt Installation,False
+4148,42,68102,42_68102,True,False,Asphalt Installation,False
+4149,42,89701,42_89701,True,False,Asphalt Installation,False
+4150,42,89101,42_89101,False,True,Asphalt Installation,False
+4151,42,03301,42_03301,True,False,Asphalt Installation,False
+4152,42,03108,42_03108,True,False,Asphalt Installation,False
+4153,42,08608,42_08608,True,False,Asphalt Installation,False
+4154,42,07102,42_07102,True,False,Asphalt Installation,False
+4155,42,87501,42_87501,True,False,Asphalt Installation,False
+4156,42,87102,42_87102,True,False,Asphalt Installation,False
+4157,42,12207,42_12207,True,False,Asphalt Installation,False
+4158,42,10007,42_10007,True,False,Asphalt Installation,False
+4159,42,11021,42_11021,True,False,Asphalt Installation,False
+4160,42,27601,42_27601,True,False,Asphalt Installation,False
+4161,42,28105,42_28105,True,False,Asphalt Installation,False
+4162,42,58501,42_58501,False,True,Asphalt Installation,False
+4163,42,58102,42_58102,False,True,Asphalt Installation,False
+4164,42,43215,42_43215,True,False,Asphalt Installation,False
+4165,42,73102,42_73102,False,True,Asphalt Installation,False
+4166,42,97301,42_97301,True,False,Asphalt Installation,False
+4167,42,97201,42_97201,True,False,Asphalt Installation,False
+4168,42,17101,42_17101,True,False,Asphalt Installation,False
+4169,42,19103,42_19103,True,False,Asphalt Installation,False
+4170,42,02903,42_02903,True,False,Asphalt Installation,False
+4171,42,29217,42_29217,False,True,Asphalt Installation,False
+4172,42,57501,42_57501,False,True,Asphalt Installation,False
+4173,42,57103,42_57103,False,True,Asphalt Installation,False
+4174,42,37219,42_37219,True,False,Asphalt Installation,False
+4175,42,78701,42_78701,True,False,Asphalt Installation,False
+4176,42,77002,42_77002,True,False,Asphalt Installation,False
+4177,42,78207,42_78207,True,False,Asphalt Installation,False
+4178,42,75207,42_75207,False,True,Asphalt Installation,False
+4179,42,84111,42_84111,True,False,Asphalt Installation,False
+4180,42,05602,42_05602,False,True,Asphalt Installation,False
+4181,42,05401,42_05401,False,True,Asphalt Installation,False
+4182,42,23219,42_23219,True,False,Asphalt Installation,False
+4183,42,23454,42_23454,True,False,Asphalt Installation,False
+4184,42,98507,42_98507,False,True,Asphalt Installation,False
+4185,42,98105,42_98105,True,False,Asphalt Installation,False
+4186,42,25301,42_25301,False,True,Asphalt Installation,False
+4187,42,53703,42_53703,True,False,Asphalt Installation,False
+4188,42,53205,42_53205,True,False,Asphalt Installation,False
+4189,42,82001,42_82001,False,True,Asphalt Installation,False
+4190,42,96799,42_96799,False,True,Asphalt Installation,False
+4191,42,20001,42_20001,True,False,Asphalt Installation,False
+4192,42,96941,42_96941,False,True,Asphalt Installation,False
+4193,42,96910,42_96910,False,True,Asphalt Installation,False
+4194,42,96912,42_96912,False,True,Asphalt Installation,False
+4195,42,96960,42_96960,False,True,Asphalt Installation,False
+4196,42,96950,42_96950,False,True,Asphalt Installation,False
+4197,42,96939,42_96939,False,True,Asphalt Installation,False
+4198,42,00901,42_00901,False,True,Asphalt Installation,False
+4199,42,00802,42_00802,False,True,Asphalt Installation,False
+4200,43,36104,43_36104,True,False,Asphalt Repair and Maintenance,False
+4201,43,35210,43_35210,True,False,Asphalt Repair and Maintenance,False
+4202,43,99801,43_99801,False,True,Asphalt Repair and Maintenance,False
+4203,43,99501,43_99501,False,True,Asphalt Repair and Maintenance,False
+4204,43,85001,43_85001,True,False,Asphalt Repair and Maintenance,False
+4205,43,72201,43_72201,True,False,Asphalt Repair and Maintenance,False
+4206,43,95814,43_95814,True,False,Asphalt Repair and Maintenance,False
+4207,43,90013,43_90013,True,False,Asphalt Repair and Maintenance,False
+4208,43,92101,43_92101,True,False,Asphalt Repair and Maintenance,False
+4209,43,95112,43_95112,True,False,Asphalt Repair and Maintenance,False
+4210,43,94108,43_94108,True,False,Asphalt Repair and Maintenance,False
+4211,43,80202,43_80202,True,False,Asphalt Repair and Maintenance,False
+4212,43,06103,43_06103,True,False,Asphalt Repair and Maintenance,False
+4213,43,06604,43_06604,True,False,Asphalt Repair and Maintenance,False
+4214,43,19901,43_19901,True,False,Asphalt Repair and Maintenance,False
+4215,43,19850,43_19850,True,False,Asphalt Repair and Maintenance,False
+4216,43,32301,43_32301,True,False,Asphalt Repair and Maintenance,False
+4217,43,32202,43_32202,True,False,Asphalt Repair and Maintenance,False
+4218,43,33132,43_33132,True,False,Asphalt Repair and Maintenance,False
+4219,43,33602,43_33602,True,False,Asphalt Repair and Maintenance,False
+4220,43,30303,43_30303,True,False,Asphalt Repair and Maintenance,False
+4221,43,96813,43_96813,True,False,Asphalt Repair and Maintenance,False
+4222,43,83702,43_83702,True,False,Asphalt Repair and Maintenance,False
+4223,43,62701,43_62701,False,True,Asphalt Repair and Maintenance,False
+4224,43,60176,43_60176,True,False,Asphalt Repair and Maintenance,False
+4225,43,46225,43_46225,True,False,Asphalt Repair and Maintenance,False
+4226,43,50309,43_50309,True,False,Asphalt Repair and Maintenance,False
+4227,43,66603,43_66603,True,False,Asphalt Repair and Maintenance,False
+4228,43,67052,43_67052,True,False,Asphalt Repair and Maintenance,False
+4229,43,40601,43_40601,True,False,Asphalt Repair and Maintenance,False
+4230,43,40507,43_40507,True,False,Asphalt Repair and Maintenance,False
+4231,43,70802,43_70802,True,False,Asphalt Repair and Maintenance,False
+4232,43,70114,43_70114,True,False,Asphalt Repair and Maintenance,False
+4233,43,04330,43_04330,False,True,Asphalt Repair and Maintenance,False
+4234,43,04101,43_04101,True,False,Asphalt Repair and Maintenance,False
+4235,43,21401,43_21401,True,False,Asphalt Repair and Maintenance,False
+4236,43,21202,43_21202,True,False,Asphalt Repair and Maintenance,False
+4237,43,02201,43_02201,True,False,Asphalt Repair and Maintenance,False
+4238,43,48933,43_48933,True,False,Asphalt Repair and Maintenance,False
+4239,43,48226,43_48226,True,False,Asphalt Repair and Maintenance,False
+4240,43,55102,43_55102,True,False,Asphalt Repair and Maintenance,False
+4241,43,55404,43_55404,True,False,Asphalt Repair and Maintenance,False
+4242,43,39205,43_39205,False,True,Asphalt Repair and Maintenance,False
+4243,43,65101,43_65101,False,True,Asphalt Repair and Maintenance,False
+4244,43,64105,43_64105,True,False,Asphalt Repair and Maintenance,False
+4245,43,59623,43_59623,False,True,Asphalt Repair and Maintenance,False
+4246,43,05101,43_05101,False,True,Asphalt Repair and Maintenance,False
+4247,43,68502,43_68502,True,False,Asphalt Repair and Maintenance,False
+4248,43,68102,43_68102,True,False,Asphalt Repair and Maintenance,False
+4249,43,89701,43_89701,True,False,Asphalt Repair and Maintenance,False
+4250,43,89101,43_89101,False,True,Asphalt Repair and Maintenance,False
+4251,43,03301,43_03301,True,False,Asphalt Repair and Maintenance,False
+4252,43,03108,43_03108,True,False,Asphalt Repair and Maintenance,False
+4253,43,08608,43_08608,True,False,Asphalt Repair and Maintenance,False
+4254,43,07102,43_07102,True,False,Asphalt Repair and Maintenance,False
+4255,43,87501,43_87501,True,False,Asphalt Repair and Maintenance,False
+4256,43,87102,43_87102,True,False,Asphalt Repair and Maintenance,False
+4257,43,12207,43_12207,True,False,Asphalt Repair and Maintenance,False
+4258,43,10007,43_10007,True,False,Asphalt Repair and Maintenance,False
+4259,43,11021,43_11021,True,False,Asphalt Repair and Maintenance,False
+4260,43,27601,43_27601,True,False,Asphalt Repair and Maintenance,False
+4261,43,28105,43_28105,True,False,Asphalt Repair and Maintenance,False
+4262,43,58501,43_58501,False,True,Asphalt Repair and Maintenance,False
+4263,43,58102,43_58102,False,True,Asphalt Repair and Maintenance,False
+4264,43,43215,43_43215,True,False,Asphalt Repair and Maintenance,False
+4265,43,73102,43_73102,True,False,Asphalt Repair and Maintenance,False
+4266,43,97301,43_97301,True,False,Asphalt Repair and Maintenance,False
+4267,43,97201,43_97201,True,False,Asphalt Repair and Maintenance,False
+4268,43,17101,43_17101,True,False,Asphalt Repair and Maintenance,False
+4269,43,19103,43_19103,True,False,Asphalt Repair and Maintenance,False
+4270,43,02903,43_02903,True,False,Asphalt Repair and Maintenance,False
+4271,43,29217,43_29217,True,False,Asphalt Repair and Maintenance,False
+4272,43,57501,43_57501,False,True,Asphalt Repair and Maintenance,False
+4273,43,57103,43_57103,False,True,Asphalt Repair and Maintenance,False
+4274,43,37219,43_37219,True,False,Asphalt Repair and Maintenance,False
+4275,43,78701,43_78701,True,False,Asphalt Repair and Maintenance,False
+4276,43,77002,43_77002,True,False,Asphalt Repair and Maintenance,False
+4277,43,78207,43_78207,True,False,Asphalt Repair and Maintenance,False
+4278,43,75207,43_75207,True,False,Asphalt Repair and Maintenance,False
+4279,43,84111,43_84111,True,False,Asphalt Repair and Maintenance,False
+4280,43,05602,43_05602,False,True,Asphalt Repair and Maintenance,False
+4281,43,05401,43_05401,False,True,Asphalt Repair and Maintenance,False
+4282,43,23219,43_23219,True,False,Asphalt Repair and Maintenance,False
+4283,43,23454,43_23454,True,False,Asphalt Repair and Maintenance,False
+4284,43,98507,43_98507,True,False,Asphalt Repair and Maintenance,False
+4285,43,98105,43_98105,True,False,Asphalt Repair and Maintenance,False
+4286,43,25301,43_25301,False,True,Asphalt Repair and Maintenance,False
+4287,43,53703,43_53703,True,False,Asphalt Repair and Maintenance,False
+4288,43,53205,43_53205,True,False,Asphalt Repair and Maintenance,False
+4289,43,82001,43_82001,False,True,Asphalt Repair and Maintenance,False
+4290,43,96799,43_96799,False,True,Asphalt Repair and Maintenance,False
+4291,43,20001,43_20001,True,False,Asphalt Repair and Maintenance,False
+4292,43,96941,43_96941,False,True,Asphalt Repair and Maintenance,False
+4293,43,96910,43_96910,False,True,Asphalt Repair and Maintenance,False
+4294,43,96912,43_96912,False,True,Asphalt Repair and Maintenance,False
+4295,43,96960,43_96960,False,True,Asphalt Repair and Maintenance,False
+4296,43,96950,43_96950,False,True,Asphalt Repair and Maintenance,False
+4297,43,96939,43_96939,False,True,Asphalt Repair and Maintenance,False
+4298,43,00901,43_00901,False,True,Asphalt Repair and Maintenance,False
+4299,43,00802,43_00802,False,True,Asphalt Repair and Maintenance,False
+4300,44,36104,44_36104,True,False,Basement Finishing or Remodeling,False
+4301,44,35210,44_35210,True,False,Basement Finishing or Remodeling,False
+4302,44,99801,44_99801,True,False,Basement Finishing or Remodeling,False
+4303,44,99501,44_99501,True,False,Basement Finishing or Remodeling,False
+4304,44,85001,44_85001,True,False,Basement Finishing or Remodeling,False
+4305,44,72201,44_72201,True,False,Basement Finishing or Remodeling,False
+4306,44,95814,44_95814,True,False,Basement Finishing or Remodeling,False
+4307,44,90013,44_90013,True,False,Basement Finishing or Remodeling,False
+4308,44,92101,44_92101,True,False,Basement Finishing or Remodeling,False
+4309,44,95112,44_95112,True,False,Basement Finishing or Remodeling,False
+4310,44,94108,44_94108,True,False,Basement Finishing or Remodeling,False
+4311,44,80202,44_80202,True,False,Basement Finishing or Remodeling,False
+4312,44,06103,44_06103,True,False,Basement Finishing or Remodeling,False
+4313,44,06604,44_06604,True,False,Basement Finishing or Remodeling,False
+4314,44,19901,44_19901,False,True,Basement Finishing or Remodeling,False
+4315,44,19850,44_19850,True,False,Basement Finishing or Remodeling,False
+4316,44,32301,44_32301,True,False,Basement Finishing or Remodeling,False
+4317,44,32202,44_32202,True,False,Basement Finishing or Remodeling,False
+4318,44,33132,44_33132,True,False,Basement Finishing or Remodeling,False
+4319,44,33602,44_33602,True,False,Basement Finishing or Remodeling,False
+4320,44,30303,44_30303,True,False,Basement Finishing or Remodeling,False
+4321,44,96813,44_96813,True,False,Basement Finishing or Remodeling,False
+4322,44,83702,44_83702,True,False,Basement Finishing or Remodeling,False
+4323,44,62701,44_62701,True,False,Basement Finishing or Remodeling,False
+4324,44,60176,44_60176,True,False,Basement Finishing or Remodeling,False
+4325,44,46225,44_46225,True,False,Basement Finishing or Remodeling,False
+4326,44,50309,44_50309,True,False,Basement Finishing or Remodeling,False
+4327,44,66603,44_66603,False,True,Basement Finishing or Remodeling,False
+4328,44,67052,44_67052,True,False,Basement Finishing or Remodeling,False
+4329,44,40601,44_40601,True,False,Basement Finishing or Remodeling,False
+4330,44,40507,44_40507,True,False,Basement Finishing or Remodeling,False
+4331,44,70802,44_70802,True,False,Basement Finishing or Remodeling,False
+4332,44,70114,44_70114,True,False,Basement Finishing or Remodeling,False
+4333,44,04330,44_04330,True,False,Basement Finishing or Remodeling,False
+4334,44,04101,44_04101,False,True,Basement Finishing or Remodeling,False
+4335,44,21401,44_21401,True,False,Basement Finishing or Remodeling,False
+4336,44,21202,44_21202,True,False,Basement Finishing or Remodeling,False
+4337,44,02201,44_02201,True,False,Basement Finishing or Remodeling,False
+4338,44,48933,44_48933,True,False,Basement Finishing or Remodeling,False
+4339,44,48226,44_48226,True,False,Basement Finishing or Remodeling,False
+4340,44,55102,44_55102,True,False,Basement Finishing or Remodeling,False
+4341,44,55404,44_55404,True,False,Basement Finishing or Remodeling,False
+4342,44,39205,44_39205,True,False,Basement Finishing or Remodeling,False
+4343,44,65101,44_65101,False,True,Basement Finishing or Remodeling,False
+4344,44,64105,44_64105,True,False,Basement Finishing or Remodeling,False
+4345,44,59623,44_59623,False,True,Basement Finishing or Remodeling,False
+4346,44,05101,44_05101,True,False,Basement Finishing or Remodeling,False
+4347,44,68502,44_68502,True,False,Basement Finishing or Remodeling,False
+4348,44,68102,44_68102,True,False,Basement Finishing or Remodeling,False
+4349,44,89701,44_89701,True,False,Basement Finishing or Remodeling,False
+4350,44,89101,44_89101,True,False,Basement Finishing or Remodeling,False
+4351,44,03301,44_03301,True,False,Basement Finishing or Remodeling,False
+4352,44,03108,44_03108,True,False,Basement Finishing or Remodeling,False
+4353,44,08608,44_08608,True,False,Basement Finishing or Remodeling,False
+4354,44,07102,44_07102,True,False,Basement Finishing or Remodeling,False
+4355,44,87501,44_87501,True,False,Basement Finishing or Remodeling,False
+4356,44,87102,44_87102,True,False,Basement Finishing or Remodeling,False
+4357,44,12207,44_12207,True,False,Basement Finishing or Remodeling,False
+4358,44,10007,44_10007,True,False,Basement Finishing or Remodeling,False
+4359,44,11021,44_11021,True,False,Basement Finishing or Remodeling,False
+4360,44,27601,44_27601,True,False,Basement Finishing or Remodeling,False
+4361,44,28105,44_28105,True,False,Basement Finishing or Remodeling,False
+4362,44,58501,44_58501,False,True,Basement Finishing or Remodeling,False
+4363,44,58102,44_58102,False,True,Basement Finishing or Remodeling,False
+4364,44,43215,44_43215,True,False,Basement Finishing or Remodeling,False
+4365,44,73102,44_73102,True,False,Basement Finishing or Remodeling,False
+4366,44,97301,44_97301,True,False,Basement Finishing or Remodeling,False
+4367,44,97201,44_97201,True,False,Basement Finishing or Remodeling,False
+4368,44,17101,44_17101,True,False,Basement Finishing or Remodeling,False
+4369,44,19103,44_19103,True,False,Basement Finishing or Remodeling,False
+4370,44,02903,44_02903,True,False,Basement Finishing or Remodeling,False
+4371,44,29217,44_29217,True,False,Basement Finishing or Remodeling,False
+4372,44,57501,44_57501,False,True,Basement Finishing or Remodeling,False
+4373,44,57103,44_57103,True,False,Basement Finishing or Remodeling,False
+4374,44,37219,44_37219,True,False,Basement Finishing or Remodeling,False
+4375,44,78701,44_78701,True,False,Basement Finishing or Remodeling,False
+4376,44,77002,44_77002,True,False,Basement Finishing or Remodeling,False
+4377,44,78207,44_78207,True,False,Basement Finishing or Remodeling,False
+4378,44,75207,44_75207,True,False,Basement Finishing or Remodeling,False
+4379,44,84111,44_84111,True,False,Basement Finishing or Remodeling,False
+4380,44,05602,44_05602,True,False,Basement Finishing or Remodeling,False
+4381,44,05401,44_05401,True,False,Basement Finishing or Remodeling,False
+4382,44,23219,44_23219,True,False,Basement Finishing or Remodeling,False
+4383,44,23454,44_23454,True,False,Basement Finishing or Remodeling,False
+4384,44,98507,44_98507,True,False,Basement Finishing or Remodeling,False
+4385,44,98105,44_98105,True,False,Basement Finishing or Remodeling,False
+4386,44,25301,44_25301,True,False,Basement Finishing or Remodeling,False
+4387,44,53703,44_53703,True,False,Basement Finishing or Remodeling,False
+4388,44,53205,44_53205,True,False,Basement Finishing or Remodeling,False
+4389,44,82001,44_82001,False,True,Basement Finishing or Remodeling,False
+4390,44,96799,44_96799,False,True,Basement Finishing or Remodeling,False
+4391,44,20001,44_20001,True,False,Basement Finishing or Remodeling,False
+4392,44,96941,44_96941,False,True,Basement Finishing or Remodeling,False
+4393,44,96910,44_96910,False,True,Basement Finishing or Remodeling,False
+4394,44,96912,44_96912,False,True,Basement Finishing or Remodeling,False
+4395,44,96960,44_96960,False,True,Basement Finishing or Remodeling,False
+4396,44,96950,44_96950,False,True,Basement Finishing or Remodeling,False
+4397,44,96939,44_96939,False,True,Basement Finishing or Remodeling,False
+4398,44,00901,44_00901,False,True,Basement Finishing or Remodeling,False
+4399,44,00802,44_00802,False,True,Basement Finishing or Remodeling,False
+4400,45,36104,45_36104,True,False,Bathroom Remodel,False
+4401,45,35210,45_35210,True,False,Bathroom Remodel,False
+4402,45,99801,45_99801,True,False,Bathroom Remodel,False
+4403,45,99501,45_99501,True,False,Bathroom Remodel,False
+4404,45,85001,45_85001,True,False,Bathroom Remodel,False
+4405,45,72201,45_72201,True,False,Bathroom Remodel,False
+4406,45,95814,45_95814,True,False,Bathroom Remodel,False
+4407,45,90013,45_90013,True,False,Bathroom Remodel,False
+4408,45,92101,45_92101,True,False,Bathroom Remodel,False
+4409,45,95112,45_95112,True,False,Bathroom Remodel,False
+4410,45,94108,45_94108,True,False,Bathroom Remodel,False
+4411,45,80202,45_80202,True,False,Bathroom Remodel,False
+4412,45,06103,45_06103,True,False,Bathroom Remodel,False
+4413,45,06604,45_06604,True,False,Bathroom Remodel,False
+4414,45,19901,45_19901,True,False,Bathroom Remodel,False
+4415,45,19850,45_19850,True,False,Bathroom Remodel,False
+4416,45,32301,45_32301,True,False,Bathroom Remodel,False
+4417,45,32202,45_32202,True,False,Bathroom Remodel,False
+4418,45,33132,45_33132,True,False,Bathroom Remodel,False
+4419,45,33602,45_33602,True,False,Bathroom Remodel,False
+4420,45,30303,45_30303,True,False,Bathroom Remodel,False
+4421,45,96813,45_96813,True,False,Bathroom Remodel,False
+4422,45,83702,45_83702,True,False,Bathroom Remodel,False
+4423,45,62701,45_62701,True,False,Bathroom Remodel,False
+4424,45,60176,45_60176,True,False,Bathroom Remodel,False
+4425,45,46225,45_46225,True,False,Bathroom Remodel,False
+4426,45,50309,45_50309,True,False,Bathroom Remodel,False
+4427,45,66603,45_66603,True,False,Bathroom Remodel,False
+4428,45,67052,45_67052,True,False,Bathroom Remodel,False
+4429,45,40601,45_40601,True,False,Bathroom Remodel,False
+4430,45,40507,45_40507,True,False,Bathroom Remodel,False
+4431,45,70802,45_70802,True,False,Bathroom Remodel,False
+4432,45,70114,45_70114,True,False,Bathroom Remodel,False
+4433,45,04330,45_04330,False,True,Bathroom Remodel,False
+4434,45,04101,45_04101,False,True,Bathroom Remodel,False
+4435,45,21401,45_21401,True,False,Bathroom Remodel,False
+4436,45,21202,45_21202,True,False,Bathroom Remodel,False
+4437,45,02201,45_02201,True,False,Bathroom Remodel,False
+4438,45,48933,45_48933,True,False,Bathroom Remodel,False
+4439,45,48226,45_48226,True,False,Bathroom Remodel,False
+4440,45,55102,45_55102,True,False,Bathroom Remodel,False
+4441,45,55404,45_55404,True,False,Bathroom Remodel,False
+4442,45,39205,45_39205,True,False,Bathroom Remodel,False
+4443,45,65101,45_65101,False,True,Bathroom Remodel,False
+4444,45,64105,45_64105,True,False,Bathroom Remodel,False
+4445,45,59623,45_59623,False,True,Bathroom Remodel,False
+4446,45,05101,45_05101,True,False,Bathroom Remodel,False
+4447,45,68502,45_68502,True,False,Bathroom Remodel,False
+4448,45,68102,45_68102,True,False,Bathroom Remodel,False
+4449,45,89701,45_89701,True,False,Bathroom Remodel,False
+4450,45,89101,45_89101,True,False,Bathroom Remodel,False
+4451,45,03301,45_03301,True,False,Bathroom Remodel,False
+4452,45,03108,45_03108,True,False,Bathroom Remodel,False
+4453,45,08608,45_08608,True,False,Bathroom Remodel,False
+4454,45,07102,45_07102,True,False,Bathroom Remodel,False
+4455,45,87501,45_87501,True,False,Bathroom Remodel,False
+4456,45,87102,45_87102,True,False,Bathroom Remodel,False
+4457,45,12207,45_12207,True,False,Bathroom Remodel,False
+4458,45,10007,45_10007,True,False,Bathroom Remodel,False
+4459,45,11021,45_11021,True,False,Bathroom Remodel,False
+4460,45,27601,45_27601,True,False,Bathroom Remodel,False
+4461,45,28105,45_28105,True,False,Bathroom Remodel,False
+4462,45,58501,45_58501,True,False,Bathroom Remodel,False
+4463,45,58102,45_58102,False,True,Bathroom Remodel,False
+4464,45,43215,45_43215,True,False,Bathroom Remodel,False
+4465,45,73102,45_73102,True,False,Bathroom Remodel,False
+4466,45,97301,45_97301,True,False,Bathroom Remodel,False
+4467,45,97201,45_97201,True,False,Bathroom Remodel,False
+4468,45,17101,45_17101,False,True,Bathroom Remodel,False
+4469,45,19103,45_19103,True,False,Bathroom Remodel,False
+4470,45,02903,45_02903,True,False,Bathroom Remodel,False
+4471,45,29217,45_29217,True,False,Bathroom Remodel,False
+4472,45,57501,45_57501,False,True,Bathroom Remodel,False
+4473,45,57103,45_57103,False,True,Bathroom Remodel,False
+4474,45,37219,45_37219,True,False,Bathroom Remodel,False
+4475,45,78701,45_78701,True,False,Bathroom Remodel,False
+4476,45,77002,45_77002,True,False,Bathroom Remodel,False
+4477,45,78207,45_78207,True,False,Bathroom Remodel,False
+4478,45,75207,45_75207,True,False,Bathroom Remodel,False
+4479,45,84111,45_84111,True,False,Bathroom Remodel,False
+4480,45,05602,45_05602,True,False,Bathroom Remodel,False
+4481,45,05401,45_05401,True,False,Bathroom Remodel,False
+4482,45,23219,45_23219,True,False,Bathroom Remodel,False
+4483,45,23454,45_23454,True,False,Bathroom Remodel,False
+4484,45,98507,45_98507,True,False,Bathroom Remodel,False
+4485,45,98105,45_98105,True,False,Bathroom Remodel,False
+4486,45,25301,45_25301,True,False,Bathroom Remodel,False
+4487,45,53703,45_53703,True,False,Bathroom Remodel,False
+4488,45,53205,45_53205,True,False,Bathroom Remodel,False
+4489,45,82001,45_82001,False,True,Bathroom Remodel,False
+4490,45,96799,45_96799,False,True,Bathroom Remodel,False
+4491,45,20001,45_20001,True,False,Bathroom Remodel,False
+4492,45,96941,45_96941,False,True,Bathroom Remodel,False
+4493,45,96910,45_96910,False,True,Bathroom Remodel,False
+4494,45,96912,45_96912,False,True,Bathroom Remodel,False
+4495,45,96960,45_96960,False,True,Bathroom Remodel,False
+4496,45,96950,45_96950,False,True,Bathroom Remodel,False
+4497,45,96939,45_96939,False,True,Bathroom Remodel,False
+4498,45,00901,45_00901,False,True,Bathroom Remodel,False
+4499,45,00802,45_00802,False,True,Bathroom Remodel,False
+4500,46,36104,46_36104,False,True,Bed Bug Extermination,False
+4501,46,35210,46_35210,True,False,Bed Bug Extermination,False
+4502,46,99801,46_99801,False,True,Bed Bug Extermination,False
+4503,46,99501,46_99501,True,False,Bed Bug Extermination,False
+4504,46,85001,46_85001,True,False,Bed Bug Extermination,False
+4505,46,72201,46_72201,False,True,Bed Bug Extermination,False
+4506,46,95814,46_95814,True,False,Bed Bug Extermination,False
+4507,46,90013,46_90013,True,False,Bed Bug Extermination,False
+4508,46,92101,46_92101,True,False,Bed Bug Extermination,False
+4509,46,95112,46_95112,True,False,Bed Bug Extermination,False
+4510,46,94108,46_94108,True,False,Bed Bug Extermination,False
+4511,46,80202,46_80202,True,False,Bed Bug Extermination,False
+4512,46,06103,46_06103,True,False,Bed Bug Extermination,False
+4513,46,06604,46_06604,True,False,Bed Bug Extermination,False
+4514,46,19901,46_19901,True,False,Bed Bug Extermination,False
+4515,46,19850,46_19850,True,False,Bed Bug Extermination,False
+4516,46,32301,46_32301,False,True,Bed Bug Extermination,False
+4517,46,32202,46_32202,True,False,Bed Bug Extermination,False
+4518,46,33132,46_33132,True,False,Bed Bug Extermination,False
+4519,46,33602,46_33602,True,False,Bed Bug Extermination,False
+4520,46,30303,46_30303,True,False,Bed Bug Extermination,False
+4521,46,96813,46_96813,False,True,Bed Bug Extermination,False
+4522,46,83702,46_83702,True,False,Bed Bug Extermination,False
+4523,46,62701,46_62701,False,True,Bed Bug Extermination,False
+4524,46,60176,46_60176,True,False,Bed Bug Extermination,False
+4525,46,46225,46_46225,True,False,Bed Bug Extermination,False
+4526,46,50309,46_50309,True,False,Bed Bug Extermination,False
+4527,46,66603,46_66603,True,False,Bed Bug Extermination,False
+4528,46,67052,46_67052,True,False,Bed Bug Extermination,False
+4529,46,40601,46_40601,True,False,Bed Bug Extermination,False
+4530,46,40507,46_40507,True,False,Bed Bug Extermination,False
+4531,46,70802,46_70802,True,False,Bed Bug Extermination,False
+4532,46,70114,46_70114,True,False,Bed Bug Extermination,False
+4533,46,04330,46_04330,False,True,Bed Bug Extermination,False
+4534,46,04101,46_04101,True,False,Bed Bug Extermination,False
+4535,46,21401,46_21401,True,False,Bed Bug Extermination,False
+4536,46,21202,46_21202,True,False,Bed Bug Extermination,False
+4537,46,02201,46_02201,True,False,Bed Bug Extermination,False
+4538,46,48933,46_48933,True,False,Bed Bug Extermination,False
+4539,46,48226,46_48226,True,False,Bed Bug Extermination,False
+4540,46,55102,46_55102,True,False,Bed Bug Extermination,False
+4541,46,55404,46_55404,True,False,Bed Bug Extermination,False
+4542,46,39205,46_39205,False,True,Bed Bug Extermination,False
+4543,46,65101,46_65101,False,True,Bed Bug Extermination,False
+4544,46,64105,46_64105,True,False,Bed Bug Extermination,False
+4545,46,59623,46_59623,True,False,Bed Bug Extermination,False
+4546,46,05101,46_05101,True,False,Bed Bug Extermination,False
+4547,46,68502,46_68502,True,False,Bed Bug Extermination,False
+4548,46,68102,46_68102,True,False,Bed Bug Extermination,False
+4549,46,89701,46_89701,True,False,Bed Bug Extermination,False
+4550,46,89101,46_89101,True,False,Bed Bug Extermination,False
+4551,46,03301,46_03301,True,False,Bed Bug Extermination,False
+4552,46,03108,46_03108,True,False,Bed Bug Extermination,False
+4553,46,08608,46_08608,True,False,Bed Bug Extermination,False
+4554,46,07102,46_07102,True,False,Bed Bug Extermination,False
+4555,46,87501,46_87501,False,True,Bed Bug Extermination,False
+4556,46,87102,46_87102,False,True,Bed Bug Extermination,False
+4557,46,12207,46_12207,True,False,Bed Bug Extermination,False
+4558,46,10007,46_10007,True,False,Bed Bug Extermination,False
+4559,46,11021,46_11021,True,False,Bed Bug Extermination,False
+4560,46,27601,46_27601,True,False,Bed Bug Extermination,False
+4561,46,28105,46_28105,True,False,Bed Bug Extermination,False
+4562,46,58501,46_58501,False,True,Bed Bug Extermination,False
+4563,46,58102,46_58102,False,True,Bed Bug Extermination,False
+4564,46,43215,46_43215,True,False,Bed Bug Extermination,False
+4565,46,73102,46_73102,True,False,Bed Bug Extermination,False
+4566,46,97301,46_97301,True,False,Bed Bug Extermination,False
+4567,46,97201,46_97201,True,False,Bed Bug Extermination,False
+4568,46,17101,46_17101,True,False,Bed Bug Extermination,False
+4569,46,19103,46_19103,True,False,Bed Bug Extermination,False
+4570,46,02903,46_02903,True,False,Bed Bug Extermination,False
+4571,46,29217,46_29217,True,False,Bed Bug Extermination,False
+4572,46,57501,46_57501,False,True,Bed Bug Extermination,False
+4573,46,57103,46_57103,True,False,Bed Bug Extermination,False
+4574,46,37219,46_37219,True,False,Bed Bug Extermination,False
+4575,46,78701,46_78701,True,False,Bed Bug Extermination,False
+4576,46,77002,46_77002,True,False,Bed Bug Extermination,False
+4577,46,78207,46_78207,True,False,Bed Bug Extermination,False
+4578,46,75207,46_75207,True,False,Bed Bug Extermination,False
+4579,46,84111,46_84111,True,False,Bed Bug Extermination,False
+4580,46,05602,46_05602,False,True,Bed Bug Extermination,False
+4581,46,05401,46_05401,False,True,Bed Bug Extermination,False
+4582,46,23219,46_23219,True,False,Bed Bug Extermination,False
+4583,46,23454,46_23454,True,False,Bed Bug Extermination,False
+4584,46,98507,46_98507,True,False,Bed Bug Extermination,False
+4585,46,98105,46_98105,True,False,Bed Bug Extermination,False
+4586,46,25301,46_25301,True,False,Bed Bug Extermination,False
+4587,46,53703,46_53703,True,False,Bed Bug Extermination,False
+4588,46,53205,46_53205,True,False,Bed Bug Extermination,False
+4589,46,82001,46_82001,True,False,Bed Bug Extermination,False
+4590,46,96799,46_96799,False,True,Bed Bug Extermination,False
+4591,46,20001,46_20001,True,False,Bed Bug Extermination,False
+4592,46,96941,46_96941,False,True,Bed Bug Extermination,False
+4593,46,96910,46_96910,False,True,Bed Bug Extermination,False
+4594,46,96912,46_96912,False,True,Bed Bug Extermination,False
+4595,46,96960,46_96960,False,True,Bed Bug Extermination,False
+4596,46,96950,46_96950,False,True,Bed Bug Extermination,False
+4597,46,96939,46_96939,False,True,Bed Bug Extermination,False
+4598,46,00901,46_00901,False,True,Bed Bug Extermination,False
+4599,46,00802,46_00802,False,True,Bed Bug Extermination,False
+4600,47,36104,47_36104,True,False,Brick or Stone Repair,False
+4601,47,35210,47_35210,True,False,Brick or Stone Repair,False
+4602,47,99801,47_99801,False,True,Brick or Stone Repair,False
+4603,47,99501,47_99501,False,True,Brick or Stone Repair,False
 4604,47,85001,47_85001,False,False,Brick or Stone Repair,True
-4605,47,72201,47_72201,False,False,Brick or Stone Repair,True
+4605,47,72201,47_72201,True,False,Brick or Stone Repair,False
 4606,47,95814,47_95814,False,False,Brick or Stone Repair,True
 4607,47,90013,47_90013,False,False,Brick or Stone Repair,True
-4608,47,92101,47_92101,False,False,Brick or Stone Repair,True
+4608,47,92101,47_92101,True,False,Brick or Stone Repair,False
 4609,47,95112,47_95112,False,False,Brick or Stone Repair,True
 4610,47,94108,47_94108,False,False,Brick or Stone Repair,True
 4611,47,80202,47_80202,False,False,Brick or Stone Repair,True
@@ -4615,90 +4615,90 @@
 4613,47,06604,47_06604,False,False,Brick or Stone Repair,True
 4614,47,19901,47_19901,False,False,Brick or Stone Repair,True
 4615,47,19850,47_19850,False,False,Brick or Stone Repair,True
-4616,47,32301,47_32301,False,False,Brick or Stone Repair,True
-4617,47,32202,47_32202,False,False,Brick or Stone Repair,True
+4616,47,32301,47_32301,True,False,Brick or Stone Repair,False
+4617,47,32202,47_32202,True,False,Brick or Stone Repair,False
 4618,47,33132,47_33132,False,False,Brick or Stone Repair,True
 4619,47,33602,47_33602,False,False,Brick or Stone Repair,True
 4620,47,30303,47_30303,False,False,Brick or Stone Repair,True
-4621,47,96813,47_96813,False,False,Brick or Stone Repair,True
-4622,47,83702,47_83702,False,False,Brick or Stone Repair,True
-4623,47,62701,47_62701,False,False,Brick or Stone Repair,True
-4624,47,60176,47_60176,False,False,Brick or Stone Repair,True
-4625,47,46225,47_46225,False,False,Brick or Stone Repair,True
-4626,47,50309,47_50309,False,False,Brick or Stone Repair,True
-4627,47,66603,47_66603,False,False,Brick or Stone Repair,True
-4628,47,67052,47_67052,False,False,Brick or Stone Repair,True
-4629,47,40601,47_40601,False,False,Brick or Stone Repair,True
-4630,47,40507,47_40507,False,False,Brick or Stone Repair,True
-4631,47,70802,47_70802,False,False,Brick or Stone Repair,True
-4632,47,70114,47_70114,False,False,Brick or Stone Repair,True
-4633,47,04330,47_04330,False,False,Brick or Stone Repair,True
-4634,47,04101,47_04101,False,False,Brick or Stone Repair,True
+4621,47,96813,47_96813,True,False,Brick or Stone Repair,False
+4622,47,83702,47_83702,False,True,Brick or Stone Repair,False
+4623,47,62701,47_62701,False,True,Brick or Stone Repair,False
+4624,47,60176,47_60176,True,False,Brick or Stone Repair,False
+4625,47,46225,47_46225,True,False,Brick or Stone Repair,False
+4626,47,50309,47_50309,True,False,Brick or Stone Repair,False
+4627,47,66603,47_66603,True,False,Brick or Stone Repair,False
+4628,47,67052,47_67052,True,False,Brick or Stone Repair,False
+4629,47,40601,47_40601,True,False,Brick or Stone Repair,False
+4630,47,40507,47_40507,True,False,Brick or Stone Repair,False
+4631,47,70802,47_70802,True,False,Brick or Stone Repair,False
+4632,47,70114,47_70114,True,False,Brick or Stone Repair,False
+4633,47,04330,47_04330,False,True,Brick or Stone Repair,False
+4634,47,04101,47_04101,True,False,Brick or Stone Repair,False
 4635,47,21401,47_21401,False,False,Brick or Stone Repair,True
 4636,47,21202,47_21202,False,False,Brick or Stone Repair,True
 4637,47,02201,47_02201,False,False,Brick or Stone Repair,True
-4638,47,48933,47_48933,False,False,Brick or Stone Repair,True
-4639,47,48226,47_48226,False,False,Brick or Stone Repair,True
+4638,47,48933,47_48933,True,False,Brick or Stone Repair,False
+4639,47,48226,47_48226,True,False,Brick or Stone Repair,False
 4640,47,55102,47_55102,False,False,Brick or Stone Repair,True
 4641,47,55404,47_55404,False,False,Brick or Stone Repair,True
-4642,47,39205,47_39205,False,False,Brick or Stone Repair,True
-4643,47,65101,47_65101,False,False,Brick or Stone Repair,True
-4644,47,64105,47_64105,False,False,Brick or Stone Repair,True
-4645,47,59623,47_59623,False,False,Brick or Stone Repair,True
-4646,47,05101,47_05101,False,False,Brick or Stone Repair,True
-4647,47,68502,47_68502,False,False,Brick or Stone Repair,True
-4648,47,68102,47_68102,False,False,Brick or Stone Repair,True
-4649,47,89701,47_89701,False,False,Brick or Stone Repair,True
+4642,47,39205,47_39205,True,False,Brick or Stone Repair,False
+4643,47,65101,47_65101,False,True,Brick or Stone Repair,False
+4644,47,64105,47_64105,True,False,Brick or Stone Repair,False
+4645,47,59623,47_59623,False,True,Brick or Stone Repair,False
+4646,47,05101,47_05101,True,False,Brick or Stone Repair,False
+4647,47,68502,47_68502,True,False,Brick or Stone Repair,False
+4648,47,68102,47_68102,True,False,Brick or Stone Repair,False
+4649,47,89701,47_89701,False,True,Brick or Stone Repair,False
 4650,47,89101,47_89101,False,False,Brick or Stone Repair,True
-4651,47,03301,47_03301,False,False,Brick or Stone Repair,True
+4651,47,03301,47_03301,True,False,Brick or Stone Repair,False
 4652,47,03108,47_03108,False,False,Brick or Stone Repair,True
 4653,47,08608,47_08608,False,False,Brick or Stone Repair,True
 4654,47,07102,47_07102,False,False,Brick or Stone Repair,True
-4655,47,87501,47_87501,False,False,Brick or Stone Repair,True
-4656,47,87102,47_87102,False,False,Brick or Stone Repair,True
-4657,47,12207,47_12207,False,False,Brick or Stone Repair,True
-4658,47,10007,47_10007,False,False,Brick or Stone Repair,True
-4659,47,11021,47_11021,False,False,Brick or Stone Repair,True
-4660,47,27601,47_27601,False,False,Brick or Stone Repair,True
-4661,47,28105,47_28105,False,False,Brick or Stone Repair,True
-4662,47,58501,47_58501,False,False,Brick or Stone Repair,True
-4663,47,58102,47_58102,False,False,Brick or Stone Repair,True
+4655,47,87501,47_87501,False,True,Brick or Stone Repair,False
+4656,47,87102,47_87102,True,False,Brick or Stone Repair,False
+4657,47,12207,47_12207,True,False,Brick or Stone Repair,False
+4658,47,10007,47_10007,True,False,Brick or Stone Repair,False
+4659,47,11021,47_11021,True,False,Brick or Stone Repair,False
+4660,47,27601,47_27601,True,False,Brick or Stone Repair,False
+4661,47,28105,47_28105,True,False,Brick or Stone Repair,False
+4662,47,58501,47_58501,False,True,Brick or Stone Repair,False
+4663,47,58102,47_58102,True,False,Brick or Stone Repair,False
 4664,47,43215,47_43215,False,False,Brick or Stone Repair,True
-4665,47,73102,47_73102,False,False,Brick or Stone Repair,True
-4666,47,97301,47_97301,False,False,Brick or Stone Repair,True
+4665,47,73102,47_73102,True,False,Brick or Stone Repair,False
+4666,47,97301,47_97301,True,False,Brick or Stone Repair,False
 4667,47,97201,47_97201,False,False,Brick or Stone Repair,True
-4668,47,17101,47_17101,False,False,Brick or Stone Repair,True
+4668,47,17101,47_17101,True,False,Brick or Stone Repair,False
 4669,47,19103,47_19103,False,False,Brick or Stone Repair,True
 4670,47,02903,47_02903,False,False,Brick or Stone Repair,True
-4671,47,29217,47_29217,False,False,Brick or Stone Repair,True
-4672,47,57501,47_57501,False,False,Brick or Stone Repair,True
-4673,47,57103,47_57103,False,False,Brick or Stone Repair,True
-4674,47,37219,47_37219,False,False,Brick or Stone Repair,True
+4671,47,29217,47_29217,True,False,Brick or Stone Repair,False
+4672,47,57501,47_57501,False,True,Brick or Stone Repair,False
+4673,47,57103,47_57103,False,True,Brick or Stone Repair,False
+4674,47,37219,47_37219,True,False,Brick or Stone Repair,False
 4675,47,78701,47_78701,False,False,Brick or Stone Repair,True
 4676,47,77002,47_77002,False,False,Brick or Stone Repair,True
 4677,47,78207,47_78207,False,False,Brick or Stone Repair,True
 4678,47,75207,47_75207,False,False,Brick or Stone Repair,True
-4679,47,84111,47_84111,False,False,Brick or Stone Repair,True
-4680,47,05602,47_05602,False,False,Brick or Stone Repair,True
-4681,47,05401,47_05401,False,False,Brick or Stone Repair,True
-4682,47,23219,47_23219,False,False,Brick or Stone Repair,True
-4683,47,23454,47_23454,False,False,Brick or Stone Repair,True
-4684,47,98507,47_98507,False,False,Brick or Stone Repair,True
+4679,47,84111,47_84111,True,False,Brick or Stone Repair,False
+4680,47,05602,47_05602,False,True,Brick or Stone Repair,False
+4681,47,05401,47_05401,False,True,Brick or Stone Repair,False
+4682,47,23219,47_23219,True,False,Brick or Stone Repair,False
+4683,47,23454,47_23454,True,False,Brick or Stone Repair,False
+4684,47,98507,47_98507,True,False,Brick or Stone Repair,False
 4685,47,98105,47_98105,False,False,Brick or Stone Repair,True
-4686,47,25301,47_25301,False,False,Brick or Stone Repair,True
-4687,47,53703,47_53703,False,False,Brick or Stone Repair,True
-4688,47,53205,47_53205,False,False,Brick or Stone Repair,True
-4689,47,82001,47_82001,False,False,Brick or Stone Repair,True
-4690,47,96799,47_96799,False,False,Brick or Stone Repair,True
+4686,47,25301,47_25301,False,True,Brick or Stone Repair,False
+4687,47,53703,47_53703,True,False,Brick or Stone Repair,False
+4688,47,53205,47_53205,True,False,Brick or Stone Repair,False
+4689,47,82001,47_82001,False,True,Brick or Stone Repair,False
+4690,47,96799,47_96799,False,True,Brick or Stone Repair,False
 4691,47,20001,47_20001,False,False,Brick or Stone Repair,True
-4692,47,96941,47_96941,False,False,Brick or Stone Repair,True
-4693,47,96910,47_96910,False,False,Brick or Stone Repair,True
-4694,47,96912,47_96912,False,False,Brick or Stone Repair,True
-4695,47,96960,47_96960,False,False,Brick or Stone Repair,True
-4696,47,96950,47_96950,False,False,Brick or Stone Repair,True
-4697,47,96939,47_96939,False,False,Brick or Stone Repair,True
-4698,47,00901,47_00901,False,False,Brick or Stone Repair,True
-4699,47,00802,47_00802,False,False,Brick or Stone Repair,True
+4692,47,96941,47_96941,False,True,Brick or Stone Repair,False
+4693,47,96910,47_96910,False,True,Brick or Stone Repair,False
+4694,47,96912,47_96912,False,True,Brick or Stone Repair,False
+4695,47,96960,47_96960,False,True,Brick or Stone Repair,False
+4696,47,96950,47_96950,False,True,Brick or Stone Repair,False
+4697,47,96939,47_96939,False,True,Brick or Stone Repair,False
+4698,47,00901,47_00901,False,True,Brick or Stone Repair,False
+4699,47,00802,47_00802,False,True,Brick or Stone Repair,False
 4700,48,36104,48_36104,False,False,Cabinet Installation,True
 4701,48,35210,48_35210,False,False,Cabinet Installation,True
 4702,48,99801,48_99801,False,False,Cabinet Installation,True
