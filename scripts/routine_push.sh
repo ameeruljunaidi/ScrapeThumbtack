@@ -1,6 +1,9 @@
 #!/bin/bash
-
-git pull
-git add .
-git commit -m $(date +%s)
-git push
+while true
+do
+    git pull
+    git add .
+    git commit -m $(date +%s)
+    git push
+    sleep 1200
+done
