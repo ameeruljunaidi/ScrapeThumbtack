@@ -29,8 +29,8 @@ else:
 serviceList = serviceTodo
 zipCodeList = zipCodeTodo
 
-for serviceName in serviceList[::-1]:
-    for zipCode in zipCodeList[::-1]:
+for serviceName in serviceList:
+    for zipCode in zipCodeList:
 
         if (f"{serviceID[serviceName]}_{zipCode}" in completed) | (
             f"{serviceID[serviceName]}_{zipCode}" in nullDataFrames
