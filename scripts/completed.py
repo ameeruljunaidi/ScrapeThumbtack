@@ -58,3 +58,5 @@ percentageDone = "{:.2%}".format(
     dfAllServices[dfAllServices["To Do"] == False]["To Do"].count()
     / dfAllServices[dfAllServices["To Do"] == True]["To Do"].count()
 )
+
+print(f"Percent Done: {percentageDone}")

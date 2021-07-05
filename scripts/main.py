@@ -32,6 +32,8 @@ zipCodeList = zipCodeTodo
 for serviceName in serviceList:
     for zipCode in zipCodeList:
 
+        import completed
+
         if (f"{serviceID[serviceName]}_{zipCode}" in completed) | (
             f"{serviceID[serviceName]}_{zipCode}" in nullDataFrames
         ):
