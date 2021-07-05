@@ -5703,7 +5703,7 @@
 5701,58,35210,58_35210,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5702,58,99801,58_99801,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5703,58,99501,58_99501,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5704,58,85001,58_85001,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5704,58,85001,58_85001,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5705,58,72201,58_72201,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5706,58,95814,58_95814,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5707,58,90013,58_90013,True,False,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5714,11 +5714,11 @@
 5712,58,06103,58_06103,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5713,58,06604,58_06604,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5714,58,19901,58_19901,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5715,58,19850,58_19850,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5715,58,19850,58_19850,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5716,58,32301,58_32301,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5717,58,32202,58_32202,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5718,58,33132,58_33132,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5719,58,33602,58_33602,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5719,58,33602,58_33602,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5720,58,30303,58_30303,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5721,58,96813,58_96813,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5722,58,83702,58_83702,False,True,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5734,7 +5734,7 @@
 5732,58,70114,58_70114,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5733,58,04330,58_04330,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5734,58,04101,58_04101,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5735,58,21401,58_21401,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5735,58,21401,58_21401,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5736,58,21202,58_21202,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5737,58,02201,58_02201,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5738,58,48933,58_48933,True,False,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5763,7 +5763,7 @@
 5761,58,28105,58_28105,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5762,58,58501,58_58501,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5763,58,58102,58_58102,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5764,58,43215,58_43215,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5764,58,43215,58_43215,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5765,58,73102,58_73102,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5766,58,97301,58_97301,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5767,58,97201,58_97201,True,False,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5775,8 +5775,8 @@
 5773,58,57103,58_57103,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5774,58,37219,58_37219,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5775,58,78701,58_78701,True,False,Circuit Breaker Panel or Fuse Box Installation,False
-5776,58,77002,58_77002,False,False,Circuit Breaker Panel or Fuse Box Installation,True
-5777,58,78207,58_78207,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5776,58,77002,58_77002,True,False,Circuit Breaker Panel or Fuse Box Installation,False
+5777,58,78207,58_78207,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5778,58,75207,58_75207,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5779,58,84111,58_84111,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5780,58,05602,58_05602,True,False,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5790,7 +5790,7 @@
 5788,58,53205,58_53205,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5789,58,82001,58_82001,True,False,Circuit Breaker Panel or Fuse Box Installation,False
 5790,58,96799,58_96799,False,True,Circuit Breaker Panel or Fuse Box Installation,False
-5791,58,20001,58_20001,False,False,Circuit Breaker Panel or Fuse Box Installation,True
+5791,58,20001,58_20001,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5792,58,96941,58_96941,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5793,58,96910,58_96910,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5794,58,96912,58_96912,False,True,Circuit Breaker Panel or Fuse Box Installation,False
@@ -5801,7 +5801,7 @@
 5799,58,00802,58_00802,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5800,59,36104,59_36104,False,False,Circuit Breaker Panel or Fuse Box Repair,True
 5801,59,35210,59_35210,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5802,59,99801,59_99801,False,False,Circuit Breaker Panel or Fuse Box Repair,True
+5802,59,99801,59_99801,False,True,Circuit Breaker Panel or Fuse Box Repair,False
 5803,59,99501,59_99501,False,False,Circuit Breaker Panel or Fuse Box Repair,True
 5804,59,85001,59_85001,False,False,Circuit Breaker Panel or Fuse Box Repair,True
 5805,59,72201,59_72201,False,False,Circuit Breaker Panel or Fuse Box Repair,True

@@ -32,8 +32,6 @@ zipCodeList = zipCodeTodo
 for serviceName in serviceList:
     for zipCode in zipCodeList:
 
-        import completed
-
         if (f"{serviceID[serviceName]}_{zipCode}" in completed) | (
             f"{serviceID[serviceName]}_{zipCode}" in nullDataFrames
         ):
@@ -202,6 +200,8 @@ for serviceName in serviceList:
                     f"data/{serviceID[serviceName]}_{zipCode}.csv"
                 )
                 driver.quit()
+
+                # os.system("python3 scripts/completed.py")
 
             except:
                 driver.quit()
