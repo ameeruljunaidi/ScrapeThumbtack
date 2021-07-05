@@ -49132,7 +49132,7 @@
 49130,492,40507,492_40507,False,True,Private Swim Lessons,False
 49131,492,70802,492_70802,False,True,Private Swim Lessons,False
 49132,492,70114,492_70114,False,True,Private Swim Lessons,False
-49133,492,04330,492_04330,False,False,Private Swim Lessons,True
+49133,492,04330,492_04330,False,True,Private Swim Lessons,False
 49134,492,04101,492_04101,False,True,Private Swim Lessons,False
 49135,492,21401,492_21401,False,True,Private Swim Lessons,False
 49136,492,21202,492_21202,False,True,Private Swim Lessons,False
@@ -49157,7 +49157,7 @@
 49155,492,87501,492_87501,False,True,Private Swim Lessons,False
 49156,492,87102,492_87102,False,True,Private Swim Lessons,False
 49157,492,12207,492_12207,False,True,Private Swim Lessons,False
-49158,492,10007,492_10007,False,False,Private Swim Lessons,True
+49158,492,10007,492_10007,True,False,Private Swim Lessons,False
 49159,492,11021,492_11021,True,False,Private Swim Lessons,False
 49160,492,27601,492_27601,False,True,Private Swim Lessons,False
 49161,492,28105,492_28105,False,True,Private Swim Lessons,False
@@ -49198,7 +49198,7 @@
 49196,492,96950,492_96950,False,False,Private Swim Lessons,True
 49197,492,96939,492_96939,False,False,Private Swim Lessons,True
 49198,492,00901,492_00901,False,False,Private Swim Lessons,True
-49199,492,00802,492_00802,False,False,Private Swim Lessons,True
+49199,492,00802,492_00802,False,True,Private Swim Lessons,False
 49200,493,36104,493_36104,False,True,Private Tennis Instruction,False
 49201,493,35210,493_35210,False,True,Private Tennis Instruction,False
 49202,493,99801,493_99801,False,True,Private Tennis Instruction,False
