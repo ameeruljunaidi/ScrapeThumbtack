@@ -5799,909 +5799,909 @@
 5797,58,96939,58_96939,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5798,58,00901,58_00901,False,True,Circuit Breaker Panel or Fuse Box Installation,False
 5799,58,00802,58_00802,False,True,Circuit Breaker Panel or Fuse Box Installation,False
-5800,59,36104,59_36104,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5801,59,35210,59_35210,False,False,Circuit Breaker Panel or Fuse Box Repair,True
+5800,59,36104,59_36104,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5801,59,35210,59_35210,True,False,Circuit Breaker Panel or Fuse Box Repair,False
 5802,59,99801,59_99801,False,True,Circuit Breaker Panel or Fuse Box Repair,False
-5803,59,99501,59_99501,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5804,59,85001,59_85001,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5805,59,72201,59_72201,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5806,59,95814,59_95814,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5807,59,90013,59_90013,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5808,59,92101,59_92101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5809,59,95112,59_95112,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5810,59,94108,59_94108,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5811,59,80202,59_80202,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5812,59,06103,59_06103,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5813,59,06604,59_06604,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5814,59,19901,59_19901,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5815,59,19850,59_19850,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5816,59,32301,59_32301,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5817,59,32202,59_32202,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5818,59,33132,59_33132,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5819,59,33602,59_33602,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5820,59,30303,59_30303,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5821,59,96813,59_96813,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5822,59,83702,59_83702,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5823,59,62701,59_62701,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5824,59,60176,59_60176,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5825,59,46225,59_46225,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5826,59,50309,59_50309,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5827,59,66603,59_66603,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5828,59,67052,59_67052,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5829,59,40601,59_40601,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5830,59,40507,59_40507,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5831,59,70802,59_70802,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5832,59,70114,59_70114,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5833,59,04330,59_04330,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5834,59,04101,59_04101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5835,59,21401,59_21401,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5836,59,21202,59_21202,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5837,59,02201,59_02201,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5838,59,48933,59_48933,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5839,59,48226,59_48226,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5840,59,55102,59_55102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5841,59,55404,59_55404,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5842,59,39205,59_39205,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5843,59,65101,59_65101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5844,59,64105,59_64105,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5845,59,59623,59_59623,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5846,59,05101,59_05101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5847,59,68502,59_68502,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5848,59,68102,59_68102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5849,59,89701,59_89701,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5850,59,89101,59_89101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5851,59,03301,59_03301,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5852,59,03108,59_03108,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5853,59,08608,59_08608,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5854,59,07102,59_07102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5855,59,87501,59_87501,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5856,59,87102,59_87102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5857,59,12207,59_12207,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5858,59,10007,59_10007,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5859,59,11021,59_11021,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5860,59,27601,59_27601,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5861,59,28105,59_28105,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5862,59,58501,59_58501,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5863,59,58102,59_58102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5864,59,43215,59_43215,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5865,59,73102,59_73102,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5866,59,97301,59_97301,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5867,59,97201,59_97201,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5868,59,17101,59_17101,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5869,59,19103,59_19103,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5870,59,02903,59_02903,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5871,59,29217,59_29217,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5872,59,57501,59_57501,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5873,59,57103,59_57103,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5874,59,37219,59_37219,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5875,59,78701,59_78701,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5876,59,77002,59_77002,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5877,59,78207,59_78207,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5878,59,75207,59_75207,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5879,59,84111,59_84111,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5880,59,05602,59_05602,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5881,59,05401,59_05401,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5882,59,23219,59_23219,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5883,59,23454,59_23454,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5884,59,98507,59_98507,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5885,59,98105,59_98105,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5886,59,25301,59_25301,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5887,59,53703,59_53703,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5888,59,53205,59_53205,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5889,59,82001,59_82001,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5890,59,96799,59_96799,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5891,59,20001,59_20001,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5892,59,96941,59_96941,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5893,59,96910,59_96910,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5894,59,96912,59_96912,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5895,59,96960,59_96960,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5896,59,96950,59_96950,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5897,59,96939,59_96939,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5898,59,00901,59_00901,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5899,59,00802,59_00802,False,False,Circuit Breaker Panel or Fuse Box Repair,True
-5900,60,36104,60_36104,False,False,Closet Remodel,True
-5901,60,35210,60_35210,False,False,Closet Remodel,True
-5902,60,99801,60_99801,False,False,Closet Remodel,True
-5903,60,99501,60_99501,False,False,Closet Remodel,True
-5904,60,85001,60_85001,False,False,Closet Remodel,True
-5905,60,72201,60_72201,False,False,Closet Remodel,True
-5906,60,95814,60_95814,False,False,Closet Remodel,True
-5907,60,90013,60_90013,False,False,Closet Remodel,True
-5908,60,92101,60_92101,False,False,Closet Remodel,True
-5909,60,95112,60_95112,False,False,Closet Remodel,True
-5910,60,94108,60_94108,False,False,Closet Remodel,True
-5911,60,80202,60_80202,False,False,Closet Remodel,True
-5912,60,06103,60_06103,False,False,Closet Remodel,True
-5913,60,06604,60_06604,False,False,Closet Remodel,True
-5914,60,19901,60_19901,False,False,Closet Remodel,True
-5915,60,19850,60_19850,False,False,Closet Remodel,True
-5916,60,32301,60_32301,False,False,Closet Remodel,True
-5917,60,32202,60_32202,False,False,Closet Remodel,True
-5918,60,33132,60_33132,False,False,Closet Remodel,True
-5919,60,33602,60_33602,False,False,Closet Remodel,True
-5920,60,30303,60_30303,False,False,Closet Remodel,True
-5921,60,96813,60_96813,False,False,Closet Remodel,True
-5922,60,83702,60_83702,False,False,Closet Remodel,True
-5923,60,62701,60_62701,False,False,Closet Remodel,True
-5924,60,60176,60_60176,False,False,Closet Remodel,True
-5925,60,46225,60_46225,False,False,Closet Remodel,True
-5926,60,50309,60_50309,False,False,Closet Remodel,True
-5927,60,66603,60_66603,False,False,Closet Remodel,True
-5928,60,67052,60_67052,False,False,Closet Remodel,True
-5929,60,40601,60_40601,False,False,Closet Remodel,True
-5930,60,40507,60_40507,False,False,Closet Remodel,True
-5931,60,70802,60_70802,False,False,Closet Remodel,True
-5932,60,70114,60_70114,False,False,Closet Remodel,True
-5933,60,04330,60_04330,False,False,Closet Remodel,True
-5934,60,04101,60_04101,False,False,Closet Remodel,True
-5935,60,21401,60_21401,False,False,Closet Remodel,True
-5936,60,21202,60_21202,False,False,Closet Remodel,True
-5937,60,02201,60_02201,False,False,Closet Remodel,True
-5938,60,48933,60_48933,False,False,Closet Remodel,True
-5939,60,48226,60_48226,False,False,Closet Remodel,True
-5940,60,55102,60_55102,False,False,Closet Remodel,True
-5941,60,55404,60_55404,False,False,Closet Remodel,True
-5942,60,39205,60_39205,False,False,Closet Remodel,True
-5943,60,65101,60_65101,False,False,Closet Remodel,True
-5944,60,64105,60_64105,False,False,Closet Remodel,True
-5945,60,59623,60_59623,False,False,Closet Remodel,True
-5946,60,05101,60_05101,False,False,Closet Remodel,True
-5947,60,68502,60_68502,False,False,Closet Remodel,True
-5948,60,68102,60_68102,False,False,Closet Remodel,True
-5949,60,89701,60_89701,False,False,Closet Remodel,True
-5950,60,89101,60_89101,False,False,Closet Remodel,True
-5951,60,03301,60_03301,False,False,Closet Remodel,True
-5952,60,03108,60_03108,False,False,Closet Remodel,True
-5953,60,08608,60_08608,False,False,Closet Remodel,True
-5954,60,07102,60_07102,False,False,Closet Remodel,True
-5955,60,87501,60_87501,False,False,Closet Remodel,True
-5956,60,87102,60_87102,False,False,Closet Remodel,True
-5957,60,12207,60_12207,False,False,Closet Remodel,True
-5958,60,10007,60_10007,False,False,Closet Remodel,True
-5959,60,11021,60_11021,False,False,Closet Remodel,True
-5960,60,27601,60_27601,False,False,Closet Remodel,True
-5961,60,28105,60_28105,False,False,Closet Remodel,True
-5962,60,58501,60_58501,False,False,Closet Remodel,True
-5963,60,58102,60_58102,False,False,Closet Remodel,True
-5964,60,43215,60_43215,False,False,Closet Remodel,True
-5965,60,73102,60_73102,False,False,Closet Remodel,True
-5966,60,97301,60_97301,False,False,Closet Remodel,True
-5967,60,97201,60_97201,False,False,Closet Remodel,True
-5968,60,17101,60_17101,False,False,Closet Remodel,True
-5969,60,19103,60_19103,False,False,Closet Remodel,True
-5970,60,02903,60_02903,False,False,Closet Remodel,True
-5971,60,29217,60_29217,False,False,Closet Remodel,True
-5972,60,57501,60_57501,False,False,Closet Remodel,True
-5973,60,57103,60_57103,False,False,Closet Remodel,True
-5974,60,37219,60_37219,False,False,Closet Remodel,True
-5975,60,78701,60_78701,False,False,Closet Remodel,True
-5976,60,77002,60_77002,False,False,Closet Remodel,True
-5977,60,78207,60_78207,False,False,Closet Remodel,True
-5978,60,75207,60_75207,False,False,Closet Remodel,True
-5979,60,84111,60_84111,False,False,Closet Remodel,True
-5980,60,05602,60_05602,False,False,Closet Remodel,True
-5981,60,05401,60_05401,False,False,Closet Remodel,True
-5982,60,23219,60_23219,False,False,Closet Remodel,True
-5983,60,23454,60_23454,False,False,Closet Remodel,True
-5984,60,98507,60_98507,False,False,Closet Remodel,True
-5985,60,98105,60_98105,False,False,Closet Remodel,True
-5986,60,25301,60_25301,False,False,Closet Remodel,True
-5987,60,53703,60_53703,False,False,Closet Remodel,True
-5988,60,53205,60_53205,False,False,Closet Remodel,True
-5989,60,82001,60_82001,False,False,Closet Remodel,True
-5990,60,96799,60_96799,False,False,Closet Remodel,True
-5991,60,20001,60_20001,False,False,Closet Remodel,True
-5992,60,96941,60_96941,False,False,Closet Remodel,True
-5993,60,96910,60_96910,False,False,Closet Remodel,True
-5994,60,96912,60_96912,False,False,Closet Remodel,True
-5995,60,96960,60_96960,False,False,Closet Remodel,True
-5996,60,96950,60_96950,False,False,Closet Remodel,True
-5997,60,96939,60_96939,False,False,Closet Remodel,True
-5998,60,00901,60_00901,False,False,Closet Remodel,True
-5999,60,00802,60_00802,False,False,Closet Remodel,True
-6000,61,36104,61_36104,False,False,Closet and Shelving System Installation,True
-6001,61,35210,61_35210,False,False,Closet and Shelving System Installation,True
-6002,61,99801,61_99801,False,False,Closet and Shelving System Installation,True
-6003,61,99501,61_99501,False,False,Closet and Shelving System Installation,True
-6004,61,85001,61_85001,False,False,Closet and Shelving System Installation,True
-6005,61,72201,61_72201,False,False,Closet and Shelving System Installation,True
-6006,61,95814,61_95814,False,False,Closet and Shelving System Installation,True
-6007,61,90013,61_90013,False,False,Closet and Shelving System Installation,True
-6008,61,92101,61_92101,False,False,Closet and Shelving System Installation,True
-6009,61,95112,61_95112,False,False,Closet and Shelving System Installation,True
-6010,61,94108,61_94108,False,False,Closet and Shelving System Installation,True
-6011,61,80202,61_80202,False,False,Closet and Shelving System Installation,True
-6012,61,06103,61_06103,False,False,Closet and Shelving System Installation,True
-6013,61,06604,61_06604,False,False,Closet and Shelving System Installation,True
-6014,61,19901,61_19901,False,False,Closet and Shelving System Installation,True
-6015,61,19850,61_19850,False,False,Closet and Shelving System Installation,True
-6016,61,32301,61_32301,False,False,Closet and Shelving System Installation,True
-6017,61,32202,61_32202,False,False,Closet and Shelving System Installation,True
-6018,61,33132,61_33132,False,False,Closet and Shelving System Installation,True
-6019,61,33602,61_33602,False,False,Closet and Shelving System Installation,True
-6020,61,30303,61_30303,False,False,Closet and Shelving System Installation,True
-6021,61,96813,61_96813,False,False,Closet and Shelving System Installation,True
-6022,61,83702,61_83702,False,False,Closet and Shelving System Installation,True
-6023,61,62701,61_62701,False,False,Closet and Shelving System Installation,True
-6024,61,60176,61_60176,False,False,Closet and Shelving System Installation,True
-6025,61,46225,61_46225,False,False,Closet and Shelving System Installation,True
-6026,61,50309,61_50309,False,False,Closet and Shelving System Installation,True
-6027,61,66603,61_66603,False,False,Closet and Shelving System Installation,True
-6028,61,67052,61_67052,False,False,Closet and Shelving System Installation,True
-6029,61,40601,61_40601,False,False,Closet and Shelving System Installation,True
-6030,61,40507,61_40507,False,False,Closet and Shelving System Installation,True
-6031,61,70802,61_70802,False,False,Closet and Shelving System Installation,True
-6032,61,70114,61_70114,False,False,Closet and Shelving System Installation,True
-6033,61,04330,61_04330,False,False,Closet and Shelving System Installation,True
-6034,61,04101,61_04101,False,False,Closet and Shelving System Installation,True
-6035,61,21401,61_21401,False,False,Closet and Shelving System Installation,True
-6036,61,21202,61_21202,False,False,Closet and Shelving System Installation,True
-6037,61,02201,61_02201,False,False,Closet and Shelving System Installation,True
-6038,61,48933,61_48933,False,False,Closet and Shelving System Installation,True
-6039,61,48226,61_48226,False,False,Closet and Shelving System Installation,True
-6040,61,55102,61_55102,False,False,Closet and Shelving System Installation,True
-6041,61,55404,61_55404,False,False,Closet and Shelving System Installation,True
-6042,61,39205,61_39205,False,False,Closet and Shelving System Installation,True
-6043,61,65101,61_65101,False,False,Closet and Shelving System Installation,True
-6044,61,64105,61_64105,False,False,Closet and Shelving System Installation,True
-6045,61,59623,61_59623,False,False,Closet and Shelving System Installation,True
-6046,61,05101,61_05101,False,False,Closet and Shelving System Installation,True
-6047,61,68502,61_68502,False,False,Closet and Shelving System Installation,True
-6048,61,68102,61_68102,False,False,Closet and Shelving System Installation,True
-6049,61,89701,61_89701,False,False,Closet and Shelving System Installation,True
-6050,61,89101,61_89101,False,False,Closet and Shelving System Installation,True
-6051,61,03301,61_03301,False,False,Closet and Shelving System Installation,True
-6052,61,03108,61_03108,False,False,Closet and Shelving System Installation,True
-6053,61,08608,61_08608,False,False,Closet and Shelving System Installation,True
-6054,61,07102,61_07102,False,False,Closet and Shelving System Installation,True
-6055,61,87501,61_87501,False,False,Closet and Shelving System Installation,True
-6056,61,87102,61_87102,False,False,Closet and Shelving System Installation,True
-6057,61,12207,61_12207,False,False,Closet and Shelving System Installation,True
-6058,61,10007,61_10007,False,False,Closet and Shelving System Installation,True
-6059,61,11021,61_11021,False,False,Closet and Shelving System Installation,True
-6060,61,27601,61_27601,False,False,Closet and Shelving System Installation,True
-6061,61,28105,61_28105,False,False,Closet and Shelving System Installation,True
-6062,61,58501,61_58501,False,False,Closet and Shelving System Installation,True
-6063,61,58102,61_58102,False,False,Closet and Shelving System Installation,True
-6064,61,43215,61_43215,False,False,Closet and Shelving System Installation,True
-6065,61,73102,61_73102,False,False,Closet and Shelving System Installation,True
-6066,61,97301,61_97301,False,False,Closet and Shelving System Installation,True
-6067,61,97201,61_97201,False,False,Closet and Shelving System Installation,True
-6068,61,17101,61_17101,False,False,Closet and Shelving System Installation,True
-6069,61,19103,61_19103,False,False,Closet and Shelving System Installation,True
-6070,61,02903,61_02903,False,False,Closet and Shelving System Installation,True
-6071,61,29217,61_29217,False,False,Closet and Shelving System Installation,True
-6072,61,57501,61_57501,False,False,Closet and Shelving System Installation,True
-6073,61,57103,61_57103,False,False,Closet and Shelving System Installation,True
-6074,61,37219,61_37219,False,False,Closet and Shelving System Installation,True
-6075,61,78701,61_78701,False,False,Closet and Shelving System Installation,True
-6076,61,77002,61_77002,False,False,Closet and Shelving System Installation,True
-6077,61,78207,61_78207,False,False,Closet and Shelving System Installation,True
-6078,61,75207,61_75207,False,False,Closet and Shelving System Installation,True
-6079,61,84111,61_84111,False,False,Closet and Shelving System Installation,True
-6080,61,05602,61_05602,False,False,Closet and Shelving System Installation,True
-6081,61,05401,61_05401,False,False,Closet and Shelving System Installation,True
-6082,61,23219,61_23219,False,False,Closet and Shelving System Installation,True
-6083,61,23454,61_23454,False,False,Closet and Shelving System Installation,True
-6084,61,98507,61_98507,False,False,Closet and Shelving System Installation,True
-6085,61,98105,61_98105,False,False,Closet and Shelving System Installation,True
-6086,61,25301,61_25301,False,False,Closet and Shelving System Installation,True
-6087,61,53703,61_53703,False,False,Closet and Shelving System Installation,True
-6088,61,53205,61_53205,False,False,Closet and Shelving System Installation,True
-6089,61,82001,61_82001,False,False,Closet and Shelving System Installation,True
-6090,61,96799,61_96799,False,False,Closet and Shelving System Installation,True
-6091,61,20001,61_20001,False,False,Closet and Shelving System Installation,True
-6092,61,96941,61_96941,False,False,Closet and Shelving System Installation,True
-6093,61,96910,61_96910,False,False,Closet and Shelving System Installation,True
-6094,61,96912,61_96912,False,False,Closet and Shelving System Installation,True
-6095,61,96960,61_96960,False,False,Closet and Shelving System Installation,True
-6096,61,96950,61_96950,False,False,Closet and Shelving System Installation,True
-6097,61,96939,61_96939,False,False,Closet and Shelving System Installation,True
-6098,61,00901,61_00901,False,False,Closet and Shelving System Installation,True
-6099,61,00802,61_00802,False,False,Closet and Shelving System Installation,True
-6100,62,36104,62_36104,False,False,Commercial Carpet Cleaning,True
-6101,62,35210,62_35210,False,False,Commercial Carpet Cleaning,True
-6102,62,99801,62_99801,False,False,Commercial Carpet Cleaning,True
-6103,62,99501,62_99501,False,False,Commercial Carpet Cleaning,True
-6104,62,85001,62_85001,False,False,Commercial Carpet Cleaning,True
-6105,62,72201,62_72201,False,False,Commercial Carpet Cleaning,True
-6106,62,95814,62_95814,False,False,Commercial Carpet Cleaning,True
-6107,62,90013,62_90013,False,False,Commercial Carpet Cleaning,True
-6108,62,92101,62_92101,False,False,Commercial Carpet Cleaning,True
-6109,62,95112,62_95112,False,False,Commercial Carpet Cleaning,True
-6110,62,94108,62_94108,False,False,Commercial Carpet Cleaning,True
-6111,62,80202,62_80202,False,False,Commercial Carpet Cleaning,True
-6112,62,06103,62_06103,False,False,Commercial Carpet Cleaning,True
-6113,62,06604,62_06604,False,False,Commercial Carpet Cleaning,True
-6114,62,19901,62_19901,False,False,Commercial Carpet Cleaning,True
-6115,62,19850,62_19850,False,False,Commercial Carpet Cleaning,True
-6116,62,32301,62_32301,False,False,Commercial Carpet Cleaning,True
-6117,62,32202,62_32202,False,False,Commercial Carpet Cleaning,True
-6118,62,33132,62_33132,False,False,Commercial Carpet Cleaning,True
-6119,62,33602,62_33602,False,False,Commercial Carpet Cleaning,True
-6120,62,30303,62_30303,False,False,Commercial Carpet Cleaning,True
-6121,62,96813,62_96813,False,False,Commercial Carpet Cleaning,True
-6122,62,83702,62_83702,False,False,Commercial Carpet Cleaning,True
-6123,62,62701,62_62701,False,False,Commercial Carpet Cleaning,True
-6124,62,60176,62_60176,False,False,Commercial Carpet Cleaning,True
-6125,62,46225,62_46225,False,False,Commercial Carpet Cleaning,True
-6126,62,50309,62_50309,False,False,Commercial Carpet Cleaning,True
-6127,62,66603,62_66603,False,False,Commercial Carpet Cleaning,True
-6128,62,67052,62_67052,False,False,Commercial Carpet Cleaning,True
-6129,62,40601,62_40601,False,False,Commercial Carpet Cleaning,True
-6130,62,40507,62_40507,False,False,Commercial Carpet Cleaning,True
-6131,62,70802,62_70802,False,False,Commercial Carpet Cleaning,True
-6132,62,70114,62_70114,False,False,Commercial Carpet Cleaning,True
-6133,62,04330,62_04330,False,False,Commercial Carpet Cleaning,True
-6134,62,04101,62_04101,False,False,Commercial Carpet Cleaning,True
-6135,62,21401,62_21401,False,False,Commercial Carpet Cleaning,True
-6136,62,21202,62_21202,False,False,Commercial Carpet Cleaning,True
-6137,62,02201,62_02201,False,False,Commercial Carpet Cleaning,True
-6138,62,48933,62_48933,False,False,Commercial Carpet Cleaning,True
-6139,62,48226,62_48226,False,False,Commercial Carpet Cleaning,True
-6140,62,55102,62_55102,False,False,Commercial Carpet Cleaning,True
-6141,62,55404,62_55404,False,False,Commercial Carpet Cleaning,True
-6142,62,39205,62_39205,False,False,Commercial Carpet Cleaning,True
-6143,62,65101,62_65101,False,False,Commercial Carpet Cleaning,True
-6144,62,64105,62_64105,False,False,Commercial Carpet Cleaning,True
-6145,62,59623,62_59623,False,False,Commercial Carpet Cleaning,True
-6146,62,05101,62_05101,False,False,Commercial Carpet Cleaning,True
-6147,62,68502,62_68502,False,False,Commercial Carpet Cleaning,True
-6148,62,68102,62_68102,False,False,Commercial Carpet Cleaning,True
-6149,62,89701,62_89701,False,False,Commercial Carpet Cleaning,True
-6150,62,89101,62_89101,False,False,Commercial Carpet Cleaning,True
-6151,62,03301,62_03301,False,False,Commercial Carpet Cleaning,True
-6152,62,03108,62_03108,False,False,Commercial Carpet Cleaning,True
-6153,62,08608,62_08608,False,False,Commercial Carpet Cleaning,True
-6154,62,07102,62_07102,False,False,Commercial Carpet Cleaning,True
-6155,62,87501,62_87501,False,False,Commercial Carpet Cleaning,True
-6156,62,87102,62_87102,False,False,Commercial Carpet Cleaning,True
-6157,62,12207,62_12207,False,False,Commercial Carpet Cleaning,True
-6158,62,10007,62_10007,False,False,Commercial Carpet Cleaning,True
-6159,62,11021,62_11021,False,False,Commercial Carpet Cleaning,True
-6160,62,27601,62_27601,False,False,Commercial Carpet Cleaning,True
-6161,62,28105,62_28105,False,False,Commercial Carpet Cleaning,True
-6162,62,58501,62_58501,False,False,Commercial Carpet Cleaning,True
-6163,62,58102,62_58102,False,False,Commercial Carpet Cleaning,True
-6164,62,43215,62_43215,False,False,Commercial Carpet Cleaning,True
-6165,62,73102,62_73102,False,False,Commercial Carpet Cleaning,True
-6166,62,97301,62_97301,False,False,Commercial Carpet Cleaning,True
-6167,62,97201,62_97201,False,False,Commercial Carpet Cleaning,True
-6168,62,17101,62_17101,False,False,Commercial Carpet Cleaning,True
-6169,62,19103,62_19103,False,False,Commercial Carpet Cleaning,True
-6170,62,02903,62_02903,False,False,Commercial Carpet Cleaning,True
-6171,62,29217,62_29217,False,False,Commercial Carpet Cleaning,True
-6172,62,57501,62_57501,False,False,Commercial Carpet Cleaning,True
-6173,62,57103,62_57103,False,False,Commercial Carpet Cleaning,True
-6174,62,37219,62_37219,False,False,Commercial Carpet Cleaning,True
-6175,62,78701,62_78701,False,False,Commercial Carpet Cleaning,True
-6176,62,77002,62_77002,False,False,Commercial Carpet Cleaning,True
-6177,62,78207,62_78207,False,False,Commercial Carpet Cleaning,True
-6178,62,75207,62_75207,False,False,Commercial Carpet Cleaning,True
-6179,62,84111,62_84111,False,False,Commercial Carpet Cleaning,True
-6180,62,05602,62_05602,False,False,Commercial Carpet Cleaning,True
-6181,62,05401,62_05401,False,False,Commercial Carpet Cleaning,True
-6182,62,23219,62_23219,False,False,Commercial Carpet Cleaning,True
-6183,62,23454,62_23454,False,False,Commercial Carpet Cleaning,True
-6184,62,98507,62_98507,False,False,Commercial Carpet Cleaning,True
-6185,62,98105,62_98105,False,False,Commercial Carpet Cleaning,True
-6186,62,25301,62_25301,False,False,Commercial Carpet Cleaning,True
-6187,62,53703,62_53703,False,False,Commercial Carpet Cleaning,True
-6188,62,53205,62_53205,False,False,Commercial Carpet Cleaning,True
-6189,62,82001,62_82001,False,False,Commercial Carpet Cleaning,True
-6190,62,96799,62_96799,False,False,Commercial Carpet Cleaning,True
-6191,62,20001,62_20001,False,False,Commercial Carpet Cleaning,True
-6192,62,96941,62_96941,False,False,Commercial Carpet Cleaning,True
-6193,62,96910,62_96910,False,False,Commercial Carpet Cleaning,True
-6194,62,96912,62_96912,False,False,Commercial Carpet Cleaning,True
-6195,62,96960,62_96960,False,False,Commercial Carpet Cleaning,True
-6196,62,96950,62_96950,False,False,Commercial Carpet Cleaning,True
-6197,62,96939,62_96939,False,False,Commercial Carpet Cleaning,True
-6198,62,00901,62_00901,False,False,Commercial Carpet Cleaning,True
-6199,62,00802,62_00802,False,False,Commercial Carpet Cleaning,True
-6200,63,36104,63_36104,False,False,Commercial Cleaning,True
-6201,63,35210,63_35210,False,False,Commercial Cleaning,True
-6202,63,99801,63_99801,False,False,Commercial Cleaning,True
-6203,63,99501,63_99501,False,False,Commercial Cleaning,True
-6204,63,85001,63_85001,False,False,Commercial Cleaning,True
-6205,63,72201,63_72201,False,False,Commercial Cleaning,True
-6206,63,95814,63_95814,False,False,Commercial Cleaning,True
-6207,63,90013,63_90013,False,False,Commercial Cleaning,True
-6208,63,92101,63_92101,False,False,Commercial Cleaning,True
-6209,63,95112,63_95112,False,False,Commercial Cleaning,True
-6210,63,94108,63_94108,False,False,Commercial Cleaning,True
-6211,63,80202,63_80202,False,False,Commercial Cleaning,True
-6212,63,06103,63_06103,False,False,Commercial Cleaning,True
-6213,63,06604,63_06604,False,False,Commercial Cleaning,True
-6214,63,19901,63_19901,False,False,Commercial Cleaning,True
-6215,63,19850,63_19850,False,False,Commercial Cleaning,True
-6216,63,32301,63_32301,False,False,Commercial Cleaning,True
-6217,63,32202,63_32202,False,False,Commercial Cleaning,True
-6218,63,33132,63_33132,False,False,Commercial Cleaning,True
-6219,63,33602,63_33602,False,False,Commercial Cleaning,True
-6220,63,30303,63_30303,False,False,Commercial Cleaning,True
-6221,63,96813,63_96813,False,False,Commercial Cleaning,True
-6222,63,83702,63_83702,False,False,Commercial Cleaning,True
-6223,63,62701,63_62701,False,False,Commercial Cleaning,True
-6224,63,60176,63_60176,False,False,Commercial Cleaning,True
-6225,63,46225,63_46225,False,False,Commercial Cleaning,True
-6226,63,50309,63_50309,False,False,Commercial Cleaning,True
-6227,63,66603,63_66603,False,False,Commercial Cleaning,True
-6228,63,67052,63_67052,False,False,Commercial Cleaning,True
-6229,63,40601,63_40601,False,False,Commercial Cleaning,True
-6230,63,40507,63_40507,False,False,Commercial Cleaning,True
-6231,63,70802,63_70802,False,False,Commercial Cleaning,True
-6232,63,70114,63_70114,False,False,Commercial Cleaning,True
-6233,63,04330,63_04330,False,False,Commercial Cleaning,True
-6234,63,04101,63_04101,False,False,Commercial Cleaning,True
-6235,63,21401,63_21401,False,False,Commercial Cleaning,True
-6236,63,21202,63_21202,False,False,Commercial Cleaning,True
-6237,63,02201,63_02201,False,False,Commercial Cleaning,True
-6238,63,48933,63_48933,False,False,Commercial Cleaning,True
-6239,63,48226,63_48226,False,False,Commercial Cleaning,True
-6240,63,55102,63_55102,False,False,Commercial Cleaning,True
-6241,63,55404,63_55404,False,False,Commercial Cleaning,True
-6242,63,39205,63_39205,False,False,Commercial Cleaning,True
-6243,63,65101,63_65101,False,False,Commercial Cleaning,True
-6244,63,64105,63_64105,False,False,Commercial Cleaning,True
-6245,63,59623,63_59623,False,False,Commercial Cleaning,True
-6246,63,05101,63_05101,False,False,Commercial Cleaning,True
-6247,63,68502,63_68502,False,False,Commercial Cleaning,True
-6248,63,68102,63_68102,False,False,Commercial Cleaning,True
-6249,63,89701,63_89701,False,False,Commercial Cleaning,True
-6250,63,89101,63_89101,False,False,Commercial Cleaning,True
-6251,63,03301,63_03301,False,False,Commercial Cleaning,True
-6252,63,03108,63_03108,False,False,Commercial Cleaning,True
-6253,63,08608,63_08608,False,False,Commercial Cleaning,True
-6254,63,07102,63_07102,False,False,Commercial Cleaning,True
-6255,63,87501,63_87501,False,False,Commercial Cleaning,True
-6256,63,87102,63_87102,False,False,Commercial Cleaning,True
-6257,63,12207,63_12207,False,False,Commercial Cleaning,True
-6258,63,10007,63_10007,False,False,Commercial Cleaning,True
-6259,63,11021,63_11021,False,False,Commercial Cleaning,True
-6260,63,27601,63_27601,False,False,Commercial Cleaning,True
-6261,63,28105,63_28105,False,False,Commercial Cleaning,True
-6262,63,58501,63_58501,False,False,Commercial Cleaning,True
-6263,63,58102,63_58102,False,False,Commercial Cleaning,True
-6264,63,43215,63_43215,False,False,Commercial Cleaning,True
-6265,63,73102,63_73102,False,False,Commercial Cleaning,True
-6266,63,97301,63_97301,False,False,Commercial Cleaning,True
-6267,63,97201,63_97201,False,False,Commercial Cleaning,True
-6268,63,17101,63_17101,False,False,Commercial Cleaning,True
-6269,63,19103,63_19103,False,False,Commercial Cleaning,True
-6270,63,02903,63_02903,False,False,Commercial Cleaning,True
-6271,63,29217,63_29217,False,False,Commercial Cleaning,True
-6272,63,57501,63_57501,False,False,Commercial Cleaning,True
-6273,63,57103,63_57103,False,False,Commercial Cleaning,True
-6274,63,37219,63_37219,False,False,Commercial Cleaning,True
-6275,63,78701,63_78701,False,False,Commercial Cleaning,True
-6276,63,77002,63_77002,False,False,Commercial Cleaning,True
-6277,63,78207,63_78207,False,False,Commercial Cleaning,True
-6278,63,75207,63_75207,False,False,Commercial Cleaning,True
-6279,63,84111,63_84111,False,False,Commercial Cleaning,True
-6280,63,05602,63_05602,False,False,Commercial Cleaning,True
-6281,63,05401,63_05401,False,False,Commercial Cleaning,True
-6282,63,23219,63_23219,False,False,Commercial Cleaning,True
-6283,63,23454,63_23454,False,False,Commercial Cleaning,True
-6284,63,98507,63_98507,False,False,Commercial Cleaning,True
-6285,63,98105,63_98105,False,False,Commercial Cleaning,True
-6286,63,25301,63_25301,False,False,Commercial Cleaning,True
-6287,63,53703,63_53703,False,False,Commercial Cleaning,True
-6288,63,53205,63_53205,False,False,Commercial Cleaning,True
-6289,63,82001,63_82001,False,False,Commercial Cleaning,True
-6290,63,96799,63_96799,False,False,Commercial Cleaning,True
-6291,63,20001,63_20001,False,False,Commercial Cleaning,True
-6292,63,96941,63_96941,False,False,Commercial Cleaning,True
-6293,63,96910,63_96910,False,False,Commercial Cleaning,True
-6294,63,96912,63_96912,False,False,Commercial Cleaning,True
-6295,63,96960,63_96960,False,False,Commercial Cleaning,True
-6296,63,96950,63_96950,False,False,Commercial Cleaning,True
-6297,63,96939,63_96939,False,False,Commercial Cleaning,True
-6298,63,00901,63_00901,False,False,Commercial Cleaning,True
-6299,63,00802,63_00802,False,False,Commercial Cleaning,True
-6300,64,36104,64_36104,False,False,Concrete Installation,True
-6301,64,35210,64_35210,False,False,Concrete Installation,True
-6302,64,99801,64_99801,False,False,Concrete Installation,True
-6303,64,99501,64_99501,False,False,Concrete Installation,True
-6304,64,85001,64_85001,False,False,Concrete Installation,True
-6305,64,72201,64_72201,False,False,Concrete Installation,True
-6306,64,95814,64_95814,False,False,Concrete Installation,True
-6307,64,90013,64_90013,False,False,Concrete Installation,True
-6308,64,92101,64_92101,False,False,Concrete Installation,True
-6309,64,95112,64_95112,False,False,Concrete Installation,True
-6310,64,94108,64_94108,False,False,Concrete Installation,True
-6311,64,80202,64_80202,False,False,Concrete Installation,True
-6312,64,06103,64_06103,False,False,Concrete Installation,True
-6313,64,06604,64_06604,False,False,Concrete Installation,True
-6314,64,19901,64_19901,False,False,Concrete Installation,True
-6315,64,19850,64_19850,False,False,Concrete Installation,True
-6316,64,32301,64_32301,False,False,Concrete Installation,True
-6317,64,32202,64_32202,False,False,Concrete Installation,True
-6318,64,33132,64_33132,False,False,Concrete Installation,True
-6319,64,33602,64_33602,False,False,Concrete Installation,True
-6320,64,30303,64_30303,False,False,Concrete Installation,True
-6321,64,96813,64_96813,False,False,Concrete Installation,True
-6322,64,83702,64_83702,False,False,Concrete Installation,True
-6323,64,62701,64_62701,False,False,Concrete Installation,True
-6324,64,60176,64_60176,False,False,Concrete Installation,True
-6325,64,46225,64_46225,False,False,Concrete Installation,True
-6326,64,50309,64_50309,False,False,Concrete Installation,True
-6327,64,66603,64_66603,False,False,Concrete Installation,True
-6328,64,67052,64_67052,False,False,Concrete Installation,True
-6329,64,40601,64_40601,False,False,Concrete Installation,True
-6330,64,40507,64_40507,False,False,Concrete Installation,True
-6331,64,70802,64_70802,False,False,Concrete Installation,True
-6332,64,70114,64_70114,False,False,Concrete Installation,True
-6333,64,04330,64_04330,False,False,Concrete Installation,True
-6334,64,04101,64_04101,False,False,Concrete Installation,True
-6335,64,21401,64_21401,False,False,Concrete Installation,True
-6336,64,21202,64_21202,False,False,Concrete Installation,True
-6337,64,02201,64_02201,False,False,Concrete Installation,True
-6338,64,48933,64_48933,False,False,Concrete Installation,True
-6339,64,48226,64_48226,False,False,Concrete Installation,True
-6340,64,55102,64_55102,False,False,Concrete Installation,True
-6341,64,55404,64_55404,False,False,Concrete Installation,True
-6342,64,39205,64_39205,False,False,Concrete Installation,True
-6343,64,65101,64_65101,False,False,Concrete Installation,True
-6344,64,64105,64_64105,False,False,Concrete Installation,True
-6345,64,59623,64_59623,False,False,Concrete Installation,True
-6346,64,05101,64_05101,False,False,Concrete Installation,True
-6347,64,68502,64_68502,False,False,Concrete Installation,True
-6348,64,68102,64_68102,False,False,Concrete Installation,True
-6349,64,89701,64_89701,False,False,Concrete Installation,True
-6350,64,89101,64_89101,False,False,Concrete Installation,True
-6351,64,03301,64_03301,False,False,Concrete Installation,True
-6352,64,03108,64_03108,False,False,Concrete Installation,True
-6353,64,08608,64_08608,False,False,Concrete Installation,True
-6354,64,07102,64_07102,False,False,Concrete Installation,True
-6355,64,87501,64_87501,False,False,Concrete Installation,True
-6356,64,87102,64_87102,False,False,Concrete Installation,True
-6357,64,12207,64_12207,False,False,Concrete Installation,True
-6358,64,10007,64_10007,False,False,Concrete Installation,True
-6359,64,11021,64_11021,False,False,Concrete Installation,True
-6360,64,27601,64_27601,False,False,Concrete Installation,True
-6361,64,28105,64_28105,False,False,Concrete Installation,True
-6362,64,58501,64_58501,False,False,Concrete Installation,True
-6363,64,58102,64_58102,False,False,Concrete Installation,True
-6364,64,43215,64_43215,False,False,Concrete Installation,True
-6365,64,73102,64_73102,False,False,Concrete Installation,True
-6366,64,97301,64_97301,False,False,Concrete Installation,True
-6367,64,97201,64_97201,False,False,Concrete Installation,True
-6368,64,17101,64_17101,False,False,Concrete Installation,True
-6369,64,19103,64_19103,False,False,Concrete Installation,True
-6370,64,02903,64_02903,False,False,Concrete Installation,True
-6371,64,29217,64_29217,False,False,Concrete Installation,True
-6372,64,57501,64_57501,False,False,Concrete Installation,True
-6373,64,57103,64_57103,False,False,Concrete Installation,True
-6374,64,37219,64_37219,False,False,Concrete Installation,True
-6375,64,78701,64_78701,False,False,Concrete Installation,True
-6376,64,77002,64_77002,False,False,Concrete Installation,True
-6377,64,78207,64_78207,False,False,Concrete Installation,True
-6378,64,75207,64_75207,False,False,Concrete Installation,True
-6379,64,84111,64_84111,False,False,Concrete Installation,True
-6380,64,05602,64_05602,False,False,Concrete Installation,True
-6381,64,05401,64_05401,False,False,Concrete Installation,True
-6382,64,23219,64_23219,False,False,Concrete Installation,True
-6383,64,23454,64_23454,False,False,Concrete Installation,True
-6384,64,98507,64_98507,False,False,Concrete Installation,True
-6385,64,98105,64_98105,False,False,Concrete Installation,True
-6386,64,25301,64_25301,False,False,Concrete Installation,True
-6387,64,53703,64_53703,False,False,Concrete Installation,True
-6388,64,53205,64_53205,False,False,Concrete Installation,True
-6389,64,82001,64_82001,False,False,Concrete Installation,True
-6390,64,96799,64_96799,False,False,Concrete Installation,True
-6391,64,20001,64_20001,False,False,Concrete Installation,True
-6392,64,96941,64_96941,False,False,Concrete Installation,True
-6393,64,96910,64_96910,False,False,Concrete Installation,True
-6394,64,96912,64_96912,False,False,Concrete Installation,True
-6395,64,96960,64_96960,False,False,Concrete Installation,True
-6396,64,96950,64_96950,False,False,Concrete Installation,True
-6397,64,96939,64_96939,False,False,Concrete Installation,True
-6398,64,00901,64_00901,False,False,Concrete Installation,True
-6399,64,00802,64_00802,False,False,Concrete Installation,True
-6400,65,36104,65_36104,False,False,Concrete Removal,True
-6401,65,35210,65_35210,False,False,Concrete Removal,True
-6402,65,99801,65_99801,False,False,Concrete Removal,True
-6403,65,99501,65_99501,False,False,Concrete Removal,True
-6404,65,85001,65_85001,False,False,Concrete Removal,True
-6405,65,72201,65_72201,False,False,Concrete Removal,True
-6406,65,95814,65_95814,False,False,Concrete Removal,True
-6407,65,90013,65_90013,False,False,Concrete Removal,True
-6408,65,92101,65_92101,False,False,Concrete Removal,True
-6409,65,95112,65_95112,False,False,Concrete Removal,True
-6410,65,94108,65_94108,False,False,Concrete Removal,True
-6411,65,80202,65_80202,False,False,Concrete Removal,True
-6412,65,06103,65_06103,False,False,Concrete Removal,True
-6413,65,06604,65_06604,False,False,Concrete Removal,True
-6414,65,19901,65_19901,False,False,Concrete Removal,True
-6415,65,19850,65_19850,False,False,Concrete Removal,True
-6416,65,32301,65_32301,False,False,Concrete Removal,True
-6417,65,32202,65_32202,False,False,Concrete Removal,True
-6418,65,33132,65_33132,False,False,Concrete Removal,True
-6419,65,33602,65_33602,False,False,Concrete Removal,True
-6420,65,30303,65_30303,False,False,Concrete Removal,True
-6421,65,96813,65_96813,False,False,Concrete Removal,True
-6422,65,83702,65_83702,False,False,Concrete Removal,True
-6423,65,62701,65_62701,False,False,Concrete Removal,True
-6424,65,60176,65_60176,False,False,Concrete Removal,True
-6425,65,46225,65_46225,False,False,Concrete Removal,True
-6426,65,50309,65_50309,False,False,Concrete Removal,True
-6427,65,66603,65_66603,False,False,Concrete Removal,True
-6428,65,67052,65_67052,False,False,Concrete Removal,True
-6429,65,40601,65_40601,False,False,Concrete Removal,True
-6430,65,40507,65_40507,False,False,Concrete Removal,True
-6431,65,70802,65_70802,False,False,Concrete Removal,True
-6432,65,70114,65_70114,False,False,Concrete Removal,True
-6433,65,04330,65_04330,False,False,Concrete Removal,True
-6434,65,04101,65_04101,False,False,Concrete Removal,True
-6435,65,21401,65_21401,False,False,Concrete Removal,True
-6436,65,21202,65_21202,False,False,Concrete Removal,True
-6437,65,02201,65_02201,False,False,Concrete Removal,True
-6438,65,48933,65_48933,False,False,Concrete Removal,True
-6439,65,48226,65_48226,False,False,Concrete Removal,True
-6440,65,55102,65_55102,False,False,Concrete Removal,True
-6441,65,55404,65_55404,False,False,Concrete Removal,True
-6442,65,39205,65_39205,False,False,Concrete Removal,True
-6443,65,65101,65_65101,False,False,Concrete Removal,True
-6444,65,64105,65_64105,False,False,Concrete Removal,True
-6445,65,59623,65_59623,False,False,Concrete Removal,True
-6446,65,05101,65_05101,False,False,Concrete Removal,True
-6447,65,68502,65_68502,False,False,Concrete Removal,True
-6448,65,68102,65_68102,False,False,Concrete Removal,True
-6449,65,89701,65_89701,False,False,Concrete Removal,True
-6450,65,89101,65_89101,False,False,Concrete Removal,True
-6451,65,03301,65_03301,False,False,Concrete Removal,True
-6452,65,03108,65_03108,False,False,Concrete Removal,True
-6453,65,08608,65_08608,False,False,Concrete Removal,True
-6454,65,07102,65_07102,False,False,Concrete Removal,True
-6455,65,87501,65_87501,False,False,Concrete Removal,True
-6456,65,87102,65_87102,False,False,Concrete Removal,True
-6457,65,12207,65_12207,False,False,Concrete Removal,True
-6458,65,10007,65_10007,False,False,Concrete Removal,True
-6459,65,11021,65_11021,False,False,Concrete Removal,True
-6460,65,27601,65_27601,False,False,Concrete Removal,True
-6461,65,28105,65_28105,False,False,Concrete Removal,True
-6462,65,58501,65_58501,False,False,Concrete Removal,True
-6463,65,58102,65_58102,False,False,Concrete Removal,True
-6464,65,43215,65_43215,False,False,Concrete Removal,True
-6465,65,73102,65_73102,False,False,Concrete Removal,True
-6466,65,97301,65_97301,False,False,Concrete Removal,True
-6467,65,97201,65_97201,False,False,Concrete Removal,True
-6468,65,17101,65_17101,False,False,Concrete Removal,True
-6469,65,19103,65_19103,False,False,Concrete Removal,True
-6470,65,02903,65_02903,False,False,Concrete Removal,True
-6471,65,29217,65_29217,False,False,Concrete Removal,True
-6472,65,57501,65_57501,False,False,Concrete Removal,True
-6473,65,57103,65_57103,False,False,Concrete Removal,True
-6474,65,37219,65_37219,False,False,Concrete Removal,True
-6475,65,78701,65_78701,False,False,Concrete Removal,True
-6476,65,77002,65_77002,False,False,Concrete Removal,True
-6477,65,78207,65_78207,False,False,Concrete Removal,True
-6478,65,75207,65_75207,False,False,Concrete Removal,True
-6479,65,84111,65_84111,False,False,Concrete Removal,True
-6480,65,05602,65_05602,False,False,Concrete Removal,True
-6481,65,05401,65_05401,False,False,Concrete Removal,True
-6482,65,23219,65_23219,False,False,Concrete Removal,True
-6483,65,23454,65_23454,False,False,Concrete Removal,True
-6484,65,98507,65_98507,False,False,Concrete Removal,True
-6485,65,98105,65_98105,False,False,Concrete Removal,True
-6486,65,25301,65_25301,False,False,Concrete Removal,True
-6487,65,53703,65_53703,False,False,Concrete Removal,True
-6488,65,53205,65_53205,False,False,Concrete Removal,True
-6489,65,82001,65_82001,False,False,Concrete Removal,True
-6490,65,96799,65_96799,False,False,Concrete Removal,True
-6491,65,20001,65_20001,False,False,Concrete Removal,True
-6492,65,96941,65_96941,False,False,Concrete Removal,True
-6493,65,96910,65_96910,False,False,Concrete Removal,True
-6494,65,96912,65_96912,False,False,Concrete Removal,True
-6495,65,96960,65_96960,False,False,Concrete Removal,True
-6496,65,96950,65_96950,False,False,Concrete Removal,True
-6497,65,96939,65_96939,False,False,Concrete Removal,True
-6498,65,00901,65_00901,False,False,Concrete Removal,True
-6499,65,00802,65_00802,False,False,Concrete Removal,True
-6500,66,36104,66_36104,False,False,Concrete Repair and Maintenance,True
-6501,66,35210,66_35210,False,False,Concrete Repair and Maintenance,True
-6502,66,99801,66_99801,False,False,Concrete Repair and Maintenance,True
-6503,66,99501,66_99501,False,False,Concrete Repair and Maintenance,True
-6504,66,85001,66_85001,False,False,Concrete Repair and Maintenance,True
-6505,66,72201,66_72201,False,False,Concrete Repair and Maintenance,True
-6506,66,95814,66_95814,False,False,Concrete Repair and Maintenance,True
-6507,66,90013,66_90013,False,False,Concrete Repair and Maintenance,True
-6508,66,92101,66_92101,False,False,Concrete Repair and Maintenance,True
-6509,66,95112,66_95112,False,False,Concrete Repair and Maintenance,True
-6510,66,94108,66_94108,False,False,Concrete Repair and Maintenance,True
-6511,66,80202,66_80202,False,False,Concrete Repair and Maintenance,True
-6512,66,06103,66_06103,False,False,Concrete Repair and Maintenance,True
-6513,66,06604,66_06604,False,False,Concrete Repair and Maintenance,True
-6514,66,19901,66_19901,False,False,Concrete Repair and Maintenance,True
-6515,66,19850,66_19850,False,False,Concrete Repair and Maintenance,True
-6516,66,32301,66_32301,False,False,Concrete Repair and Maintenance,True
-6517,66,32202,66_32202,False,False,Concrete Repair and Maintenance,True
-6518,66,33132,66_33132,False,False,Concrete Repair and Maintenance,True
-6519,66,33602,66_33602,False,False,Concrete Repair and Maintenance,True
-6520,66,30303,66_30303,False,False,Concrete Repair and Maintenance,True
-6521,66,96813,66_96813,False,False,Concrete Repair and Maintenance,True
-6522,66,83702,66_83702,False,False,Concrete Repair and Maintenance,True
-6523,66,62701,66_62701,False,False,Concrete Repair and Maintenance,True
-6524,66,60176,66_60176,False,False,Concrete Repair and Maintenance,True
-6525,66,46225,66_46225,False,False,Concrete Repair and Maintenance,True
-6526,66,50309,66_50309,False,False,Concrete Repair and Maintenance,True
-6527,66,66603,66_66603,False,False,Concrete Repair and Maintenance,True
-6528,66,67052,66_67052,False,False,Concrete Repair and Maintenance,True
-6529,66,40601,66_40601,False,False,Concrete Repair and Maintenance,True
-6530,66,40507,66_40507,False,False,Concrete Repair and Maintenance,True
-6531,66,70802,66_70802,False,False,Concrete Repair and Maintenance,True
-6532,66,70114,66_70114,False,False,Concrete Repair and Maintenance,True
-6533,66,04330,66_04330,False,False,Concrete Repair and Maintenance,True
-6534,66,04101,66_04101,False,False,Concrete Repair and Maintenance,True
-6535,66,21401,66_21401,False,False,Concrete Repair and Maintenance,True
-6536,66,21202,66_21202,False,False,Concrete Repair and Maintenance,True
-6537,66,02201,66_02201,False,False,Concrete Repair and Maintenance,True
-6538,66,48933,66_48933,False,False,Concrete Repair and Maintenance,True
-6539,66,48226,66_48226,False,False,Concrete Repair and Maintenance,True
-6540,66,55102,66_55102,False,False,Concrete Repair and Maintenance,True
-6541,66,55404,66_55404,False,False,Concrete Repair and Maintenance,True
-6542,66,39205,66_39205,False,False,Concrete Repair and Maintenance,True
-6543,66,65101,66_65101,False,False,Concrete Repair and Maintenance,True
-6544,66,64105,66_64105,False,False,Concrete Repair and Maintenance,True
-6545,66,59623,66_59623,False,False,Concrete Repair and Maintenance,True
-6546,66,05101,66_05101,False,False,Concrete Repair and Maintenance,True
-6547,66,68502,66_68502,False,False,Concrete Repair and Maintenance,True
-6548,66,68102,66_68102,False,False,Concrete Repair and Maintenance,True
-6549,66,89701,66_89701,False,False,Concrete Repair and Maintenance,True
-6550,66,89101,66_89101,False,False,Concrete Repair and Maintenance,True
-6551,66,03301,66_03301,False,False,Concrete Repair and Maintenance,True
-6552,66,03108,66_03108,False,False,Concrete Repair and Maintenance,True
-6553,66,08608,66_08608,False,False,Concrete Repair and Maintenance,True
-6554,66,07102,66_07102,False,False,Concrete Repair and Maintenance,True
-6555,66,87501,66_87501,False,False,Concrete Repair and Maintenance,True
-6556,66,87102,66_87102,False,False,Concrete Repair and Maintenance,True
-6557,66,12207,66_12207,False,False,Concrete Repair and Maintenance,True
-6558,66,10007,66_10007,False,False,Concrete Repair and Maintenance,True
-6559,66,11021,66_11021,False,False,Concrete Repair and Maintenance,True
-6560,66,27601,66_27601,False,False,Concrete Repair and Maintenance,True
-6561,66,28105,66_28105,False,False,Concrete Repair and Maintenance,True
-6562,66,58501,66_58501,False,False,Concrete Repair and Maintenance,True
-6563,66,58102,66_58102,False,False,Concrete Repair and Maintenance,True
-6564,66,43215,66_43215,False,False,Concrete Repair and Maintenance,True
-6565,66,73102,66_73102,False,False,Concrete Repair and Maintenance,True
-6566,66,97301,66_97301,False,False,Concrete Repair and Maintenance,True
-6567,66,97201,66_97201,False,False,Concrete Repair and Maintenance,True
-6568,66,17101,66_17101,False,False,Concrete Repair and Maintenance,True
-6569,66,19103,66_19103,False,False,Concrete Repair and Maintenance,True
-6570,66,02903,66_02903,False,False,Concrete Repair and Maintenance,True
-6571,66,29217,66_29217,False,False,Concrete Repair and Maintenance,True
-6572,66,57501,66_57501,False,False,Concrete Repair and Maintenance,True
-6573,66,57103,66_57103,False,False,Concrete Repair and Maintenance,True
-6574,66,37219,66_37219,False,False,Concrete Repair and Maintenance,True
-6575,66,78701,66_78701,False,False,Concrete Repair and Maintenance,True
-6576,66,77002,66_77002,False,False,Concrete Repair and Maintenance,True
-6577,66,78207,66_78207,False,False,Concrete Repair and Maintenance,True
-6578,66,75207,66_75207,False,False,Concrete Repair and Maintenance,True
-6579,66,84111,66_84111,False,False,Concrete Repair and Maintenance,True
-6580,66,05602,66_05602,False,False,Concrete Repair and Maintenance,True
-6581,66,05401,66_05401,False,False,Concrete Repair and Maintenance,True
-6582,66,23219,66_23219,False,False,Concrete Repair and Maintenance,True
-6583,66,23454,66_23454,False,False,Concrete Repair and Maintenance,True
-6584,66,98507,66_98507,False,False,Concrete Repair and Maintenance,True
-6585,66,98105,66_98105,False,False,Concrete Repair and Maintenance,True
-6586,66,25301,66_25301,False,False,Concrete Repair and Maintenance,True
-6587,66,53703,66_53703,False,False,Concrete Repair and Maintenance,True
-6588,66,53205,66_53205,False,False,Concrete Repair and Maintenance,True
-6589,66,82001,66_82001,False,False,Concrete Repair and Maintenance,True
-6590,66,96799,66_96799,False,False,Concrete Repair and Maintenance,True
-6591,66,20001,66_20001,False,False,Concrete Repair and Maintenance,True
-6592,66,96941,66_96941,False,False,Concrete Repair and Maintenance,True
-6593,66,96910,66_96910,False,False,Concrete Repair and Maintenance,True
-6594,66,96912,66_96912,False,False,Concrete Repair and Maintenance,True
-6595,66,96960,66_96960,False,False,Concrete Repair and Maintenance,True
-6596,66,96950,66_96950,False,False,Concrete Repair and Maintenance,True
-6597,66,96939,66_96939,False,False,Concrete Repair and Maintenance,True
-6598,66,00901,66_00901,False,False,Concrete Repair and Maintenance,True
-6599,66,00802,66_00802,False,False,Concrete Repair and Maintenance,True
-6600,67,36104,67_36104,False,False,Construction Services,True
-6601,67,35210,67_35210,False,False,Construction Services,True
-6602,67,99801,67_99801,False,False,Construction Services,True
-6603,67,99501,67_99501,False,False,Construction Services,True
-6604,67,85001,67_85001,False,False,Construction Services,True
-6605,67,72201,67_72201,False,False,Construction Services,True
-6606,67,95814,67_95814,False,False,Construction Services,True
-6607,67,90013,67_90013,False,False,Construction Services,True
-6608,67,92101,67_92101,False,False,Construction Services,True
-6609,67,95112,67_95112,False,False,Construction Services,True
-6610,67,94108,67_94108,False,False,Construction Services,True
-6611,67,80202,67_80202,False,False,Construction Services,True
-6612,67,06103,67_06103,False,False,Construction Services,True
-6613,67,06604,67_06604,False,False,Construction Services,True
-6614,67,19901,67_19901,False,False,Construction Services,True
-6615,67,19850,67_19850,False,False,Construction Services,True
-6616,67,32301,67_32301,False,False,Construction Services,True
-6617,67,32202,67_32202,False,False,Construction Services,True
-6618,67,33132,67_33132,False,False,Construction Services,True
-6619,67,33602,67_33602,False,False,Construction Services,True
-6620,67,30303,67_30303,False,False,Construction Services,True
-6621,67,96813,67_96813,False,False,Construction Services,True
-6622,67,83702,67_83702,False,False,Construction Services,True
-6623,67,62701,67_62701,False,False,Construction Services,True
-6624,67,60176,67_60176,False,False,Construction Services,True
-6625,67,46225,67_46225,False,False,Construction Services,True
-6626,67,50309,67_50309,False,False,Construction Services,True
-6627,67,66603,67_66603,False,False,Construction Services,True
-6628,67,67052,67_67052,False,False,Construction Services,True
-6629,67,40601,67_40601,False,False,Construction Services,True
-6630,67,40507,67_40507,False,False,Construction Services,True
-6631,67,70802,67_70802,False,False,Construction Services,True
-6632,67,70114,67_70114,False,False,Construction Services,True
-6633,67,04330,67_04330,False,False,Construction Services,True
-6634,67,04101,67_04101,False,False,Construction Services,True
-6635,67,21401,67_21401,False,False,Construction Services,True
-6636,67,21202,67_21202,False,False,Construction Services,True
-6637,67,02201,67_02201,False,False,Construction Services,True
-6638,67,48933,67_48933,False,False,Construction Services,True
-6639,67,48226,67_48226,False,False,Construction Services,True
-6640,67,55102,67_55102,False,False,Construction Services,True
-6641,67,55404,67_55404,False,False,Construction Services,True
-6642,67,39205,67_39205,False,False,Construction Services,True
-6643,67,65101,67_65101,False,False,Construction Services,True
-6644,67,64105,67_64105,False,False,Construction Services,True
-6645,67,59623,67_59623,False,False,Construction Services,True
-6646,67,05101,67_05101,False,False,Construction Services,True
-6647,67,68502,67_68502,False,False,Construction Services,True
-6648,67,68102,67_68102,False,False,Construction Services,True
-6649,67,89701,67_89701,False,False,Construction Services,True
-6650,67,89101,67_89101,False,False,Construction Services,True
-6651,67,03301,67_03301,False,False,Construction Services,True
-6652,67,03108,67_03108,False,False,Construction Services,True
-6653,67,08608,67_08608,False,False,Construction Services,True
-6654,67,07102,67_07102,False,False,Construction Services,True
-6655,67,87501,67_87501,False,False,Construction Services,True
-6656,67,87102,67_87102,False,False,Construction Services,True
-6657,67,12207,67_12207,False,False,Construction Services,True
-6658,67,10007,67_10007,False,False,Construction Services,True
-6659,67,11021,67_11021,False,False,Construction Services,True
-6660,67,27601,67_27601,False,False,Construction Services,True
-6661,67,28105,67_28105,False,False,Construction Services,True
-6662,67,58501,67_58501,False,False,Construction Services,True
-6663,67,58102,67_58102,False,False,Construction Services,True
-6664,67,43215,67_43215,False,False,Construction Services,True
-6665,67,73102,67_73102,False,False,Construction Services,True
-6666,67,97301,67_97301,False,False,Construction Services,True
-6667,67,97201,67_97201,False,False,Construction Services,True
-6668,67,17101,67_17101,False,False,Construction Services,True
-6669,67,19103,67_19103,False,False,Construction Services,True
-6670,67,02903,67_02903,False,False,Construction Services,True
-6671,67,29217,67_29217,False,False,Construction Services,True
-6672,67,57501,67_57501,False,False,Construction Services,True
-6673,67,57103,67_57103,False,False,Construction Services,True
-6674,67,37219,67_37219,False,False,Construction Services,True
-6675,67,78701,67_78701,False,False,Construction Services,True
-6676,67,77002,67_77002,False,False,Construction Services,True
-6677,67,78207,67_78207,False,False,Construction Services,True
-6678,67,75207,67_75207,False,False,Construction Services,True
-6679,67,84111,67_84111,False,False,Construction Services,True
-6680,67,05602,67_05602,False,False,Construction Services,True
-6681,67,05401,67_05401,False,False,Construction Services,True
-6682,67,23219,67_23219,False,False,Construction Services,True
-6683,67,23454,67_23454,False,False,Construction Services,True
-6684,67,98507,67_98507,False,False,Construction Services,True
-6685,67,98105,67_98105,False,False,Construction Services,True
-6686,67,25301,67_25301,False,False,Construction Services,True
-6687,67,53703,67_53703,False,False,Construction Services,True
-6688,67,53205,67_53205,False,False,Construction Services,True
-6689,67,82001,67_82001,False,False,Construction Services,True
-6690,67,96799,67_96799,False,False,Construction Services,True
-6691,67,20001,67_20001,False,False,Construction Services,True
-6692,67,96941,67_96941,False,False,Construction Services,True
-6693,67,96910,67_96910,False,False,Construction Services,True
-6694,67,96912,67_96912,False,False,Construction Services,True
-6695,67,96960,67_96960,False,False,Construction Services,True
-6696,67,96950,67_96950,False,False,Construction Services,True
-6697,67,96939,67_96939,False,False,Construction Services,True
-6698,67,00901,67_00901,False,False,Construction Services,True
-6699,67,00802,67_00802,False,False,Construction Services,True
+5803,59,99501,59_99501,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5804,59,85001,59_85001,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5805,59,72201,59_72201,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5806,59,95814,59_95814,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5807,59,90013,59_90013,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5808,59,92101,59_92101,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5809,59,95112,59_95112,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5810,59,94108,59_94108,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5811,59,80202,59_80202,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5812,59,06103,59_06103,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5813,59,06604,59_06604,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5814,59,19901,59_19901,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5815,59,19850,59_19850,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5816,59,32301,59_32301,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5817,59,32202,59_32202,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5818,59,33132,59_33132,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5819,59,33602,59_33602,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5820,59,30303,59_30303,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5821,59,96813,59_96813,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5822,59,83702,59_83702,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5823,59,62701,59_62701,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5824,59,60176,59_60176,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5825,59,46225,59_46225,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5826,59,50309,59_50309,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5827,59,66603,59_66603,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5828,59,67052,59_67052,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5829,59,40601,59_40601,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5830,59,40507,59_40507,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5831,59,70802,59_70802,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5832,59,70114,59_70114,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5833,59,04330,59_04330,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5834,59,04101,59_04101,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5835,59,21401,59_21401,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5836,59,21202,59_21202,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5837,59,02201,59_02201,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5838,59,48933,59_48933,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5839,59,48226,59_48226,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5840,59,55102,59_55102,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5841,59,55404,59_55404,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5842,59,39205,59_39205,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5843,59,65101,59_65101,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5844,59,64105,59_64105,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5845,59,59623,59_59623,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5846,59,05101,59_05101,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5847,59,68502,59_68502,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5848,59,68102,59_68102,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5849,59,89701,59_89701,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5850,59,89101,59_89101,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5851,59,03301,59_03301,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5852,59,03108,59_03108,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5853,59,08608,59_08608,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5854,59,07102,59_07102,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5855,59,87501,59_87501,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5856,59,87102,59_87102,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5857,59,12207,59_12207,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5858,59,10007,59_10007,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5859,59,11021,59_11021,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5860,59,27601,59_27601,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5861,59,28105,59_28105,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5862,59,58501,59_58501,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5863,59,58102,59_58102,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5864,59,43215,59_43215,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5865,59,73102,59_73102,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5866,59,97301,59_97301,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5867,59,97201,59_97201,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5868,59,17101,59_17101,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5869,59,19103,59_19103,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5870,59,02903,59_02903,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5871,59,29217,59_29217,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5872,59,57501,59_57501,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5873,59,57103,59_57103,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5874,59,37219,59_37219,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5875,59,78701,59_78701,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5876,59,77002,59_77002,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5877,59,78207,59_78207,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5878,59,75207,59_75207,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5879,59,84111,59_84111,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5880,59,05602,59_05602,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5881,59,05401,59_05401,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5882,59,23219,59_23219,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5883,59,23454,59_23454,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5884,59,98507,59_98507,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5885,59,98105,59_98105,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5886,59,25301,59_25301,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5887,59,53703,59_53703,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5888,59,53205,59_53205,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5889,59,82001,59_82001,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5890,59,96799,59_96799,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5891,59,20001,59_20001,True,False,Circuit Breaker Panel or Fuse Box Repair,False
+5892,59,96941,59_96941,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5893,59,96910,59_96910,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5894,59,96912,59_96912,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5895,59,96960,59_96960,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5896,59,96950,59_96950,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5897,59,96939,59_96939,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5898,59,00901,59_00901,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5899,59,00802,59_00802,False,True,Circuit Breaker Panel or Fuse Box Repair,False
+5900,60,36104,60_36104,True,False,Closet Remodel,False
+5901,60,35210,60_35210,False,True,Closet Remodel,False
+5902,60,99801,60_99801,True,False,Closet Remodel,False
+5903,60,99501,60_99501,True,False,Closet Remodel,False
+5904,60,85001,60_85001,True,False,Closet Remodel,False
+5905,60,72201,60_72201,True,False,Closet Remodel,False
+5906,60,95814,60_95814,True,False,Closet Remodel,False
+5907,60,90013,60_90013,True,False,Closet Remodel,False
+5908,60,92101,60_92101,True,False,Closet Remodel,False
+5909,60,95112,60_95112,True,False,Closet Remodel,False
+5910,60,94108,60_94108,True,False,Closet Remodel,False
+5911,60,80202,60_80202,True,False,Closet Remodel,False
+5912,60,06103,60_06103,True,False,Closet Remodel,False
+5913,60,06604,60_06604,True,False,Closet Remodel,False
+5914,60,19901,60_19901,True,False,Closet Remodel,False
+5915,60,19850,60_19850,True,False,Closet Remodel,False
+5916,60,32301,60_32301,True,False,Closet Remodel,False
+5917,60,32202,60_32202,True,False,Closet Remodel,False
+5918,60,33132,60_33132,True,False,Closet Remodel,False
+5919,60,33602,60_33602,True,False,Closet Remodel,False
+5920,60,30303,60_30303,True,False,Closet Remodel,False
+5921,60,96813,60_96813,True,False,Closet Remodel,False
+5922,60,83702,60_83702,True,False,Closet Remodel,False
+5923,60,62701,60_62701,True,False,Closet Remodel,False
+5924,60,60176,60_60176,True,False,Closet Remodel,False
+5925,60,46225,60_46225,True,False,Closet Remodel,False
+5926,60,50309,60_50309,True,False,Closet Remodel,False
+5927,60,66603,60_66603,False,True,Closet Remodel,False
+5928,60,67052,60_67052,True,False,Closet Remodel,False
+5929,60,40601,60_40601,True,False,Closet Remodel,False
+5930,60,40507,60_40507,True,False,Closet Remodel,False
+5931,60,70802,60_70802,True,False,Closet Remodel,False
+5932,60,70114,60_70114,True,False,Closet Remodel,False
+5933,60,04330,60_04330,True,False,Closet Remodel,False
+5934,60,04101,60_04101,True,False,Closet Remodel,False
+5935,60,21401,60_21401,True,False,Closet Remodel,False
+5936,60,21202,60_21202,True,False,Closet Remodel,False
+5937,60,02201,60_02201,True,False,Closet Remodel,False
+5938,60,48933,60_48933,True,False,Closet Remodel,False
+5939,60,48226,60_48226,True,False,Closet Remodel,False
+5940,60,55102,60_55102,True,False,Closet Remodel,False
+5941,60,55404,60_55404,True,False,Closet Remodel,False
+5942,60,39205,60_39205,True,False,Closet Remodel,False
+5943,60,65101,60_65101,True,False,Closet Remodel,False
+5944,60,64105,60_64105,True,False,Closet Remodel,False
+5945,60,59623,60_59623,True,False,Closet Remodel,False
+5946,60,05101,60_05101,True,False,Closet Remodel,False
+5947,60,68502,60_68502,False,True,Closet Remodel,False
+5948,60,68102,60_68102,True,False,Closet Remodel,False
+5949,60,89701,60_89701,True,False,Closet Remodel,False
+5950,60,89101,60_89101,True,False,Closet Remodel,False
+5951,60,03301,60_03301,True,False,Closet Remodel,False
+5952,60,03108,60_03108,True,False,Closet Remodel,False
+5953,60,08608,60_08608,True,False,Closet Remodel,False
+5954,60,07102,60_07102,True,False,Closet Remodel,False
+5955,60,87501,60_87501,True,False,Closet Remodel,False
+5956,60,87102,60_87102,True,False,Closet Remodel,False
+5957,60,12207,60_12207,True,False,Closet Remodel,False
+5958,60,10007,60_10007,True,False,Closet Remodel,False
+5959,60,11021,60_11021,True,False,Closet Remodel,False
+5960,60,27601,60_27601,True,False,Closet Remodel,False
+5961,60,28105,60_28105,True,False,Closet Remodel,False
+5962,60,58501,60_58501,False,True,Closet Remodel,False
+5963,60,58102,60_58102,False,True,Closet Remodel,False
+5964,60,43215,60_43215,True,False,Closet Remodel,False
+5965,60,73102,60_73102,True,False,Closet Remodel,False
+5966,60,97301,60_97301,True,False,Closet Remodel,False
+5967,60,97201,60_97201,True,False,Closet Remodel,False
+5968,60,17101,60_17101,True,False,Closet Remodel,False
+5969,60,19103,60_19103,True,False,Closet Remodel,False
+5970,60,02903,60_02903,True,False,Closet Remodel,False
+5971,60,29217,60_29217,True,False,Closet Remodel,False
+5972,60,57501,60_57501,False,True,Closet Remodel,False
+5973,60,57103,60_57103,False,True,Closet Remodel,False
+5974,60,37219,60_37219,True,False,Closet Remodel,False
+5975,60,78701,60_78701,True,False,Closet Remodel,False
+5976,60,77002,60_77002,True,False,Closet Remodel,False
+5977,60,78207,60_78207,True,False,Closet Remodel,False
+5978,60,75207,60_75207,True,False,Closet Remodel,False
+5979,60,84111,60_84111,True,False,Closet Remodel,False
+5980,60,05602,60_05602,True,False,Closet Remodel,False
+5981,60,05401,60_05401,True,False,Closet Remodel,False
+5982,60,23219,60_23219,True,False,Closet Remodel,False
+5983,60,23454,60_23454,True,False,Closet Remodel,False
+5984,60,98507,60_98507,False,True,Closet Remodel,False
+5985,60,98105,60_98105,True,False,Closet Remodel,False
+5986,60,25301,60_25301,True,False,Closet Remodel,False
+5987,60,53703,60_53703,True,False,Closet Remodel,False
+5988,60,53205,60_53205,True,False,Closet Remodel,False
+5989,60,82001,60_82001,False,True,Closet Remodel,False
+5990,60,96799,60_96799,False,True,Closet Remodel,False
+5991,60,20001,60_20001,True,False,Closet Remodel,False
+5992,60,96941,60_96941,False,True,Closet Remodel,False
+5993,60,96910,60_96910,False,True,Closet Remodel,False
+5994,60,96912,60_96912,False,True,Closet Remodel,False
+5995,60,96960,60_96960,False,True,Closet Remodel,False
+5996,60,96950,60_96950,False,True,Closet Remodel,False
+5997,60,96939,60_96939,False,True,Closet Remodel,False
+5998,60,00901,60_00901,False,True,Closet Remodel,False
+5999,60,00802,60_00802,False,True,Closet Remodel,False
+6000,61,36104,61_36104,True,False,Closet and Shelving System Installation,False
+6001,61,35210,61_35210,True,False,Closet and Shelving System Installation,False
+6002,61,99801,61_99801,True,False,Closet and Shelving System Installation,False
+6003,61,99501,61_99501,True,False,Closet and Shelving System Installation,False
+6004,61,85001,61_85001,True,False,Closet and Shelving System Installation,False
+6005,61,72201,61_72201,True,False,Closet and Shelving System Installation,False
+6006,61,95814,61_95814,True,False,Closet and Shelving System Installation,False
+6007,61,90013,61_90013,True,False,Closet and Shelving System Installation,False
+6008,61,92101,61_92101,True,False,Closet and Shelving System Installation,False
+6009,61,95112,61_95112,True,False,Closet and Shelving System Installation,False
+6010,61,94108,61_94108,True,False,Closet and Shelving System Installation,False
+6011,61,80202,61_80202,True,False,Closet and Shelving System Installation,False
+6012,61,06103,61_06103,True,False,Closet and Shelving System Installation,False
+6013,61,06604,61_06604,True,False,Closet and Shelving System Installation,False
+6014,61,19901,61_19901,True,False,Closet and Shelving System Installation,False
+6015,61,19850,61_19850,True,False,Closet and Shelving System Installation,False
+6016,61,32301,61_32301,True,False,Closet and Shelving System Installation,False
+6017,61,32202,61_32202,True,False,Closet and Shelving System Installation,False
+6018,61,33132,61_33132,True,False,Closet and Shelving System Installation,False
+6019,61,33602,61_33602,True,False,Closet and Shelving System Installation,False
+6020,61,30303,61_30303,True,False,Closet and Shelving System Installation,False
+6021,61,96813,61_96813,True,False,Closet and Shelving System Installation,False
+6022,61,83702,61_83702,True,False,Closet and Shelving System Installation,False
+6023,61,62701,61_62701,True,False,Closet and Shelving System Installation,False
+6024,61,60176,61_60176,True,False,Closet and Shelving System Installation,False
+6025,61,46225,61_46225,True,False,Closet and Shelving System Installation,False
+6026,61,50309,61_50309,True,False,Closet and Shelving System Installation,False
+6027,61,66603,61_66603,False,True,Closet and Shelving System Installation,False
+6028,61,67052,61_67052,True,False,Closet and Shelving System Installation,False
+6029,61,40601,61_40601,True,False,Closet and Shelving System Installation,False
+6030,61,40507,61_40507,True,False,Closet and Shelving System Installation,False
+6031,61,70802,61_70802,True,False,Closet and Shelving System Installation,False
+6032,61,70114,61_70114,True,False,Closet and Shelving System Installation,False
+6033,61,04330,61_04330,True,False,Closet and Shelving System Installation,False
+6034,61,04101,61_04101,True,False,Closet and Shelving System Installation,False
+6035,61,21401,61_21401,True,False,Closet and Shelving System Installation,False
+6036,61,21202,61_21202,True,False,Closet and Shelving System Installation,False
+6037,61,02201,61_02201,True,False,Closet and Shelving System Installation,False
+6038,61,48933,61_48933,True,False,Closet and Shelving System Installation,False
+6039,61,48226,61_48226,True,False,Closet and Shelving System Installation,False
+6040,61,55102,61_55102,True,False,Closet and Shelving System Installation,False
+6041,61,55404,61_55404,True,False,Closet and Shelving System Installation,False
+6042,61,39205,61_39205,True,False,Closet and Shelving System Installation,False
+6043,61,65101,61_65101,True,False,Closet and Shelving System Installation,False
+6044,61,64105,61_64105,True,False,Closet and Shelving System Installation,False
+6045,61,59623,61_59623,True,False,Closet and Shelving System Installation,False
+6046,61,05101,61_05101,True,False,Closet and Shelving System Installation,False
+6047,61,68502,61_68502,True,False,Closet and Shelving System Installation,False
+6048,61,68102,61_68102,True,False,Closet and Shelving System Installation,False
+6049,61,89701,61_89701,True,False,Closet and Shelving System Installation,False
+6050,61,89101,61_89101,True,False,Closet and Shelving System Installation,False
+6051,61,03301,61_03301,True,False,Closet and Shelving System Installation,False
+6052,61,03108,61_03108,True,False,Closet and Shelving System Installation,False
+6053,61,08608,61_08608,True,False,Closet and Shelving System Installation,False
+6054,61,07102,61_07102,True,False,Closet and Shelving System Installation,False
+6055,61,87501,61_87501,True,False,Closet and Shelving System Installation,False
+6056,61,87102,61_87102,True,False,Closet and Shelving System Installation,False
+6057,61,12207,61_12207,True,False,Closet and Shelving System Installation,False
+6058,61,10007,61_10007,True,False,Closet and Shelving System Installation,False
+6059,61,11021,61_11021,True,False,Closet and Shelving System Installation,False
+6060,61,27601,61_27601,True,False,Closet and Shelving System Installation,False
+6061,61,28105,61_28105,True,False,Closet and Shelving System Installation,False
+6062,61,58501,61_58501,False,True,Closet and Shelving System Installation,False
+6063,61,58102,61_58102,True,False,Closet and Shelving System Installation,False
+6064,61,43215,61_43215,True,False,Closet and Shelving System Installation,False
+6065,61,73102,61_73102,True,False,Closet and Shelving System Installation,False
+6066,61,97301,61_97301,True,False,Closet and Shelving System Installation,False
+6067,61,97201,61_97201,True,False,Closet and Shelving System Installation,False
+6068,61,17101,61_17101,True,False,Closet and Shelving System Installation,False
+6069,61,19103,61_19103,True,False,Closet and Shelving System Installation,False
+6070,61,02903,61_02903,True,False,Closet and Shelving System Installation,False
+6071,61,29217,61_29217,True,False,Closet and Shelving System Installation,False
+6072,61,57501,61_57501,False,True,Closet and Shelving System Installation,False
+6073,61,57103,61_57103,True,False,Closet and Shelving System Installation,False
+6074,61,37219,61_37219,True,False,Closet and Shelving System Installation,False
+6075,61,78701,61_78701,True,False,Closet and Shelving System Installation,False
+6076,61,77002,61_77002,True,False,Closet and Shelving System Installation,False
+6077,61,78207,61_78207,True,False,Closet and Shelving System Installation,False
+6078,61,75207,61_75207,True,False,Closet and Shelving System Installation,False
+6079,61,84111,61_84111,True,False,Closet and Shelving System Installation,False
+6080,61,05602,61_05602,True,False,Closet and Shelving System Installation,False
+6081,61,05401,61_05401,True,False,Closet and Shelving System Installation,False
+6082,61,23219,61_23219,True,False,Closet and Shelving System Installation,False
+6083,61,23454,61_23454,True,False,Closet and Shelving System Installation,False
+6084,61,98507,61_98507,True,False,Closet and Shelving System Installation,False
+6085,61,98105,61_98105,True,False,Closet and Shelving System Installation,False
+6086,61,25301,61_25301,True,False,Closet and Shelving System Installation,False
+6087,61,53703,61_53703,True,False,Closet and Shelving System Installation,False
+6088,61,53205,61_53205,True,False,Closet and Shelving System Installation,False
+6089,61,82001,61_82001,True,False,Closet and Shelving System Installation,False
+6090,61,96799,61_96799,False,True,Closet and Shelving System Installation,False
+6091,61,20001,61_20001,True,False,Closet and Shelving System Installation,False
+6092,61,96941,61_96941,False,True,Closet and Shelving System Installation,False
+6093,61,96910,61_96910,False,True,Closet and Shelving System Installation,False
+6094,61,96912,61_96912,False,True,Closet and Shelving System Installation,False
+6095,61,96960,61_96960,False,True,Closet and Shelving System Installation,False
+6096,61,96950,61_96950,False,True,Closet and Shelving System Installation,False
+6097,61,96939,61_96939,False,True,Closet and Shelving System Installation,False
+6098,61,00901,61_00901,False,True,Closet and Shelving System Installation,False
+6099,61,00802,61_00802,False,True,Closet and Shelving System Installation,False
+6100,62,36104,62_36104,True,False,Commercial Carpet Cleaning,False
+6101,62,35210,62_35210,True,False,Commercial Carpet Cleaning,False
+6102,62,99801,62_99801,False,True,Commercial Carpet Cleaning,False
+6103,62,99501,62_99501,True,False,Commercial Carpet Cleaning,False
+6104,62,85001,62_85001,True,False,Commercial Carpet Cleaning,False
+6105,62,72201,62_72201,False,True,Commercial Carpet Cleaning,False
+6106,62,95814,62_95814,True,False,Commercial Carpet Cleaning,False
+6107,62,90013,62_90013,True,False,Commercial Carpet Cleaning,False
+6108,62,92101,62_92101,True,False,Commercial Carpet Cleaning,False
+6109,62,95112,62_95112,True,False,Commercial Carpet Cleaning,False
+6110,62,94108,62_94108,True,False,Commercial Carpet Cleaning,False
+6111,62,80202,62_80202,True,False,Commercial Carpet Cleaning,False
+6112,62,06103,62_06103,True,False,Commercial Carpet Cleaning,False
+6113,62,06604,62_06604,True,False,Commercial Carpet Cleaning,False
+6114,62,19901,62_19901,True,False,Commercial Carpet Cleaning,False
+6115,62,19850,62_19850,True,False,Commercial Carpet Cleaning,False
+6116,62,32301,62_32301,True,False,Commercial Carpet Cleaning,False
+6117,62,32202,62_32202,True,False,Commercial Carpet Cleaning,False
+6118,62,33132,62_33132,True,False,Commercial Carpet Cleaning,False
+6119,62,33602,62_33602,True,False,Commercial Carpet Cleaning,False
+6120,62,30303,62_30303,True,False,Commercial Carpet Cleaning,False
+6121,62,96813,62_96813,True,False,Commercial Carpet Cleaning,False
+6122,62,83702,62_83702,True,False,Commercial Carpet Cleaning,False
+6123,62,62701,62_62701,False,True,Commercial Carpet Cleaning,False
+6124,62,60176,62_60176,True,False,Commercial Carpet Cleaning,False
+6125,62,46225,62_46225,True,False,Commercial Carpet Cleaning,False
+6126,62,50309,62_50309,False,True,Commercial Carpet Cleaning,False
+6127,62,66603,62_66603,True,False,Commercial Carpet Cleaning,False
+6128,62,67052,62_67052,True,False,Commercial Carpet Cleaning,False
+6129,62,40601,62_40601,True,False,Commercial Carpet Cleaning,False
+6130,62,40507,62_40507,True,False,Commercial Carpet Cleaning,False
+6131,62,70802,62_70802,True,False,Commercial Carpet Cleaning,False
+6132,62,70114,62_70114,True,False,Commercial Carpet Cleaning,False
+6133,62,04330,62_04330,True,False,Commercial Carpet Cleaning,False
+6134,62,04101,62_04101,False,True,Commercial Carpet Cleaning,False
+6135,62,21401,62_21401,True,False,Commercial Carpet Cleaning,False
+6136,62,21202,62_21202,True,False,Commercial Carpet Cleaning,False
+6137,62,02201,62_02201,True,False,Commercial Carpet Cleaning,False
+6138,62,48933,62_48933,True,False,Commercial Carpet Cleaning,False
+6139,62,48226,62_48226,True,False,Commercial Carpet Cleaning,False
+6140,62,55102,62_55102,True,False,Commercial Carpet Cleaning,False
+6141,62,55404,62_55404,True,False,Commercial Carpet Cleaning,False
+6142,62,39205,62_39205,False,True,Commercial Carpet Cleaning,False
+6143,62,65101,62_65101,False,True,Commercial Carpet Cleaning,False
+6144,62,64105,62_64105,True,False,Commercial Carpet Cleaning,False
+6145,62,59623,62_59623,False,True,Commercial Carpet Cleaning,False
+6146,62,05101,62_05101,False,True,Commercial Carpet Cleaning,False
+6147,62,68502,62_68502,False,True,Commercial Carpet Cleaning,False
+6148,62,68102,62_68102,False,True,Commercial Carpet Cleaning,False
+6149,62,89701,62_89701,True,False,Commercial Carpet Cleaning,False
+6150,62,89101,62_89101,True,False,Commercial Carpet Cleaning,False
+6151,62,03301,62_03301,True,False,Commercial Carpet Cleaning,False
+6152,62,03108,62_03108,True,False,Commercial Carpet Cleaning,False
+6153,62,08608,62_08608,True,False,Commercial Carpet Cleaning,False
+6154,62,07102,62_07102,True,False,Commercial Carpet Cleaning,False
+6155,62,87501,62_87501,True,False,Commercial Carpet Cleaning,False
+6156,62,87102,62_87102,True,False,Commercial Carpet Cleaning,False
+6157,62,12207,62_12207,True,False,Commercial Carpet Cleaning,False
+6158,62,10007,62_10007,True,False,Commercial Carpet Cleaning,False
+6159,62,11021,62_11021,True,False,Commercial Carpet Cleaning,False
+6160,62,27601,62_27601,True,False,Commercial Carpet Cleaning,False
+6161,62,28105,62_28105,True,False,Commercial Carpet Cleaning,False
+6162,62,58501,62_58501,True,False,Commercial Carpet Cleaning,False
+6163,62,58102,62_58102,False,True,Commercial Carpet Cleaning,False
+6164,62,43215,62_43215,True,False,Commercial Carpet Cleaning,False
+6165,62,73102,62_73102,True,False,Commercial Carpet Cleaning,False
+6166,62,97301,62_97301,True,False,Commercial Carpet Cleaning,False
+6167,62,97201,62_97201,True,False,Commercial Carpet Cleaning,False
+6168,62,17101,62_17101,True,False,Commercial Carpet Cleaning,False
+6169,62,19103,62_19103,True,False,Commercial Carpet Cleaning,False
+6170,62,02903,62_02903,True,False,Commercial Carpet Cleaning,False
+6171,62,29217,62_29217,True,False,Commercial Carpet Cleaning,False
+6172,62,57501,62_57501,False,True,Commercial Carpet Cleaning,False
+6173,62,57103,62_57103,False,True,Commercial Carpet Cleaning,False
+6174,62,37219,62_37219,True,False,Commercial Carpet Cleaning,False
+6175,62,78701,62_78701,True,False,Commercial Carpet Cleaning,False
+6176,62,77002,62_77002,True,False,Commercial Carpet Cleaning,False
+6177,62,78207,62_78207,True,False,Commercial Carpet Cleaning,False
+6178,62,75207,62_75207,True,False,Commercial Carpet Cleaning,False
+6179,62,84111,62_84111,True,False,Commercial Carpet Cleaning,False
+6180,62,05602,62_05602,False,True,Commercial Carpet Cleaning,False
+6181,62,05401,62_05401,False,True,Commercial Carpet Cleaning,False
+6182,62,23219,62_23219,True,False,Commercial Carpet Cleaning,False
+6183,62,23454,62_23454,True,False,Commercial Carpet Cleaning,False
+6184,62,98507,62_98507,True,False,Commercial Carpet Cleaning,False
+6185,62,98105,62_98105,True,False,Commercial Carpet Cleaning,False
+6186,62,25301,62_25301,True,False,Commercial Carpet Cleaning,False
+6187,62,53703,62_53703,True,False,Commercial Carpet Cleaning,False
+6188,62,53205,62_53205,True,False,Commercial Carpet Cleaning,False
+6189,62,82001,62_82001,True,False,Commercial Carpet Cleaning,False
+6190,62,96799,62_96799,False,True,Commercial Carpet Cleaning,False
+6191,62,20001,62_20001,True,False,Commercial Carpet Cleaning,False
+6192,62,96941,62_96941,False,True,Commercial Carpet Cleaning,False
+6193,62,96910,62_96910,False,True,Commercial Carpet Cleaning,False
+6194,62,96912,62_96912,False,True,Commercial Carpet Cleaning,False
+6195,62,96960,62_96960,False,True,Commercial Carpet Cleaning,False
+6196,62,96950,62_96950,False,True,Commercial Carpet Cleaning,False
+6197,62,96939,62_96939,False,True,Commercial Carpet Cleaning,False
+6198,62,00901,62_00901,False,True,Commercial Carpet Cleaning,False
+6199,62,00802,62_00802,False,True,Commercial Carpet Cleaning,False
+6200,63,36104,63_36104,True,False,Commercial Cleaning,False
+6201,63,35210,63_35210,True,False,Commercial Cleaning,False
+6202,63,99801,63_99801,False,True,Commercial Cleaning,False
+6203,63,99501,63_99501,True,False,Commercial Cleaning,False
+6204,63,85001,63_85001,True,False,Commercial Cleaning,False
+6205,63,72201,63_72201,True,False,Commercial Cleaning,False
+6206,63,95814,63_95814,True,False,Commercial Cleaning,False
+6207,63,90013,63_90013,True,False,Commercial Cleaning,False
+6208,63,92101,63_92101,True,False,Commercial Cleaning,False
+6209,63,95112,63_95112,True,False,Commercial Cleaning,False
+6210,63,94108,63_94108,True,False,Commercial Cleaning,False
+6211,63,80202,63_80202,True,False,Commercial Cleaning,False
+6212,63,06103,63_06103,True,False,Commercial Cleaning,False
+6213,63,06604,63_06604,True,False,Commercial Cleaning,False
+6214,63,19901,63_19901,True,False,Commercial Cleaning,False
+6215,63,19850,63_19850,True,False,Commercial Cleaning,False
+6216,63,32301,63_32301,True,False,Commercial Cleaning,False
+6217,63,32202,63_32202,True,False,Commercial Cleaning,False
+6218,63,33132,63_33132,True,False,Commercial Cleaning,False
+6219,63,33602,63_33602,True,False,Commercial Cleaning,False
+6220,63,30303,63_30303,True,False,Commercial Cleaning,False
+6221,63,96813,63_96813,True,False,Commercial Cleaning,False
+6222,63,83702,63_83702,True,False,Commercial Cleaning,False
+6223,63,62701,63_62701,True,False,Commercial Cleaning,False
+6224,63,60176,63_60176,True,False,Commercial Cleaning,False
+6225,63,46225,63_46225,True,False,Commercial Cleaning,False
+6226,63,50309,63_50309,True,False,Commercial Cleaning,False
+6227,63,66603,63_66603,True,False,Commercial Cleaning,False
+6228,63,67052,63_67052,True,False,Commercial Cleaning,False
+6229,63,40601,63_40601,True,False,Commercial Cleaning,False
+6230,63,40507,63_40507,True,False,Commercial Cleaning,False
+6231,63,70802,63_70802,True,False,Commercial Cleaning,False
+6232,63,70114,63_70114,True,False,Commercial Cleaning,False
+6233,63,04330,63_04330,False,True,Commercial Cleaning,False
+6234,63,04101,63_04101,True,False,Commercial Cleaning,False
+6235,63,21401,63_21401,True,False,Commercial Cleaning,False
+6236,63,21202,63_21202,True,False,Commercial Cleaning,False
+6237,63,02201,63_02201,True,False,Commercial Cleaning,False
+6238,63,48933,63_48933,True,False,Commercial Cleaning,False
+6239,63,48226,63_48226,True,False,Commercial Cleaning,False
+6240,63,55102,63_55102,True,False,Commercial Cleaning,False
+6241,63,55404,63_55404,True,False,Commercial Cleaning,False
+6242,63,39205,63_39205,True,False,Commercial Cleaning,False
+6243,63,65101,63_65101,True,False,Commercial Cleaning,False
+6244,63,64105,63_64105,True,False,Commercial Cleaning,False
+6245,63,59623,63_59623,False,True,Commercial Cleaning,False
+6246,63,05101,63_05101,False,True,Commercial Cleaning,False
+6247,63,68502,63_68502,True,False,Commercial Cleaning,False
+6248,63,68102,63_68102,True,False,Commercial Cleaning,False
+6249,63,89701,63_89701,True,False,Commercial Cleaning,False
+6250,63,89101,63_89101,True,False,Commercial Cleaning,False
+6251,63,03301,63_03301,True,False,Commercial Cleaning,False
+6252,63,03108,63_03108,True,False,Commercial Cleaning,False
+6253,63,08608,63_08608,True,False,Commercial Cleaning,False
+6254,63,07102,63_07102,True,False,Commercial Cleaning,False
+6255,63,87501,63_87501,True,False,Commercial Cleaning,False
+6256,63,87102,63_87102,True,False,Commercial Cleaning,False
+6257,63,12207,63_12207,True,False,Commercial Cleaning,False
+6258,63,10007,63_10007,True,False,Commercial Cleaning,False
+6259,63,11021,63_11021,True,False,Commercial Cleaning,False
+6260,63,27601,63_27601,True,False,Commercial Cleaning,False
+6261,63,28105,63_28105,True,False,Commercial Cleaning,False
+6262,63,58501,63_58501,False,True,Commercial Cleaning,False
+6263,63,58102,63_58102,True,False,Commercial Cleaning,False
+6264,63,43215,63_43215,True,False,Commercial Cleaning,False
+6265,63,73102,63_73102,True,False,Commercial Cleaning,False
+6266,63,97301,63_97301,True,False,Commercial Cleaning,False
+6267,63,97201,63_97201,True,False,Commercial Cleaning,False
+6268,63,17101,63_17101,True,False,Commercial Cleaning,False
+6269,63,19103,63_19103,True,False,Commercial Cleaning,False
+6270,63,02903,63_02903,True,False,Commercial Cleaning,False
+6271,63,29217,63_29217,True,False,Commercial Cleaning,False
+6272,63,57501,63_57501,False,True,Commercial Cleaning,False
+6273,63,57103,63_57103,True,False,Commercial Cleaning,False
+6274,63,37219,63_37219,True,False,Commercial Cleaning,False
+6275,63,78701,63_78701,True,False,Commercial Cleaning,False
+6276,63,77002,63_77002,True,False,Commercial Cleaning,False
+6277,63,78207,63_78207,True,False,Commercial Cleaning,False
+6278,63,75207,63_75207,True,False,Commercial Cleaning,False
+6279,63,84111,63_84111,True,False,Commercial Cleaning,False
+6280,63,05602,63_05602,True,False,Commercial Cleaning,False
+6281,63,05401,63_05401,True,False,Commercial Cleaning,False
+6282,63,23219,63_23219,True,False,Commercial Cleaning,False
+6283,63,23454,63_23454,True,False,Commercial Cleaning,False
+6284,63,98507,63_98507,True,False,Commercial Cleaning,False
+6285,63,98105,63_98105,True,False,Commercial Cleaning,False
+6286,63,25301,63_25301,False,True,Commercial Cleaning,False
+6287,63,53703,63_53703,True,False,Commercial Cleaning,False
+6288,63,53205,63_53205,True,False,Commercial Cleaning,False
+6289,63,82001,63_82001,True,False,Commercial Cleaning,False
+6290,63,96799,63_96799,False,True,Commercial Cleaning,False
+6291,63,20001,63_20001,True,False,Commercial Cleaning,False
+6292,63,96941,63_96941,False,True,Commercial Cleaning,False
+6293,63,96910,63_96910,False,True,Commercial Cleaning,False
+6294,63,96912,63_96912,False,True,Commercial Cleaning,False
+6295,63,96960,63_96960,False,True,Commercial Cleaning,False
+6296,63,96950,63_96950,False,True,Commercial Cleaning,False
+6297,63,96939,63_96939,False,True,Commercial Cleaning,False
+6298,63,00901,63_00901,False,True,Commercial Cleaning,False
+6299,63,00802,63_00802,False,True,Commercial Cleaning,False
+6300,64,36104,64_36104,True,False,Concrete Installation,False
+6301,64,35210,64_35210,True,False,Concrete Installation,False
+6302,64,99801,64_99801,True,False,Concrete Installation,False
+6303,64,99501,64_99501,True,False,Concrete Installation,False
+6304,64,85001,64_85001,True,False,Concrete Installation,False
+6305,64,72201,64_72201,True,False,Concrete Installation,False
+6306,64,95814,64_95814,True,False,Concrete Installation,False
+6307,64,90013,64_90013,True,False,Concrete Installation,False
+6308,64,92101,64_92101,True,False,Concrete Installation,False
+6309,64,95112,64_95112,True,False,Concrete Installation,False
+6310,64,94108,64_94108,True,False,Concrete Installation,False
+6311,64,80202,64_80202,True,False,Concrete Installation,False
+6312,64,06103,64_06103,True,False,Concrete Installation,False
+6313,64,06604,64_06604,True,False,Concrete Installation,False
+6314,64,19901,64_19901,True,False,Concrete Installation,False
+6315,64,19850,64_19850,True,False,Concrete Installation,False
+6316,64,32301,64_32301,True,False,Concrete Installation,False
+6317,64,32202,64_32202,True,False,Concrete Installation,False
+6318,64,33132,64_33132,True,False,Concrete Installation,False
+6319,64,33602,64_33602,True,False,Concrete Installation,False
+6320,64,30303,64_30303,True,False,Concrete Installation,False
+6321,64,96813,64_96813,True,False,Concrete Installation,False
+6322,64,83702,64_83702,True,False,Concrete Installation,False
+6323,64,62701,64_62701,False,True,Concrete Installation,False
+6324,64,60176,64_60176,True,False,Concrete Installation,False
+6325,64,46225,64_46225,True,False,Concrete Installation,False
+6326,64,50309,64_50309,True,False,Concrete Installation,False
+6327,64,66603,64_66603,True,False,Concrete Installation,False
+6328,64,67052,64_67052,True,False,Concrete Installation,False
+6329,64,40601,64_40601,True,False,Concrete Installation,False
+6330,64,40507,64_40507,True,False,Concrete Installation,False
+6331,64,70802,64_70802,True,False,Concrete Installation,False
+6332,64,70114,64_70114,True,False,Concrete Installation,False
+6333,64,04330,64_04330,False,True,Concrete Installation,False
+6334,64,04101,64_04101,True,False,Concrete Installation,False
+6335,64,21401,64_21401,True,False,Concrete Installation,False
+6336,64,21202,64_21202,True,False,Concrete Installation,False
+6337,64,02201,64_02201,True,False,Concrete Installation,False
+6338,64,48933,64_48933,True,False,Concrete Installation,False
+6339,64,48226,64_48226,True,False,Concrete Installation,False
+6340,64,55102,64_55102,True,False,Concrete Installation,False
+6341,64,55404,64_55404,True,False,Concrete Installation,False
+6342,64,39205,64_39205,True,False,Concrete Installation,False
+6343,64,65101,64_65101,False,True,Concrete Installation,False
+6344,64,64105,64_64105,True,False,Concrete Installation,False
+6345,64,59623,64_59623,True,False,Concrete Installation,False
+6346,64,05101,64_05101,True,False,Concrete Installation,False
+6347,64,68502,64_68502,True,False,Concrete Installation,False
+6348,64,68102,64_68102,True,False,Concrete Installation,False
+6349,64,89701,64_89701,True,False,Concrete Installation,False
+6350,64,89101,64_89101,True,False,Concrete Installation,False
+6351,64,03301,64_03301,True,False,Concrete Installation,False
+6352,64,03108,64_03108,True,False,Concrete Installation,False
+6353,64,08608,64_08608,True,False,Concrete Installation,False
+6354,64,07102,64_07102,True,False,Concrete Installation,False
+6355,64,87501,64_87501,True,False,Concrete Installation,False
+6356,64,87102,64_87102,True,False,Concrete Installation,False
+6357,64,12207,64_12207,True,False,Concrete Installation,False
+6358,64,10007,64_10007,True,False,Concrete Installation,False
+6359,64,11021,64_11021,True,False,Concrete Installation,False
+6360,64,27601,64_27601,True,False,Concrete Installation,False
+6361,64,28105,64_28105,True,False,Concrete Installation,False
+6362,64,58501,64_58501,False,True,Concrete Installation,False
+6363,64,58102,64_58102,True,False,Concrete Installation,False
+6364,64,43215,64_43215,True,False,Concrete Installation,False
+6365,64,73102,64_73102,True,False,Concrete Installation,False
+6366,64,97301,64_97301,True,False,Concrete Installation,False
+6367,64,97201,64_97201,True,False,Concrete Installation,False
+6368,64,17101,64_17101,True,False,Concrete Installation,False
+6369,64,19103,64_19103,True,False,Concrete Installation,False
+6370,64,02903,64_02903,True,False,Concrete Installation,False
+6371,64,29217,64_29217,True,False,Concrete Installation,False
+6372,64,57501,64_57501,False,True,Concrete Installation,False
+6373,64,57103,64_57103,False,True,Concrete Installation,False
+6374,64,37219,64_37219,True,False,Concrete Installation,False
+6375,64,78701,64_78701,True,False,Concrete Installation,False
+6376,64,77002,64_77002,True,False,Concrete Installation,False
+6377,64,78207,64_78207,True,False,Concrete Installation,False
+6378,64,75207,64_75207,True,False,Concrete Installation,False
+6379,64,84111,64_84111,True,False,Concrete Installation,False
+6380,64,05602,64_05602,False,True,Concrete Installation,False
+6381,64,05401,64_05401,False,True,Concrete Installation,False
+6382,64,23219,64_23219,True,False,Concrete Installation,False
+6383,64,23454,64_23454,True,False,Concrete Installation,False
+6384,64,98507,64_98507,True,False,Concrete Installation,False
+6385,64,98105,64_98105,True,False,Concrete Installation,False
+6386,64,25301,64_25301,True,False,Concrete Installation,False
+6387,64,53703,64_53703,True,False,Concrete Installation,False
+6388,64,53205,64_53205,True,False,Concrete Installation,False
+6389,64,82001,64_82001,True,False,Concrete Installation,False
+6390,64,96799,64_96799,False,True,Concrete Installation,False
+6391,64,20001,64_20001,True,False,Concrete Installation,False
+6392,64,96941,64_96941,False,True,Concrete Installation,False
+6393,64,96910,64_96910,False,True,Concrete Installation,False
+6394,64,96912,64_96912,False,True,Concrete Installation,False
+6395,64,96960,64_96960,False,True,Concrete Installation,False
+6396,64,96950,64_96950,False,True,Concrete Installation,False
+6397,64,96939,64_96939,False,True,Concrete Installation,False
+6398,64,00901,64_00901,False,True,Concrete Installation,False
+6399,64,00802,64_00802,False,True,Concrete Installation,False
+6400,65,36104,65_36104,False,True,Concrete Removal,False
+6401,65,35210,65_35210,False,True,Concrete Removal,False
+6402,65,99801,65_99801,False,True,Concrete Removal,False
+6403,65,99501,65_99501,False,True,Concrete Removal,False
+6404,65,85001,65_85001,True,False,Concrete Removal,False
+6405,65,72201,65_72201,False,True,Concrete Removal,False
+6406,65,95814,65_95814,True,False,Concrete Removal,False
+6407,65,90013,65_90013,True,False,Concrete Removal,False
+6408,65,92101,65_92101,True,False,Concrete Removal,False
+6409,65,95112,65_95112,True,False,Concrete Removal,False
+6410,65,94108,65_94108,True,False,Concrete Removal,False
+6411,65,80202,65_80202,True,False,Concrete Removal,False
+6412,65,06103,65_06103,True,False,Concrete Removal,False
+6413,65,06604,65_06604,True,False,Concrete Removal,False
+6414,65,19901,65_19901,True,False,Concrete Removal,False
+6415,65,19850,65_19850,True,False,Concrete Removal,False
+6416,65,32301,65_32301,False,True,Concrete Removal,False
+6417,65,32202,65_32202,True,False,Concrete Removal,False
+6418,65,33132,65_33132,False,True,Concrete Removal,False
+6419,65,33602,65_33602,True,False,Concrete Removal,False
+6420,65,30303,65_30303,True,False,Concrete Removal,False
+6421,65,96813,65_96813,True,False,Concrete Removal,False
+6422,65,83702,65_83702,False,True,Concrete Removal,False
+6423,65,62701,65_62701,False,True,Concrete Removal,False
+6424,65,60176,65_60176,False,True,Concrete Removal,False
+6425,65,46225,65_46225,True,False,Concrete Removal,False
+6426,65,50309,65_50309,True,False,Concrete Removal,False
+6427,65,66603,65_66603,True,False,Concrete Removal,False
+6428,65,67052,65_67052,False,True,Concrete Removal,False
+6429,65,40601,65_40601,False,True,Concrete Removal,False
+6430,65,40507,65_40507,False,True,Concrete Removal,False
+6431,65,70802,65_70802,True,False,Concrete Removal,False
+6432,65,70114,65_70114,True,False,Concrete Removal,False
+6433,65,04330,65_04330,False,True,Concrete Removal,False
+6434,65,04101,65_04101,False,True,Concrete Removal,False
+6435,65,21401,65_21401,True,False,Concrete Removal,False
+6436,65,21202,65_21202,True,False,Concrete Removal,False
+6437,65,02201,65_02201,True,False,Concrete Removal,False
+6438,65,48933,65_48933,True,False,Concrete Removal,False
+6439,65,48226,65_48226,True,False,Concrete Removal,False
+6440,65,55102,65_55102,True,False,Concrete Removal,False
+6441,65,55404,65_55404,True,False,Concrete Removal,False
+6442,65,39205,65_39205,False,True,Concrete Removal,False
+6443,65,65101,65_65101,False,True,Concrete Removal,False
+6444,65,64105,65_64105,True,False,Concrete Removal,False
+6445,65,59623,65_59623,False,True,Concrete Removal,False
+6446,65,05101,65_05101,True,False,Concrete Removal,False
+6447,65,68502,65_68502,False,True,Concrete Removal,False
+6448,65,68102,65_68102,True,False,Concrete Removal,False
+6449,65,89701,65_89701,False,True,Concrete Removal,False
+6450,65,89101,65_89101,True,False,Concrete Removal,False
+6451,65,03301,65_03301,True,False,Concrete Removal,False
+6452,65,03108,65_03108,True,False,Concrete Removal,False
+6453,65,08608,65_08608,True,False,Concrete Removal,False
+6454,65,07102,65_07102,True,False,Concrete Removal,False
+6455,65,87501,65_87501,False,True,Concrete Removal,False
+6456,65,87102,65_87102,True,False,Concrete Removal,False
+6457,65,12207,65_12207,False,True,Concrete Removal,False
+6458,65,10007,65_10007,True,False,Concrete Removal,False
+6459,65,11021,65_11021,False,True,Concrete Removal,False
+6460,65,27601,65_27601,True,False,Concrete Removal,False
+6461,65,28105,65_28105,True,False,Concrete Removal,False
+6462,65,58501,65_58501,False,True,Concrete Removal,False
+6463,65,58102,65_58102,True,False,Concrete Removal,False
+6464,65,43215,65_43215,True,False,Concrete Removal,False
+6465,65,73102,65_73102,False,True,Concrete Removal,False
+6466,65,97301,65_97301,True,False,Concrete Removal,False
+6467,65,97201,65_97201,True,False,Concrete Removal,False
+6468,65,17101,65_17101,False,True,Concrete Removal,False
+6469,65,19103,65_19103,True,False,Concrete Removal,False
+6470,65,02903,65_02903,True,False,Concrete Removal,False
+6471,65,29217,65_29217,True,False,Concrete Removal,False
+6472,65,57501,65_57501,False,True,Concrete Removal,False
+6473,65,57103,65_57103,True,False,Concrete Removal,False
+6474,65,37219,65_37219,True,False,Concrete Removal,False
+6475,65,78701,65_78701,True,False,Concrete Removal,False
+6476,65,77002,65_77002,True,False,Concrete Removal,False
+6477,65,78207,65_78207,True,False,Concrete Removal,False
+6478,65,75207,65_75207,True,False,Concrete Removal,False
+6479,65,84111,65_84111,True,False,Concrete Removal,False
+6480,65,05602,65_05602,False,True,Concrete Removal,False
+6481,65,05401,65_05401,False,True,Concrete Removal,False
+6482,65,23219,65_23219,True,False,Concrete Removal,False
+6483,65,23454,65_23454,True,False,Concrete Removal,False
+6484,65,98507,65_98507,True,False,Concrete Removal,False
+6485,65,98105,65_98105,True,False,Concrete Removal,False
+6486,65,25301,65_25301,False,True,Concrete Removal,False
+6487,65,53703,65_53703,False,True,Concrete Removal,False
+6488,65,53205,65_53205,False,True,Concrete Removal,False
+6489,65,82001,65_82001,False,True,Concrete Removal,False
+6490,65,96799,65_96799,False,True,Concrete Removal,False
+6491,65,20001,65_20001,True,False,Concrete Removal,False
+6492,65,96941,65_96941,False,True,Concrete Removal,False
+6493,65,96910,65_96910,False,True,Concrete Removal,False
+6494,65,96912,65_96912,False,True,Concrete Removal,False
+6495,65,96960,65_96960,False,True,Concrete Removal,False
+6496,65,96950,65_96950,False,True,Concrete Removal,False
+6497,65,96939,65_96939,False,True,Concrete Removal,False
+6498,65,00901,65_00901,False,True,Concrete Removal,False
+6499,65,00802,65_00802,False,True,Concrete Removal,False
+6500,66,36104,66_36104,True,False,Concrete Repair and Maintenance,False
+6501,66,35210,66_35210,True,False,Concrete Repair and Maintenance,False
+6502,66,99801,66_99801,True,False,Concrete Repair and Maintenance,False
+6503,66,99501,66_99501,True,False,Concrete Repair and Maintenance,False
+6504,66,85001,66_85001,True,False,Concrete Repair and Maintenance,False
+6505,66,72201,66_72201,True,False,Concrete Repair and Maintenance,False
+6506,66,95814,66_95814,True,False,Concrete Repair and Maintenance,False
+6507,66,90013,66_90013,True,False,Concrete Repair and Maintenance,False
+6508,66,92101,66_92101,True,False,Concrete Repair and Maintenance,False
+6509,66,95112,66_95112,True,False,Concrete Repair and Maintenance,False
+6510,66,94108,66_94108,True,False,Concrete Repair and Maintenance,False
+6511,66,80202,66_80202,True,False,Concrete Repair and Maintenance,False
+6512,66,06103,66_06103,True,False,Concrete Repair and Maintenance,False
+6513,66,06604,66_06604,True,False,Concrete Repair and Maintenance,False
+6514,66,19901,66_19901,True,False,Concrete Repair and Maintenance,False
+6515,66,19850,66_19850,True,False,Concrete Repair and Maintenance,False
+6516,66,32301,66_32301,True,False,Concrete Repair and Maintenance,False
+6517,66,32202,66_32202,True,False,Concrete Repair and Maintenance,False
+6518,66,33132,66_33132,True,False,Concrete Repair and Maintenance,False
+6519,66,33602,66_33602,True,False,Concrete Repair and Maintenance,False
+6520,66,30303,66_30303,True,False,Concrete Repair and Maintenance,False
+6521,66,96813,66_96813,True,False,Concrete Repair and Maintenance,False
+6522,66,83702,66_83702,True,False,Concrete Repair and Maintenance,False
+6523,66,62701,66_62701,False,True,Concrete Repair and Maintenance,False
+6524,66,60176,66_60176,True,False,Concrete Repair and Maintenance,False
+6525,66,46225,66_46225,True,False,Concrete Repair and Maintenance,False
+6526,66,50309,66_50309,True,False,Concrete Repair and Maintenance,False
+6527,66,66603,66_66603,True,False,Concrete Repair and Maintenance,False
+6528,66,67052,66_67052,True,False,Concrete Repair and Maintenance,False
+6529,66,40601,66_40601,True,False,Concrete Repair and Maintenance,False
+6530,66,40507,66_40507,True,False,Concrete Repair and Maintenance,False
+6531,66,70802,66_70802,True,False,Concrete Repair and Maintenance,False
+6532,66,70114,66_70114,True,False,Concrete Repair and Maintenance,False
+6533,66,04330,66_04330,False,True,Concrete Repair and Maintenance,False
+6534,66,04101,66_04101,True,False,Concrete Repair and Maintenance,False
+6535,66,21401,66_21401,True,False,Concrete Repair and Maintenance,False
+6536,66,21202,66_21202,True,False,Concrete Repair and Maintenance,False
+6537,66,02201,66_02201,True,False,Concrete Repair and Maintenance,False
+6538,66,48933,66_48933,True,False,Concrete Repair and Maintenance,False
+6539,66,48226,66_48226,True,False,Concrete Repair and Maintenance,False
+6540,66,55102,66_55102,True,False,Concrete Repair and Maintenance,False
+6541,66,55404,66_55404,True,False,Concrete Repair and Maintenance,False
+6542,66,39205,66_39205,True,False,Concrete Repair and Maintenance,False
+6543,66,65101,66_65101,False,True,Concrete Repair and Maintenance,False
+6544,66,64105,66_64105,True,False,Concrete Repair and Maintenance,False
+6545,66,59623,66_59623,True,False,Concrete Repair and Maintenance,False
+6546,66,05101,66_05101,True,False,Concrete Repair and Maintenance,False
+6547,66,68502,66_68502,True,False,Concrete Repair and Maintenance,False
+6548,66,68102,66_68102,True,False,Concrete Repair and Maintenance,False
+6549,66,89701,66_89701,True,False,Concrete Repair and Maintenance,False
+6550,66,89101,66_89101,True,False,Concrete Repair and Maintenance,False
+6551,66,03301,66_03301,True,False,Concrete Repair and Maintenance,False
+6552,66,03108,66_03108,True,False,Concrete Repair and Maintenance,False
+6553,66,08608,66_08608,True,False,Concrete Repair and Maintenance,False
+6554,66,07102,66_07102,True,False,Concrete Repair and Maintenance,False
+6555,66,87501,66_87501,True,False,Concrete Repair and Maintenance,False
+6556,66,87102,66_87102,True,False,Concrete Repair and Maintenance,False
+6557,66,12207,66_12207,True,False,Concrete Repair and Maintenance,False
+6558,66,10007,66_10007,True,False,Concrete Repair and Maintenance,False
+6559,66,11021,66_11021,True,False,Concrete Repair and Maintenance,False
+6560,66,27601,66_27601,True,False,Concrete Repair and Maintenance,False
+6561,66,28105,66_28105,True,False,Concrete Repair and Maintenance,False
+6562,66,58501,66_58501,False,True,Concrete Repair and Maintenance,False
+6563,66,58102,66_58102,True,False,Concrete Repair and Maintenance,False
+6564,66,43215,66_43215,True,False,Concrete Repair and Maintenance,False
+6565,66,73102,66_73102,True,False,Concrete Repair and Maintenance,False
+6566,66,97301,66_97301,True,False,Concrete Repair and Maintenance,False
+6567,66,97201,66_97201,True,False,Concrete Repair and Maintenance,False
+6568,66,17101,66_17101,True,False,Concrete Repair and Maintenance,False
+6569,66,19103,66_19103,True,False,Concrete Repair and Maintenance,False
+6570,66,02903,66_02903,True,False,Concrete Repair and Maintenance,False
+6571,66,29217,66_29217,True,False,Concrete Repair and Maintenance,False
+6572,66,57501,66_57501,False,True,Concrete Repair and Maintenance,False
+6573,66,57103,66_57103,False,True,Concrete Repair and Maintenance,False
+6574,66,37219,66_37219,True,False,Concrete Repair and Maintenance,False
+6575,66,78701,66_78701,True,False,Concrete Repair and Maintenance,False
+6576,66,77002,66_77002,True,False,Concrete Repair and Maintenance,False
+6577,66,78207,66_78207,True,False,Concrete Repair and Maintenance,False
+6578,66,75207,66_75207,True,False,Concrete Repair and Maintenance,False
+6579,66,84111,66_84111,True,False,Concrete Repair and Maintenance,False
+6580,66,05602,66_05602,False,True,Concrete Repair and Maintenance,False
+6581,66,05401,66_05401,False,True,Concrete Repair and Maintenance,False
+6582,66,23219,66_23219,True,False,Concrete Repair and Maintenance,False
+6583,66,23454,66_23454,True,False,Concrete Repair and Maintenance,False
+6584,66,98507,66_98507,True,False,Concrete Repair and Maintenance,False
+6585,66,98105,66_98105,True,False,Concrete Repair and Maintenance,False
+6586,66,25301,66_25301,True,False,Concrete Repair and Maintenance,False
+6587,66,53703,66_53703,True,False,Concrete Repair and Maintenance,False
+6588,66,53205,66_53205,True,False,Concrete Repair and Maintenance,False
+6589,66,82001,66_82001,True,False,Concrete Repair and Maintenance,False
+6590,66,96799,66_96799,False,True,Concrete Repair and Maintenance,False
+6591,66,20001,66_20001,True,False,Concrete Repair and Maintenance,False
+6592,66,96941,66_96941,False,True,Concrete Repair and Maintenance,False
+6593,66,96910,66_96910,False,True,Concrete Repair and Maintenance,False
+6594,66,96912,66_96912,False,True,Concrete Repair and Maintenance,False
+6595,66,96960,66_96960,False,True,Concrete Repair and Maintenance,False
+6596,66,96950,66_96950,False,True,Concrete Repair and Maintenance,False
+6597,66,96939,66_96939,False,True,Concrete Repair and Maintenance,False
+6598,66,00901,66_00901,False,True,Concrete Repair and Maintenance,False
+6599,66,00802,66_00802,False,True,Concrete Repair and Maintenance,False
+6600,67,36104,67_36104,True,False,Construction Services,False
+6601,67,35210,67_35210,True,False,Construction Services,False
+6602,67,99801,67_99801,True,False,Construction Services,False
+6603,67,99501,67_99501,True,False,Construction Services,False
+6604,67,85001,67_85001,True,False,Construction Services,False
+6605,67,72201,67_72201,True,False,Construction Services,False
+6606,67,95814,67_95814,True,False,Construction Services,False
+6607,67,90013,67_90013,True,False,Construction Services,False
+6608,67,92101,67_92101,True,False,Construction Services,False
+6609,67,95112,67_95112,True,False,Construction Services,False
+6610,67,94108,67_94108,True,False,Construction Services,False
+6611,67,80202,67_80202,True,False,Construction Services,False
+6612,67,06103,67_06103,True,False,Construction Services,False
+6613,67,06604,67_06604,True,False,Construction Services,False
+6614,67,19901,67_19901,False,True,Construction Services,False
+6615,67,19850,67_19850,True,False,Construction Services,False
+6616,67,32301,67_32301,True,False,Construction Services,False
+6617,67,32202,67_32202,True,False,Construction Services,False
+6618,67,33132,67_33132,True,False,Construction Services,False
+6619,67,33602,67_33602,True,False,Construction Services,False
+6620,67,30303,67_30303,True,False,Construction Services,False
+6621,67,96813,67_96813,True,False,Construction Services,False
+6622,67,83702,67_83702,True,False,Construction Services,False
+6623,67,62701,67_62701,True,False,Construction Services,False
+6624,67,60176,67_60176,True,False,Construction Services,False
+6625,67,46225,67_46225,True,False,Construction Services,False
+6626,67,50309,67_50309,True,False,Construction Services,False
+6627,67,66603,67_66603,True,False,Construction Services,False
+6628,67,67052,67_67052,False,True,Construction Services,False
+6629,67,40601,67_40601,True,False,Construction Services,False
+6630,67,40507,67_40507,True,False,Construction Services,False
+6631,67,70802,67_70802,True,False,Construction Services,False
+6632,67,70114,67_70114,True,False,Construction Services,False
+6633,67,04330,67_04330,True,False,Construction Services,False
+6634,67,04101,67_04101,False,True,Construction Services,False
+6635,67,21401,67_21401,True,False,Construction Services,False
+6636,67,21202,67_21202,True,False,Construction Services,False
+6637,67,02201,67_02201,True,False,Construction Services,False
+6638,67,48933,67_48933,False,True,Construction Services,False
+6639,67,48226,67_48226,True,False,Construction Services,False
+6640,67,55102,67_55102,True,False,Construction Services,False
+6641,67,55404,67_55404,True,False,Construction Services,False
+6642,67,39205,67_39205,True,False,Construction Services,False
+6643,67,65101,67_65101,False,True,Construction Services,False
+6644,67,64105,67_64105,True,False,Construction Services,False
+6645,67,59623,67_59623,False,True,Construction Services,False
+6646,67,05101,67_05101,True,False,Construction Services,False
+6647,67,68502,67_68502,False,True,Construction Services,False
+6648,67,68102,67_68102,True,False,Construction Services,False
+6649,67,89701,67_89701,True,False,Construction Services,False
+6650,67,89101,67_89101,True,False,Construction Services,False
+6651,67,03301,67_03301,True,False,Construction Services,False
+6652,67,03108,67_03108,True,False,Construction Services,False
+6653,67,08608,67_08608,True,False,Construction Services,False
+6654,67,07102,67_07102,True,False,Construction Services,False
+6655,67,87501,67_87501,True,False,Construction Services,False
+6656,67,87102,67_87102,True,False,Construction Services,False
+6657,67,12207,67_12207,True,False,Construction Services,False
+6658,67,10007,67_10007,True,False,Construction Services,False
+6659,67,11021,67_11021,True,False,Construction Services,False
+6660,67,27601,67_27601,True,False,Construction Services,False
+6661,67,28105,67_28105,True,False,Construction Services,False
+6662,67,58501,67_58501,False,True,Construction Services,False
+6663,67,58102,67_58102,True,False,Construction Services,False
+6664,67,43215,67_43215,True,False,Construction Services,False
+6665,67,73102,67_73102,True,False,Construction Services,False
+6666,67,97301,67_97301,True,False,Construction Services,False
+6667,67,97201,67_97201,True,False,Construction Services,False
+6668,67,17101,67_17101,True,False,Construction Services,False
+6669,67,19103,67_19103,True,False,Construction Services,False
+6670,67,02903,67_02903,True,False,Construction Services,False
+6671,67,29217,67_29217,True,False,Construction Services,False
+6672,67,57501,67_57501,False,True,Construction Services,False
+6673,67,57103,67_57103,True,False,Construction Services,False
+6674,67,37219,67_37219,True,False,Construction Services,False
+6675,67,78701,67_78701,True,False,Construction Services,False
+6676,67,77002,67_77002,True,False,Construction Services,False
+6677,67,78207,67_78207,True,False,Construction Services,False
+6678,67,75207,67_75207,True,False,Construction Services,False
+6679,67,84111,67_84111,True,False,Construction Services,False
+6680,67,05602,67_05602,True,False,Construction Services,False
+6681,67,05401,67_05401,True,False,Construction Services,False
+6682,67,23219,67_23219,False,True,Construction Services,False
+6683,67,23454,67_23454,True,False,Construction Services,False
+6684,67,98507,67_98507,True,False,Construction Services,False
+6685,67,98105,67_98105,True,False,Construction Services,False
+6686,67,25301,67_25301,True,False,Construction Services,False
+6687,67,53703,67_53703,False,True,Construction Services,False
+6688,67,53205,67_53205,True,False,Construction Services,False
+6689,67,82001,67_82001,False,True,Construction Services,False
+6690,67,96799,67_96799,False,True,Construction Services,False
+6691,67,20001,67_20001,True,False,Construction Services,False
+6692,67,96941,67_96941,False,True,Construction Services,False
+6693,67,96910,67_96910,False,True,Construction Services,False
+6694,67,96912,67_96912,False,True,Construction Services,False
+6695,67,96960,67_96960,False,True,Construction Services,False
+6696,67,96950,67_96950,False,True,Construction Services,False
+6697,67,96939,67_96939,False,True,Construction Services,False
+6698,67,00901,67_00901,False,True,Construction Services,False
+6699,67,00802,67_00802,False,True,Construction Services,False
 6700,68,36104,68_36104,False,False,Countertop Installation,True
 6701,68,35210,68_35210,False,False,Countertop Installation,True
-6702,68,99801,68_99801,False,False,Countertop Installation,True
+6702,68,99801,68_99801,False,True,Countertop Installation,False
 6703,68,99501,68_99501,False,False,Countertop Installation,True
 6704,68,85001,68_85001,False,False,Countertop Installation,True
 6705,68,72201,68_72201,False,False,Countertop Installation,True
@@ -6761,7 +6761,7 @@
 6759,68,11021,68_11021,False,False,Countertop Installation,True
 6760,68,27601,68_27601,False,False,Countertop Installation,True
 6761,68,28105,68_28105,False,False,Countertop Installation,True
-6762,68,58501,68_58501,False,False,Countertop Installation,True
+6762,68,58501,68_58501,False,True,Countertop Installation,False
 6763,68,58102,68_58102,False,False,Countertop Installation,True
 6764,68,43215,68_43215,False,False,Countertop Installation,True
 6765,68,73102,68_73102,False,False,Countertop Installation,True
@@ -6771,7 +6771,7 @@
 6769,68,19103,68_19103,False,False,Countertop Installation,True
 6770,68,02903,68_02903,False,False,Countertop Installation,True
 6771,68,29217,68_29217,False,False,Countertop Installation,True
-6772,68,57501,68_57501,False,False,Countertop Installation,True
+6772,68,57501,68_57501,False,True,Countertop Installation,False
 6773,68,57103,68_57103,False,False,Countertop Installation,True
 6774,68,37219,68_37219,False,False,Countertop Installation,True
 6775,68,78701,68_78701,False,False,Countertop Installation,True
@@ -6789,16 +6789,16 @@
 6787,68,53703,68_53703,False,False,Countertop Installation,True
 6788,68,53205,68_53205,False,False,Countertop Installation,True
 6789,68,82001,68_82001,False,False,Countertop Installation,True
-6790,68,96799,68_96799,False,False,Countertop Installation,True
+6790,68,96799,68_96799,False,True,Countertop Installation,False
 6791,68,20001,68_20001,False,False,Countertop Installation,True
-6792,68,96941,68_96941,False,False,Countertop Installation,True
-6793,68,96910,68_96910,False,False,Countertop Installation,True
-6794,68,96912,68_96912,False,False,Countertop Installation,True
-6795,68,96960,68_96960,False,False,Countertop Installation,True
-6796,68,96950,68_96950,False,False,Countertop Installation,True
-6797,68,96939,68_96939,False,False,Countertop Installation,True
-6798,68,00901,68_00901,False,False,Countertop Installation,True
-6799,68,00802,68_00802,False,False,Countertop Installation,True
+6792,68,96941,68_96941,False,True,Countertop Installation,False
+6793,68,96910,68_96910,False,True,Countertop Installation,False
+6794,68,96912,68_96912,False,True,Countertop Installation,False
+6795,68,96960,68_96960,False,True,Countertop Installation,False
+6796,68,96950,68_96950,False,True,Countertop Installation,False
+6797,68,96939,68_96939,False,True,Countertop Installation,False
+6798,68,00901,68_00901,False,True,Countertop Installation,False
+6799,68,00802,68_00802,False,True,Countertop Installation,False
 6800,69,36104,69_36104,False,False,Countertop Repair or Maintenance,True
 6801,69,35210,69_35210,False,False,Countertop Repair or Maintenance,True
 6802,69,99801,69_99801,False,False,Countertop Repair or Maintenance,True
