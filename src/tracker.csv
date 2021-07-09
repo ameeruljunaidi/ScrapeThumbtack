@@ -17103,27 +17103,27 @@
 17101,178,35210,178_35210,True,False,Paint Removal,False
 17102,178,99801,178_99801,False,True,Paint Removal,False
 17103,178,99501,178_99501,False,True,Paint Removal,False
-17104,178,85001,178_85001,False,False,Paint Removal,True
+17104,178,85001,178_85001,False,True,Paint Removal,False
 17105,178,72201,178_72201,True,False,Paint Removal,False
-17106,178,95814,178_95814,False,False,Paint Removal,True
-17107,178,90013,178_90013,False,False,Paint Removal,True
-17108,178,92101,178_92101,False,False,Paint Removal,True
-17109,178,95112,178_95112,False,False,Paint Removal,True
-17110,178,94108,178_94108,False,False,Paint Removal,True
-17111,178,80202,178_80202,False,False,Paint Removal,True
-17112,178,06103,178_06103,False,False,Paint Removal,True
-17113,178,06604,178_06604,False,False,Paint Removal,True
-17114,178,19901,178_19901,False,False,Paint Removal,True
-17115,178,19850,178_19850,False,False,Paint Removal,True
+17106,178,95814,178_95814,True,False,Paint Removal,False
+17107,178,90013,178_90013,True,False,Paint Removal,False
+17108,178,92101,178_92101,False,True,Paint Removal,False
+17109,178,95112,178_95112,True,False,Paint Removal,False
+17110,178,94108,178_94108,True,False,Paint Removal,False
+17111,178,80202,178_80202,True,False,Paint Removal,False
+17112,178,06103,178_06103,True,False,Paint Removal,False
+17113,178,06604,178_06604,False,True,Paint Removal,False
+17114,178,19901,178_19901,False,True,Paint Removal,False
+17115,178,19850,178_19850,True,False,Paint Removal,False
 17116,178,32301,178_32301,True,False,Paint Removal,False
-17117,178,32202,178_32202,False,False,Paint Removal,True
-17118,178,33132,178_33132,False,False,Paint Removal,True
-17119,178,33602,178_33602,False,False,Paint Removal,True
-17120,178,30303,178_30303,False,False,Paint Removal,True
+17117,178,32202,178_32202,True,False,Paint Removal,False
+17118,178,33132,178_33132,True,False,Paint Removal,False
+17119,178,33602,178_33602,True,False,Paint Removal,False
+17120,178,30303,178_30303,False,True,Paint Removal,False
 17121,178,96813,178_96813,True,False,Paint Removal,False
 17122,178,83702,178_83702,False,True,Paint Removal,False
 17123,178,62701,178_62701,True,False,Paint Removal,False
-17124,178,60176,178_60176,False,False,Paint Removal,True
+17124,178,60176,178_60176,False,True,Paint Removal,False
 17125,178,46225,178_46225,False,True,Paint Removal,False
 17126,178,50309,178_50309,False,True,Paint Removal,False
 17127,178,66603,178_66603,False,True,Paint Removal,False
@@ -17134,63 +17134,63 @@
 17132,178,70114,178_70114,True,False,Paint Removal,False
 17133,178,04330,178_04330,True,False,Paint Removal,False
 17134,178,04101,178_04101,False,True,Paint Removal,False
-17135,178,21401,178_21401,False,False,Paint Removal,True
-17136,178,21202,178_21202,False,False,Paint Removal,True
-17137,178,02201,178_02201,False,False,Paint Removal,True
+17135,178,21401,178_21401,False,True,Paint Removal,False
+17136,178,21202,178_21202,False,True,Paint Removal,False
+17137,178,02201,178_02201,True,False,Paint Removal,False
 17138,178,48933,178_48933,True,False,Paint Removal,False
-17139,178,48226,178_48226,False,False,Paint Removal,True
-17140,178,55102,178_55102,False,False,Paint Removal,True
-17141,178,55404,178_55404,False,False,Paint Removal,True
+17139,178,48226,178_48226,False,True,Paint Removal,False
+17140,178,55102,178_55102,True,False,Paint Removal,False
+17141,178,55404,178_55404,True,False,Paint Removal,False
 17142,178,39205,178_39205,True,False,Paint Removal,False
 17143,178,65101,178_65101,True,False,Paint Removal,False
-17144,178,64105,178_64105,False,False,Paint Removal,True
+17144,178,64105,178_64105,False,True,Paint Removal,False
 17145,178,59623,178_59623,False,True,Paint Removal,False
 17146,178,05101,178_05101,True,False,Paint Removal,False
 17147,178,68502,178_68502,True,False,Paint Removal,False
-17148,178,68102,178_68102,False,False,Paint Removal,True
-17149,178,89701,178_89701,False,False,Paint Removal,True
-17150,178,89101,178_89101,False,False,Paint Removal,True
+17148,178,68102,178_68102,True,False,Paint Removal,False
+17149,178,89701,178_89701,False,True,Paint Removal,False
+17150,178,89101,178_89101,False,True,Paint Removal,False
 17151,178,03301,178_03301,False,True,Paint Removal,False
-17152,178,03108,178_03108,False,False,Paint Removal,True
-17153,178,08608,178_08608,False,False,Paint Removal,True
-17154,178,07102,178_07102,False,False,Paint Removal,True
+17152,178,03108,178_03108,True,False,Paint Removal,False
+17153,178,08608,178_08608,True,False,Paint Removal,False
+17154,178,07102,178_07102,False,True,Paint Removal,False
 17155,178,87501,178_87501,False,True,Paint Removal,False
 17156,178,87102,178_87102,False,True,Paint Removal,False
-17157,178,12207,178_12207,False,False,Paint Removal,True
+17157,178,12207,178_12207,False,True,Paint Removal,False
 17158,178,10007,178_10007,True,False,Paint Removal,False
 17159,178,11021,178_11021,True,False,Paint Removal,False
 17160,178,27601,178_27601,True,False,Paint Removal,False
 17161,178,28105,178_28105,True,False,Paint Removal,False
 17162,178,58501,178_58501,False,True,Paint Removal,False
 17163,178,58102,178_58102,False,True,Paint Removal,False
-17164,178,43215,178_43215,False,False,Paint Removal,True
+17164,178,43215,178_43215,True,False,Paint Removal,False
 17165,178,73102,178_73102,True,False,Paint Removal,False
 17166,178,97301,178_97301,True,False,Paint Removal,False
-17167,178,97201,178_97201,False,False,Paint Removal,True
+17167,178,97201,178_97201,True,False,Paint Removal,False
 17168,178,17101,178_17101,True,False,Paint Removal,False
-17169,178,19103,178_19103,False,False,Paint Removal,True
-17170,178,02903,178_02903,False,False,Paint Removal,True
+17169,178,19103,178_19103,True,False,Paint Removal,False
+17170,178,02903,178_02903,True,False,Paint Removal,False
 17171,178,29217,178_29217,False,True,Paint Removal,False
 17172,178,57501,178_57501,False,True,Paint Removal,False
 17173,178,57103,178_57103,False,True,Paint Removal,False
-17174,178,37219,178_37219,False,False,Paint Removal,True
-17175,178,78701,178_78701,False,False,Paint Removal,True
-17176,178,77002,178_77002,False,False,Paint Removal,True
-17177,178,78207,178_78207,False,False,Paint Removal,True
-17178,178,75207,178_75207,False,False,Paint Removal,True
-17179,178,84111,178_84111,False,False,Paint Removal,True
+17174,178,37219,178_37219,False,True,Paint Removal,False
+17175,178,78701,178_78701,True,False,Paint Removal,False
+17176,178,77002,178_77002,True,False,Paint Removal,False
+17177,178,78207,178_78207,False,True,Paint Removal,False
+17178,178,75207,178_75207,True,False,Paint Removal,False
+17179,178,84111,178_84111,True,False,Paint Removal,False
 17180,178,05602,178_05602,False,True,Paint Removal,False
 17181,178,05401,178_05401,False,True,Paint Removal,False
-17182,178,23219,178_23219,False,False,Paint Removal,True
-17183,178,23454,178_23454,False,False,Paint Removal,True
-17184,178,98507,178_98507,False,False,Paint Removal,True
-17185,178,98105,178_98105,False,False,Paint Removal,True
+17182,178,23219,178_23219,False,True,Paint Removal,False
+17183,178,23454,178_23454,True,False,Paint Removal,False
+17184,178,98507,178_98507,True,False,Paint Removal,False
+17185,178,98105,178_98105,True,False,Paint Removal,False
 17186,178,25301,178_25301,False,True,Paint Removal,False
-17187,178,53703,178_53703,False,False,Paint Removal,True
-17188,178,53205,178_53205,False,False,Paint Removal,True
+17187,178,53703,178_53703,False,True,Paint Removal,False
+17188,178,53205,178_53205,True,False,Paint Removal,False
 17189,178,82001,178_82001,False,True,Paint Removal,False
 17190,178,96799,178_96799,False,True,Paint Removal,False
-17191,178,20001,178_20001,False,False,Paint Removal,True
+17191,178,20001,178_20001,False,True,Paint Removal,False
 17192,178,96941,178_96941,False,True,Paint Removal,False
 17193,178,96910,178_96910,False,True,Paint Removal,False
 17194,178,96912,178_96912,False,True,Paint Removal,False
@@ -17201,7 +17201,7 @@
 17199,178,00802,178_00802,False,True,Paint Removal,False
 17200,179,36104,179_36104,False,False,Patio Cover and Awning Services,True
 17201,179,35210,179_35210,False,False,Patio Cover and Awning Services,True
-17202,179,99801,179_99801,False,False,Patio Cover and Awning Services,True
+17202,179,99801,179_99801,False,True,Patio Cover and Awning Services,False
 17203,179,99501,179_99501,False,False,Patio Cover and Awning Services,True
 17204,179,85001,179_85001,False,False,Patio Cover and Awning Services,True
 17205,179,72201,179_72201,False,False,Patio Cover and Awning Services,True
@@ -17261,7 +17261,7 @@
 17259,179,11021,179_11021,False,False,Patio Cover and Awning Services,True
 17260,179,27601,179_27601,False,False,Patio Cover and Awning Services,True
 17261,179,28105,179_28105,False,False,Patio Cover and Awning Services,True
-17262,179,58501,179_58501,False,False,Patio Cover and Awning Services,True
+17262,179,58501,179_58501,False,True,Patio Cover and Awning Services,False
 17263,179,58102,179_58102,False,False,Patio Cover and Awning Services,True
 17264,179,43215,179_43215,False,False,Patio Cover and Awning Services,True
 17265,179,73102,179_73102,False,False,Patio Cover and Awning Services,True
@@ -17271,7 +17271,7 @@
 17269,179,19103,179_19103,False,False,Patio Cover and Awning Services,True
 17270,179,02903,179_02903,False,False,Patio Cover and Awning Services,True
 17271,179,29217,179_29217,False,False,Patio Cover and Awning Services,True
-17272,179,57501,179_57501,False,False,Patio Cover and Awning Services,True
+17272,179,57501,179_57501,False,True,Patio Cover and Awning Services,False
 17273,179,57103,179_57103,False,False,Patio Cover and Awning Services,True
 17274,179,37219,179_37219,False,False,Patio Cover and Awning Services,True
 17275,179,78701,179_78701,False,False,Patio Cover and Awning Services,True
@@ -17289,10 +17289,10 @@
 17287,179,53703,179_53703,False,False,Patio Cover and Awning Services,True
 17288,179,53205,179_53205,False,False,Patio Cover and Awning Services,True
 17289,179,82001,179_82001,False,False,Patio Cover and Awning Services,True
-17290,179,96799,179_96799,False,False,Patio Cover and Awning Services,True
+17290,179,96799,179_96799,False,True,Patio Cover and Awning Services,False
 17291,179,20001,179_20001,False,False,Patio Cover and Awning Services,True
-17292,179,96941,179_96941,False,False,Patio Cover and Awning Services,True
-17293,179,96910,179_96910,False,False,Patio Cover and Awning Services,True
+17292,179,96941,179_96941,False,True,Patio Cover and Awning Services,False
+17293,179,96910,179_96910,False,True,Patio Cover and Awning Services,False
 17294,179,96912,179_96912,False,False,Patio Cover and Awning Services,True
 17295,179,96960,179_96960,False,False,Patio Cover and Awning Services,True
 17296,179,96950,179_96950,False,False,Patio Cover and Awning Services,True
