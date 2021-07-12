@@ -56,7 +56,7 @@ dfAllServices.to_csv("src/tracker.csv")
 
 percentageDone = "{:.2%}".format(
     dfAllServices[dfAllServices["To Do"] == False]["To Do"].count()
-    / dfAllServices[dfAllServices["To Do"] == True]["To Do"].count()
+    / dfAllServices["To Do"].count()
 )
 
 print(f"Percent Done: {percentageDone}")
